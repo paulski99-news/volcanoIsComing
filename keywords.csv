@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.4253506361646441
 'volcano damage',en,Impacts,#a89216,#87830f,3,0.4134622975330887
+'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.3767100368510586
 'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.3197566264980543
 'volcano death',en,Impacts,#a89216,#87830f,2,0.3164196417148749
 'volcano tektonic',en,Causes,#679e2c,#477515,1,0.3162052859374999
