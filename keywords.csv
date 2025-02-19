@@ -1,32 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.4657213333580128
-'Hasel',de,Winter,#4287f5,#537ee4,2,0.4137981856999999
-'Holunderbeere',de,Herbst,#9e3215,#e63128,2,0.369764047799375
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.36140002775
-'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.3612499999999999
-'Erle',de,Winter,#4287f5,#537ef4,1,0.3560377407064755
-'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.3544469337180587
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.3499656860617897
-'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.3235932357710736
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.31320375
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.3092828087
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.3070624999999999
-'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.3070624999999999
-'Eicheln',de,Herbst,#9e3215,#f64118,1,0.27829672154625
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.2610031249999999
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.2218526562499999
-'Winter',de,Winter,#4287f5,#315fa8,3,0.2189385035331851
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.2168451902287531
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.190460095296019
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1900342612104929
-'Sommer',de,Sommer,#a89216,#a89216,3,0.1690880656051866
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.1629312576955226
-'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1017841840171942
-'Pollen',de,Frühling,#679e2c,#61d01c,2,0.0945643403702688
-'Herbst',de,Herbst,#9e3215,#9e3215,3,0.0900153728242976
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.0892379332016341
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0587729850512838
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0536883006303554
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0410842878526695
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0110591991525888
+'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.4253506361646441
+'volcano damage',en,Impacts,#a89216,#87830f,3,0.4134622975330887
+'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.3197566264980543
+'volcano death',en,Impacts,#a89216,#87830f,2,0.3164196417148749
+'volcano tektonic',en,Causes,#679e2c,#477515,1,0.3162052859374999
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.3122704676269971
+'ash volcano',en,Hazard,#4287f5,#638ed4,1,0.29919028281637
+'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.2534205116889079
+'volcano epicenter',en,Hazard,#4287f5,#3b4a63,2,0.2453757366781597
+'volcano victims',en,Impacts,#a89216,#87830f,1,0.2348456390048254
+'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.2153516475575916
+'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.2146704518301321
