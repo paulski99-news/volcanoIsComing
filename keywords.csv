@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano damage',en,Impacts,#a89216,#87830f,3,0.2653192796509261
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,2,0.2471343454192486
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.2453757366781597
-'volcanic spewing',en,Hazard,#4287f5,#3b4a63,2,0.2453757366781597
+'volcanic spewing',en,Hazard,#4287f5,#3b4a63,2,0.23359649425335882
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.2157074649355717
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.2153516475575916
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.2118690331541016
