@@ -1,5 +1,34 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Kilauea volcano,Kilauea volcano,PER,0.0,0.0,en,4
+Kilauea volcano,Kilauea volcano,PER,0.0,0.0,en,10
+Mount Spurr,Mount Spurr,PER,0.0,0.0,en,4
+Tamsin Mather,Tamsin Mather,PER,0.0,0.0,en,4
+Donato Sermeno III,Donato Sermeno III,PER,0.0,0.0,en,3
+Antonia Bornas,Antonia Bornas,PER,0.0,0.0,en,2
+Mile-wide volcano,Mile-wide volcano,PER,0.0,0.0,en,2
+Mayor Javier Miguel Benitez disclosed recently,Mayor Javier Miguel Benitez disclosed recently,PER,0.0,0.0,en,2
+Dalton Trans,Dalton Trans,PER,0.0,0.0,en,2
+fiery accents,fiery accents,PER,0.0,0.0,en,2
+Liza Lester,Liza Lester,PER,0.0,0.0,en,1
+Kilauea volcano is shooting lava,Kilauea volcano is shooting lava,PER,0.0,0.0,en,1
+Ian Lee Ananoria,Ian Lee Ananoria,PER,0.0,0.0,en,1
 Connor Morpurgo,Connor Morpurgo,PER,0.0,0.0,en,1
-Francisco Chronicle,Francisco Chronicle,PER,0.0,0.0,en,1
+Volcano Eruptions,Volcano Eruptions,PER,0.0,0.0,en,1
+astrology explains recent,astrology explains recent,PER,0.0,0.0,en,1
+Teresa Ubide,Teresa Ubide,PER,0.7,0.0,en,1
+hour later,hour later,PER,0.0,0.0,en,1
+Raul Fernandez,Raul Fernandez,PER,0.0,0.0,en,1
+Raul Fernand,Raul Fernand,PER,0.0,0.0,en,1
+volcano eruptions,volcano eruptions,PER,0.0,0.0,en,1
 Fisch Roslit Bay Timer Guide,Fisch Roslit Bay Timer Guide,PER,0.0,0.0,en,1
+less likely,less likely,PER,0.0,0.0,en,1
+Francisco Chronicle,Francisco Chronicle,PER,0.0,0.0,en,1
+Epicenter located southwest of Arkesini,Epicenter located southwest of Arkesini,PER,0.0,0.0,en,1
+Dina Genzola,Dina Genzola,PER,0.0,0.0,en,1
+Underwater Volcano Inflating,Underwater Volcano Inflating,PER,0.0,0.0,en,1
+Christopher Plain,Christopher Plain,PER,0.0,0.0,en,1
+Yanhong Ma,Yanhong Ma,PER,0.0,0.0,en,1
+tucked underneath a submerged,tucked underneath a submerged,PER,0.0,0.0,en,1
+Underwater volcano off Oregon Coast could erupt by,Underwater volcano off Oregon Coast could erupt by,PER,0.0,0.0,en,1
+Donato Sermeno,Donato Sermeno,PER,0.0,0.0,en,1
+Amanuel Sileshi,Amanuel Sileshi,PER,0.0,0.0,en,1
+Theres something,Theres something,PER,0.0,0.0,en,1
