@@ -1,34 +1,63 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Kilauea volcano,Kilauea volcano,PER,0.0,0.0,en,10
-Mount Spurr,Mount Spurr,PER,0.0,0.0,en,4
+Kilauea volcano,Kilauea volcano,PER,0.0,0.0,en,11
 Tamsin Mather,Tamsin Mather,PER,0.0,0.0,en,4
+island volcano,island volcano,PER,0.0,0.0,en,4
+Mount Spurr,Mount Spurr,PER,0.0,0.0,en,4
 Donato Sermeno III,Donato Sermeno III,PER,0.0,0.0,en,3
+Vesuvius Volcano Ash Cloud,Vesuvius Volcano Ash Cloud,PER,0.0,0.0,en,2
 Antonia Bornas,Antonia Bornas,PER,0.0,0.0,en,2
+fiery accents,fiery accents,PER,0.0,0.0,en,2
+Mauna Loa,Mauna Loa,PER,0.35,0.0,en,2
 Mile-wide volcano,Mile-wide volcano,PER,0.0,0.0,en,2
+Kilauea volcano is shooting lava,Kilauea volcano is shooting lava,PER,0.0,0.0,en,2
 Mayor Javier Miguel Benitez disclosed recently,Mayor Javier Miguel Benitez disclosed recently,PER,0.0,0.0,en,2
 Dalton Trans,Dalton Trans,PER,0.0,0.0,en,2
-fiery accents,fiery accents,PER,0.0,0.0,en,2
-Liza Lester,Liza Lester,PER,0.0,0.0,en,1
-Kilauea volcano is shooting lava,Kilauea volcano is shooting lava,PER,0.0,0.0,en,1
-Ian Lee Ananoria,Ian Lee Ananoria,PER,0.0,0.0,en,1
+Eurasian badger,Eurasian badger,PER,1.0,0.0,en,2
+Marco Bassot,Marco Bassot,PER,0.0,0.0,en,1
+Etna Erupts,Etna Erupts,PER,0.0,0.0,en,1
 Connor Morpurgo,Connor Morpurgo,PER,0.0,0.0,en,1
-Volcano Eruptions,Volcano Eruptions,PER,0.0,0.0,en,1
-astrology explains recent,astrology explains recent,PER,0.0,0.0,en,1
-Teresa Ubide,Teresa Ubide,PER,0.7,0.0,en,1
+Caribbean waters,Caribbean waters,PER,0.0,0.0,en,1
+Ian Greenwood,Ian Greenwood,PER,0.0,0.0,en,1
+thick jungles,thick jungles,PER,0.0,0.0,en,1
 hour later,hour later,PER,0.0,0.0,en,1
+a snowboarder,a snowboarder,PER,0.0,0.0,en,1
+unique jewelry,unique jewelry,PER,0.0,0.0,en,1
 Raul Fernandez,Raul Fernandez,PER,0.0,0.0,en,1
 Raul Fernand,Raul Fernand,PER,0.0,0.0,en,1
-volcano eruptions,volcano eruptions,PER,0.0,0.0,en,1
-Fisch Roslit Bay Timer Guide,Fisch Roslit Bay Timer Guide,PER,0.0,0.0,en,1
-less likely,less likely,PER,0.0,0.0,en,1
-Francisco Chronicle,Francisco Chronicle,PER,0.0,0.0,en,1
-Epicenter located southwest of Arkesini,Epicenter located southwest of Arkesini,PER,0.0,0.0,en,1
-Dina Genzola,Dina Genzola,PER,0.0,0.0,en,1
-Underwater Volcano Inflating,Underwater Volcano Inflating,PER,0.0,0.0,en,1
-Christopher Plain,Christopher Plain,PER,0.0,0.0,en,1
-Yanhong Ma,Yanhong Ma,PER,0.0,0.0,en,1
-tucked underneath a submerged,tucked underneath a submerged,PER,0.0,0.0,en,1
-Underwater volcano off Oregon Coast could erupt by,Underwater volcano off Oregon Coast could erupt by,PER,0.0,0.0,en,1
-Donato Sermeno,Donato Sermeno,PER,0.0,0.0,en,1
-Amanuel Sileshi,Amanuel Sileshi,PER,0.0,0.0,en,1
 Theres something,Theres something,PER,0.0,0.0,en,1
+astrology explains recent,astrology explains recent,PER,0.0,0.0,en,1
+Naked youths,Naked youths,PER,0.0,0.0,en,1
+imposing bare-chested,imposing bare-chested,PER,0.0,0.0,en,1
+Omayra Sánchez Garzón tragically died after,Omayra Sánchez Garzón tragically died after,PER,0.0,0.0,en,1
+Justice Moore,Justice Moore,PER,0.0,0.0,en,1
+Whakaari White Island volcano owners cleared over deadly eruption,Whakaari White Island volcano owners cleared over deadly eruption,PER,0.0,0.0,en,1
+The volcano,The volcano,PER,0.0,0.0,en,1
+Twenty-two people died and others were badly,Twenty-two people died and others were badly,PER,0.0,0.0,en,1
+Kathryn Armstrong,Kathryn Armstrong,PER,-0.7,0.0,en,1
+volcano eruptions,volcano eruptions,PER,0.0,0.0,en,1
+Liza Lester,Liza Lester,PER,0.0,0.0,en,1
+Volcano Eruptions,Volcano Eruptions,PER,0.0,0.0,en,1
+Underwater volcano off the coast of,Underwater volcano off the coast of,PER,0.0,0.0,en,1
+Amanuel Sileshi,Amanuel Sileshi,PER,0.0,0.0,en,1
+Donato Sermeno,Donato Sermeno,PER,0.0,0.0,en,1
+Underwater volcano off Oregon Coast could erupt by,Underwater volcano off Oregon Coast could erupt by,PER,0.0,0.0,en,1
+Mark Zumberg,Mark Zumberg,PER,0.0,0.0,en,1
+Rachel Berkowitz,Rachel Berkowitz,PER,0.0,0.0,en,1
+Kilauea Erupts Again,Kilauea Erupts Again,PER,0.0,0.0,en,1
+tucked underneath a submerged,tucked underneath a submerged,PER,0.0,0.0,en,1
+Yanhong Ma,Yanhong Ma,PER,0.0,0.0,en,1
+Christopher Plain,Christopher Plain,PER,0.0,0.0,en,1
+Underwater Volcano Inflating,Underwater Volcano Inflating,PER,0.0,0.0,en,1
+Dina Genzola,Dina Genzola,PER,0.0,0.0,en,1
+nan If you,nan If you,PER,0.0,0.0,en,1
+extinct volcano,extinct volcano,PER,0.0,0.0,en,1
+Epicenter located southwest of Arkesini,Epicenter located southwest of Arkesini,PER,0.0,0.0,en,1
+Fisch Roslit Bay Timer Guide,Fisch Roslit Bay Timer Guide,PER,0.0,0.0,en,1
+After recalling the last,After recalling the last,PER,1.0,0.0,en,1
+Glen Powell,Glen Powell,PER,1.0,0.0,en,1
+After recalling the last tim,After recalling the last tim,PER,0.0,0.0,en,1
+less likely,less likely,PER,0.0,0.0,en,1
+Teresa Ubide,Teresa Ubide,PER,0.7,0.0,en,1
+Francisco Chronicle,Francisco Chronicle,PER,0.0,0.0,en,1
+Ian Lee Ananoria,Ian Lee Ananoria,PER,0.0,0.0,en,1
+Whakaari Manageme,Whakaari Manageme,PER,0.0,0.0,en,1
