@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.1712668286716093
 'magma volcano',en,Hazard,#4287f5,#638ed4,3,0.1663116852071369
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.165344881241793
-'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.1601905969084276
 'volcano death',en,Impacts,#a89216,#87830f,3,0.1547674285250339
-'volcano damage',en,Impacts,#a89216,#87830f,2,0.15200574430817337
+'volcano damage',en,Impacts,#a89216,#87830f,2,0.1520057443081733
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.1509184607343609
+'volcano evacuation',en,Mitigation,#9e3215,#802d16,2,0.145768072927719
 'volcano',en,Hazard,#4287f5,#638ed4,3,0.1392542680534387
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.1256480706077172
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.11506021476911
