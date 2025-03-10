@@ -1,55 +1,68 @@
 ,phrase,label,sentiment,subjectivity,language,count
 HONOLULU,HONOLULU,ORG,0.0,0.0,en,7
-Bacolod City,Bacolod City,ORG,0.0,0.0,en,6
+PHIVOLCS,PHIVOLCS,ORG,0.2857142857142857,0.0,en,7
 AP,AP,ORG,0.16666666666666666,0.0,en,6
-PHIVOLCS,PHIVOLCS,ORG,0.0,0.0,en,5
+Bacolod City,Bacolod City,ORG,0.0,0.0,en,6
 ET,ET,ORG,0.0,0.0,en,4
-Mount Kaputar,Mount Kaputar,ORG,0.0,0.0,en,3
+the side of the Anak Krakatau volcano collapsed,the side of the Anak Krakatau volcano collapsed,ORG,0.0,0.0,en,4
+Mount Kaputar,Mount Kaputar,ORG,0.0,0.0,en,4
+Geological Survey,Geological Survey,ORG,0.0,0.0,en,3
 eruption that has paused and resumed,eruption that has paused and resumed,ORG,0.0,0.0,en,3
-Mount Ibu,Mount Ibu,ORG,0.0,0.0,en,2
-Geological Survey,Geological Survey,ORG,0.0,0.0,en,2
+including,including,ORG,0.0,0.0,en,2
+The Philippine Institute of Volcanology,The Philippine Institute of Volcanology,ORG,0.0,0.0,en,2
+The eruption,The eruption,ORG,0.0,0.0,en,2
 OCD,OCD,ORG,0.0,0.0,en,2
 Indonesian authorities raised the alert level for,Indonesian authorities raised the alert level for,ORG,0.85,0.0,en,2
-The Kilauea,The Kilauea,ORG,-0.35,0.0,en,2
-The Philippine Institute of Volcanology,The Philippine Institute of Volcanology,ORG,0.0,0.0,en,2
 owl flying out of a barn,owl flying out of a barn,ORG,1.0,0.0,en,2
 Now,Now,ORG,0.0,0.0,en,2
+USGS,USGS,ORG,0.0,0.0,en,2
+The Kilauea,The Kilauea,ORG,-0.35,0.0,en,2
 the Philippine Institute of Volcanology and Seismology,the Philippine Institute of Volcanology and Seismology,ORG,0.0,0.0,en,2
-the seventh,the seventh,ORG,0.0,0.0,en,2
+Mount Ibu,Mount Ibu,ORG,0.0,0.0,en,2
+Kilauea’s,Kilauea’s,ORG,0.0,0.0,en,2
 The Kilauea volcano at Hawaii Volcanoes National Park is spewing lava once again,The Kilauea volcano at Hawaii Volcanoes National Park is spewing lava once again,ORG,0.0,0.0,en,2
+Hawaiian Volcano Observatory scientists said,Hawaiian Volcano Observatory scientists said,ORG,0.0,0.0,en,2
+The Philippine Institute of Volcanology and Seismology,The Philippine Institute of Volcanology and Seismology,ORG,1.0,0.0,en,2
+the seventh,the seventh,ORG,0.0,0.0,en,2
 causing it to swell,causing it to swell,ORG,0.0,0.0,en,2
-recent weeks,recent weeks,ORG,0.0,0.0,en,1
-Local authorities are concerned about the dense ash cloud's impact on air traffic and local infrastructure,Local authorities are concerned about the dense ash cloud's impact on air traffic and local infrastructure,ORG,0.0,0.0,en,1
-and from black-sand,and from black-sand,ORG,0.0,0.0,en,1
-European Union,European Union,ORG,-0.7,0.0,en,1
 at the base of the volcano,at the base of the volcano,ORG,0.0,0.0,en,1
+Two ash,Two ash,ORG,0.0,0.0,en,1
 DRC,DRC,ORG,0.0,0.0,en,1
+files and tilesAnimated Tiles,files and tilesAnimated Tiles,ORG,-0.7,0.0,en,1
+European Union,European Union,ORG,-0.7,0.0,en,1
 The DRC illustrates how millions of people,The DRC illustrates how millions of people,ORG,0.0,0.0,en,1
+and from black-sand,and from black-sand,ORG,0.0,0.0,en,1
 say scientists,say scientists,ORG,0.0,0.0,en,1
 Every asset moderated by Unity,Every asset moderated by Unity,ORG,-0.7,0.0,en,1
-files and tilesAnimated Tiles,files and tilesAnimated Tiles,ORG,-0.7,0.0,en,1
+The snowboarder,The snowboarder,ORG,-0.7,0.0,en,1
+Evacuation,Evacuation,ORG,0.0,0.0,en,1
+According to the PHIVOLCS,According to the PHIVOLCS,ORG,1.0,0.0,en,1
+ancient eruption at,ancient eruption at,ORG,0.0,0.0,en,1
+friend!,friend!,ORG,0.0,0.0,en,1
+ABC News,ABC News,ORG,0.0,0.0,en,1
 According to observations,According to observations,ORG,0.0,0.0,en,1
+off-and-on eruption,off-and-on eruption,ORG,0.0,0.0,en,1
 Bitcoin City sounds like a modern,Bitcoin City sounds like a modern,ORG,0.0,0.0,en,1
 President Nayib Bukele,President Nayib Bukele,ORG,0.0,0.0,en,1
-spews fire and ash,spews fire and ash,ORG,0.0,0.0,en,1
+The Janesville Gazette,The Janesville Gazette,ORG,0.0,0.0,en,1
+Local authorities are concerned about the dense ash cloud's impact on air traffic and local infrastructure,Local authorities are concerned about the dense ash cloud's impact on air traffic and local infrastructure,ORG,0.0,0.0,en,1
 disrupting travel,disrupting travel,ORG,0.0,0.0,en,1
-Evacuation,Evacuation,ORG,0.0,0.0,en,1
-Suspension of sugarcane harvesting lifted,Suspension of sugarcane harvesting lifted,ORG,0.0,0.0,en,1
+spews fire and ash,spews fire and ash,ORG,0.0,0.0,en,1
+Lava fountains from a Hawaii,Lava fountains from a Hawaii,ORG,0.0,0.0,en,1
 CBS Interactive,CBS Interactive,ORG,0.0,0.0,en,1
 yet another eruption,yet another eruption,ORG,-0.7,0.0,en,1
-Residents and visitors are on alert after,Residents and visitors are on alert after,ORG,1.0,0.0,en,1
+Palestinian booksellers face crackdown,Palestinian booksellers face crackdown,ORG,0.0,0.0,en,1
 when the vents,when the vents,ORG,0.0,0.0,en,1
-ATCI,ATCI,ORG,0.0,0.0,en,1
-Trustworthy AI Center of Excellence,Trustworthy AI Center of Excellence,ORG,0.0,0.0,en,1
-Director- Accenture Technology Lead,Director- Accenture Technology Lead,ORG,0.0,0.0,en,1
-has erupted intermittently,has erupted intermittently,ORG,0.0,0.0,en,1
-with varying intensities,with varying intensities,ORG,0.0,0.0,en,1
-The snowboarder,The snowboarder,ORG,-0.7,0.0,en,1
+Antarcticas Mount Erebus are an anomaly,Antarcticas Mount Erebus are an anomaly,ORG,0.0,0.0,en,1
 as flabbergasted Italian authorities are discovering,as flabbergasted Italian authorities are discovering,ORG,0.7,0.0,en,1
-Ethiopian earthquakes and volcanic,Ethiopian earthquakes and volcanic,ORG,-0.7,0.0,en,1
-Mount Vesuvius erupted,Mount Vesuvius erupted,ORG,0.0,0.0,en,1
+DDD,DDD,ORG,0.0,0.0,en,1
+ancient outburst,ancient outburst,ORG,0.0,0.0,en,1
+BBC,BBC,ORG,-0.7,0.0,en,1
 Owners Of New Zealand Volcano Island Spared Over Eruption That Killed 22.,Owners Of New Zealand Volcano Island Spared Over Eruption That Killed 22.,ORG,0.0,0.0,en,1
+providing researchers with a uniquely reliable,providing researchers with a uniquely reliable,ORG,0.0,0.0,en,1
 New Zealand The owners of,New Zealand The owners of,ORG,0.0,0.0,en,1
+Sandwiched between the freezing cold of Earth’s,Sandwiched between the freezing cold of Earth’s,ORG,0.0,0.0,en,1
+the caves beneath Antarctica’s Mount Erebus are an anomaly,the caves beneath Antarctica’s Mount Erebus are an anomaly,ORG,0.0,0.0,en,1
 WELLINGTON,WELLINGTON,ORG,0.0,0.0,en,1
 volcanic eruption,volcanic eruption,ORG,0.0,0.0,en,1
 Judge overthrows conviction of owners of New Zealand island,Judge overthrows conviction of owners of New Zealand island,ORG,0.0,0.0,en,1
@@ -59,12 +72,13 @@ WML,WML,ORG,0.0,0.0,en,1
 The volcano's deadly eruption killed 22 and seriously injured 25.,The volcano's deadly eruption killed 22 and seriously injured 25.,ORG,0.0,0.0,en,1
 ash cloud,ash cloud,ORG,0.0,0.0,en,1
 dust,dust,ORG,0.0,0.0,en,1
+Mount Vesuvius erupted,Mount Vesuvius erupted,ORG,0.0,0.0,en,1
 CE,CE,ORG,0.0,0.0,en,1
-AGU press contact,AGU press contact,ORG,0.0,0.0,en,1
 Researchers found organic glass,Researchers found organic glass,ORG,0.0,0.0,en,1
-USGS,USGS,ORG,0.0,0.0,en,1
+Sandwiched between the freezing cold of Earths,Sandwiched between the freezing cold of Earths,ORG,0.0,0.0,en,1
 According to the U.S.,According to the U.S.,ORG,0.0,0.0,en,1
 The USGS said lava,The USGS said lava,ORG,0.0,0.0,en,1
+Trustworthy AI Center of Excellence,Trustworthy AI Center of Excellence,ORG,0.0,0.0,en,1
 Columbia Warning,Columbia Warning,ORG,0.0,0.0,en,1
 According to…,According to…,ORG,0.0,0.0,en,1
 This article,This article,ORG,0.0,0.0,en,1
@@ -72,51 +86,67 @@ sometimes wrestling like,sometimes wrestling like,ORG,0.0,0.0,en,1
 which,which,ORG,0.0,0.0,en,1
 advanced civilization,advanced civilization,ORG,0.0,0.0,en,1
 at Akrotiri reveal,at Akrotiri reveal,ORG,0.0,0.0,en,1
-one of the worlds most active volcanoes,one of the worlds most active volcanoes,ORG,0.0,0.0,en,1
-Surprise Magma Chamber Growing Under Mediterranean Volcano,Surprise Magma Chamber Growing Under Mediterranean Volcano,ORG,0.0,0.0,en,1
-Credit,Credit,ORG,0.0,0.0,en,1
-II)-doped Co,II)-doped Co,ORG,0.0,0.0,en,1
-is showing signs of,is showing signs of,ORG,0.0,0.0,en,1
-Porsche,Porsche,ORG,0.0,0.0,en,1
-Santorini Schools Shut,Santorini Schools Shut,ORG,-0.7,0.0,en,1
-Guardian Greece's tourism jewel Santorini,Guardian Greece's tourism jewel Santorini,ORG,1.0,0.0,en,1
-rattle Greek island,rattle Greek island,ORG,1.0,0.0,en,1
-activityReuters Greece,activityReuters Greece,ORG,1.0,0.0,en,1
-LightRocket,LightRocket,ORG,0.0,0.0,en,1
-The Debrief,The Debrief,ORG,0.0,0.0,en,1
-scientists discovered that victims of Mount Vesuviu,scientists discovered that victims of Mount Vesuviu,ORG,0.0,0.0,en,1
-Advance Article,Advance Article,ORG,0.0,0.0,en,1
+ATCI,ATCI,ORG,0.0,0.0,en,1
+tsunami,tsunami,ORG,0.0,0.0,en,1
+Director- Accenture Technology Lead,Director- Accenture Technology Lead,ORG,0.0,0.0,en,1
 III)-based LDHs,III)-based LDHs,ORG,0.0,0.0,en,1
-PaperHuiling Si,PaperHuiling Si,ORG,0.0,0.0,en,1
-the eruption,the eruption,ORG,0.0,0.0,en,1
-III)-based layered,III)-based layered,ORG,0.0,0.0,en,1
-Underwater Volcano Off of Oregon Coast May Erupt by End of,Underwater Volcano Off of Oregon Coast May Erupt by End of,ORG,0.0,0.0,en,1
-volcanic glass as Hawaii’s,volcanic glass as Hawaii’s,ORG,0.0,0.0,en,1
 at Oregon State University,at Oregon State University,ORG,0.0,0.0,en,1
-volcanoes are not,volcanoes are not,ORG,0.0,0.0,en,1
+volcanic glass as Hawaii’s,volcanic glass as Hawaii’s,ORG,0.0,0.0,en,1
+Underwater Volcano Off of Oregon Coast May Erupt by End of,Underwater Volcano Off of Oregon Coast May Erupt by End of,ORG,0.0,0.0,en,1
+III)-based layered,III)-based layered,ORG,0.0,0.0,en,1
+PaperHuiling Si,PaperHuiling Si,ORG,0.0,0.0,en,1
+II)-doped Co,II)-doped Co,ORG,0.0,0.0,en,1
+Advance Article,Advance Article,ORG,0.0,0.0,en,1
 volcanoes are not always spewing,volcanoes are not always spewing,ORG,0.0,0.0,en,1
+scientists discovered that victims of Mount Vesuviu,scientists discovered that victims of Mount Vesuviu,ORG,0.0,0.0,en,1
+The Debrief,The Debrief,ORG,0.0,0.0,en,1
+LightRocket,LightRocket,ORG,0.0,0.0,en,1
+activityReuters Greece,activityReuters Greece,ORG,1.0,0.0,en,1
+rattle Greek island,rattle Greek island,ORG,1.0,0.0,en,1
+Guardian Greece's tourism jewel Santorini,Guardian Greece's tourism jewel Santorini,ORG,1.0,0.0,en,1
+volcanoes are not,volcanoes are not,ORG,0.0,0.0,en,1
 HST,HST,ORG,0.0,0.0,en,1
-at,at,ORG,0.0,0.0,en,1
-with fountains of lava shooting hundreds of feet into the air and toxic gas belching from the crater,with fountains of lava shooting hundreds of feet into the air and toxic gas belching from the crater,ORG,0.0,0.0,en,1
-sporadic splatter foundation,sporadic splatter foundation,ORG,0.0,0.0,en,1
-with spatter fountains reaching heights of 100 to 120,with spatter fountains reaching heights of 100 to 120,ORG,0.0,0.0,en,1
+has erupted intermittently,has erupted intermittently,ORG,0.0,0.0,en,1
 Axial Seamount,Axial Seamount,ORG,0.0,0.0,en,1
+Ethiopian earthquakes and volcanic,Ethiopian earthquakes and volcanic,ORG,-0.7,0.0,en,1
+Suspension of sugarcane harvesting lifted,Suspension of sugarcane harvesting lifted,ORG,0.0,0.0,en,1
+Residents and visitors are on alert after,Residents and visitors are on alert after,ORG,1.0,0.0,en,1
+A team of scientists exploring,A team of scientists exploring,ORG,0.0,0.0,en,1
+underwater volcano have discovered that life below the seafloor is more,underwater volcano have discovered that life below the seafloor is more,ORG,0.0,0.0,en,1
 Daily Mail,Daily Mail,ORG,0.0,0.0,en,1
+is showing signs of,is showing signs of,ORG,0.0,0.0,en,1
+at,at,ORG,0.0,0.0,en,1
+Porsche,Porsche,ORG,0.0,0.0,en,1
+recent weeks,recent weeks,ORG,0.0,0.0,en,1
+the eruption,the eruption,ORG,0.0,0.0,en,1
+with spatter fountains reaching heights of 100 to 120,with spatter fountains reaching heights of 100 to 120,ORG,0.0,0.0,en,1
+sporadic splatter foundation,sporadic splatter foundation,ORG,0.0,0.0,en,1
+with fountains of lava shooting hundreds of feet into the air and toxic gas belching from the crater,with fountains of lava shooting hundreds of feet into the air and toxic gas belching from the crater,ORG,0.0,0.0,en,1
+Santorini Schools Shut,Santorini Schools Shut,ORG,-0.7,0.0,en,1
 according to researchers,according to researchers,ORG,0.0,0.0,en,1
 new research,new research,ORG,0.0,0.0,en,1
-around 10,around 10,ORG,0.0,0.0,en,1
-Today,Today,ORG,0.0,0.0,en,1
-upcoming eruption from a side vent or,upcoming eruption from a side vent or,ORG,0.0,0.0,en,1
-Sunday,Sunday,ORG,0.0,0.0,en,1
-A team of scientists exploring,A team of scientists exploring,ORG,0.0,0.0,en,1
-which lasted two minut…,which lasted two minut…,ORG,0.0,0.0,en,1
-The eruption,The eruption,ORG,0.0,0.0,en,1
 Mount Ibu erupts more,Mount Ibu erupts more,ORG,0.0,0.0,en,1
+which lasted two minut…,which lasted two minut…,ORG,0.0,0.0,en,1
+Sunday,Sunday,ORG,0.0,0.0,en,1
+upcoming eruption from a side vent or,upcoming eruption from a side vent or,ORG,0.0,0.0,en,1
+CC-BY-SA,CC-BY-SA,ORG,0.0,0.0,en,1
+incredible pink,incredible pink,ORG,0.0,0.0,en,1
+eruption,eruption,ORG,0.0,0.0,en,1
+Today,Today,ORG,0.0,0.0,en,1
+The,The,ORG,0.0,0.0,en,1
+around 10,around 10,ORG,0.0,0.0,en,1
+Surprise Magma Chamber Growing Under Mediterranean Volcano,Surprise Magma Chamber Growing Under Mediterranean Volcano,ORG,0.0,0.0,en,1
+Credit,Credit,ORG,0.0,0.0,en,1
+AGU press contact,AGU press contact,ORG,0.0,0.0,en,1
+one of the worlds most active volcanoes,one of the worlds most active volcanoes,ORG,0.0,0.0,en,1
+with varying intensities,with varying intensities,ORG,0.0,0.0,en,1
 BACOLOD,BACOLOD,ORG,0.0,0.0,en,1
 PHIVOLCS warns of,PHIVOLCS warns of,ORG,0.0,0.0,en,1
 Amorgos,Amorgos,ORG,0.0,0.0,en,1
 Algae,Algae,ORG,0.0,0.0,en,1
-underwater volcano have discovered that life below the seafloor is more,underwater volcano have discovered that life below the seafloor is more,ORG,0.0,0.0,en,1
+Türkiye Witness Travel Chao… The Fine Print,Türkiye Witness Travel Chao… The Fine Print,ORG,0.0,0.0,en,1
+Voices Greece,Voices Greece,ORG,0.0,0.0,en,1
+fleeingYahoo,fleeingYahoo,ORG,0.0,0.0,en,1
 waiting to be explored,waiting to be explored,ORG,0.0,0.0,en,1
 Residents on the,Residents on the,ORG,0.0,0.0,en,1
 AD 79,AD 79,ORG,1.0,0.0,en,1
@@ -124,7 +154,7 @@ OPA prepares,OPA prepares,ORG,0.0,0.0,en,1
 UK scientists say they have,UK scientists say they have,ORG,0.0,0.0,en,1
 Scholars and scientists worked for more than 250 years on ways to,Scholars and scientists worked for more than 250 years on ways to,ORG,0.0,0.0,en,1
 UK scientists have announced what they term a,UK scientists have announced what they term a,ORG,1.0,0.0,en,1
+the volcanic eruption of Mount Vesuvius two mil…,the volcanic eruption of Mount Vesuvius two mil…,ORG,0.0,0.0,en,1
 Voices,Voices,ORG,0.0,0.0,en,1
 Yahoo,Yahoo,ORG,0.0,0.0,en,1
-The,The,ORG,0.0,0.0,en,1
-BBC,BBC,ORG,-0.7,0.0,en,1
+According to the US Geological Survey’s,According to the US Geological Survey’s,ORG,0.0,0.0,en,1
