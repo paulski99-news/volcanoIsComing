@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.5095822580805452
+'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.44744559436846343
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.4375451383938091
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.1729381231297731
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.1520057443081733
