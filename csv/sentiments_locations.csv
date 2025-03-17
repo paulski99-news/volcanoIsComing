@@ -1,148 +1,195 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Hawaii,Hawaii,LOC,0.0,0.0,en,17
+Guatemala,Guatemala,LOC,-0.0625,0.0,en,16
 Indonesia,Indonesia,LOC,0.0,0.0,en,16
-Hawaii,Hawaii,LOC,0.0,0.0,en,16
+Bacolod City,Bacolod City,LOC,0.18181818181818182,0.0,en,11
 Hawaii’s,Hawaii’s,LOC,0.0,0.0,en,10
+Mount Spurr,Mount Spurr,LOC,0.0,0.0,en,6
 Negros Island,Negros Island,LOC,0.0,0.0,en,6
-Bacolod City,Bacolod City,LOC,0.16666666666666666,0.0,en,6
-New Zealand,New Zealand,LOC,0.0,0.0,en,4
+Alaska,Alaska,LOC,-0.13999999999999999,0.0,en,5
+AVO,AVO,LOC,0.0,0.0,en,4
 Mount Etna,Mount Etna,LOC,0.0,0.0,en,4
 a powerful eruption and produced a tsunami that killed hundreds and injured thousands on nearby Java and Sumatra,a powerful eruption and produced a tsunami that killed hundreds and injured thousands on nearby Java and Sumatra,LOC,0.0,0.0,en,4
-Big Island,Big Island,LOC,0.0,0.0,en,4
 Kilauea,Kilauea,LOC,0.0,0.0,en,4
+New Zealand,New Zealand,LOC,0.0,0.0,en,4
+Big Island,Big Island,LOC,0.0,0.0,en,4
 New South Wales,New South Wales,LOC,0.0,0.0,en,3
-AVO,AVO,LOC,0.0,0.0,en,3
-Kilauea is spewing lava again,Kilauea is spewing lava again,LOC,0.0,0.0,en,3
-According to Volcano Discovery,According to Volcano Discovery,LOC,0.0,0.0,en,3
-According to Volcano Discovery,According to Volcano Discovery,LOC,0.0,0.0,en,3
 located,located,LOC,0.0,0.0,en,3
 The Alaska Volcano Observatory,The Alaska Volcano Observatory,LOC,0.0,0.0,en,3
 Australia,Australia,LOC,0.0,0.0,en,3
-Mount Spurr,Mount Spurr,LOC,0.0,0.0,en,3
-Ethiopia,Ethiopia,LOC,0.0,0.0,en,2
-Bago City,Bago City,LOC,0.0,0.0,en,2
-Italy's Mt,Italy's Mt,LOC,0.0,0.0,en,2
-Santorini,Santorini,LOC,0.0,0.0,en,2
-latest episode of Hawaii,latest episode of Hawaii,LOC,0.0,0.0,en,2
-Lava fountain height soars,Lava fountain height soars,LOC,0.0,0.0,en,2
-officials say,officials say,LOC,0.0,0.0,en,2
-Lava and ash cover the snow,Lava and ash cover the snow,LOC,0.0,0.0,en,2
-The Police Regional Office,The Police Regional Office,LOC,0.0,0.0,en,2
-Snowboarding Next to Lava,Snowboarding Next to Lava,LOC,0.0,0.0,en,2
-Italy,Italy,LOC,0.0,0.0,en,2
-Mount Kaputar,Mount Kaputar,LOC,0.0,0.0,en,2
-Guatemala,Guatemala,LOC,0.0,0.0,en,2
-Alaska,Alaska,LOC,-0.35,0.0,en,2
-lava,lava,LOC,0.5,0.0,en,2
+Kilauea is spewing lava again,Kilauea is spewing lava again,LOC,0.0,0.0,en,3
+According to Volcano Discovery,According to Volcano Discovery,LOC,0.0,0.0,en,3
+According to Volcano Discovery,According to Volcano Discovery,LOC,0.0,0.0,en,3
+A volcano near Alaska’s largest city is showing new signs of unrest,A volcano near Alaska’s largest city is showing new signs of unrest,LOC,0.0,0.0,en,3
+erupted,erupted,LOC,0.0,0.0,en,2
+Alotenango,Alotenango,LOC,0.0,0.0,en,2
 widening,widening,LOC,0.85,0.0,en,2
-over-the-weekend by the Philippine Institute of Volcanology and Seismology,over-the-weekend by the Philippine Institute of Volcanology and Seismology,LOC,0.0,0.0,en,2
-Volcano Gray Metallic over Bordeaux Red leather and,Volcano Gray Metallic over Bordeaux Red leather and,LOC,0.0,0.0,en,2
-Mount Shasta,Mount Shasta,LOC,0.0,0.0,en,2
-Anchorage,Anchorage,LOC,0.0,0.0,en,2
+latest episode of Hawaii,latest episode of Hawaii,LOC,0.0,0.0,en,2
+lava,lava,LOC,0.5,0.0,en,2
+Lava fountain height soars,Lava fountain height soars,LOC,0.0,0.0,en,2
+rocks,rocks,LOC,0.0,0.0,en,2
+recorded at Kanlaon Volcano by the Philippine Institute of Volcanology and Seismology,recorded at Kanlaon Volcano by the Philippine Institute of Volcanology and Seismology,LOC,0.0,0.0,en,2
+officials say,officials say,LOC,0.0,0.0,en,2
+March 10,March 10,LOC,0.0,0.0,en,2
+Lava and ash cover the snow,Lava and ash cover the snow,LOC,0.0,0.0,en,2
 The Victorias City,The Victorias City,LOC,0.0,0.0,en,2
 La Carlota City,La Carlota City,LOC,0.0,0.0,en,2
+Anchorage,Anchorage,LOC,0.0,0.0,en,2
+Italy,Italy,LOC,0.0,0.0,en,2
+Bago City,Bago City,LOC,0.0,0.0,en,2
 Negros Occidental,Negros Occidental,LOC,0.0,0.0,en,2
-See Mount Etna's,See Mount Etna's,LOC,0.0,0.0,en,1
-January,January,LOC,0.0,0.0,en,1
-Newsweek rea… Mount Spurr,Newsweek rea… Mount Spurr,LOC,0.0,0.0,en,1
-casks at the base of,casks at the base of,LOC,0.0,0.0,en,1
-Rwanda,Rwanda,LOC,0.0,0.0,en,1
-the city of Catania,the city of Catania,LOC,0.0,0.0,en,1
-Volcano,Volcano,LOC,0.0,0.0,en,1
-Earthquakes Under Alaskan Volcano Could Be Sign It's About to Erupt,Earthquakes Under Alaskan Volcano Could Be Sign It's About to Erupt,LOC,0.0,0.0,en,1
-a volcano near Alaskas largest city,a volcano near Alaskas largest city,LOC,0.0,0.0,en,1
-Sicily,Sicily,LOC,0.0,0.0,en,1
-La Carlota,La Carlota,LOC,0.0,0.0,en,1
-A… iStockphoto,A… iStockphoto,LOC,0.0,0.0,en,1
-Rwandas,Rwandas,LOC,-0.7,0.0,en,1
-Iceland’s Second Biggest Volcano on Brink of Eruption,Iceland’s Second Biggest Volcano on Brink of Eruption,LOC,0.0,0.0,en,1
-A river of lava flowing for around,A river of lava flowing for around,LOC,-0.7,0.0,en,1
-Etna glows orange on the snow-covered volcano,Etna glows orange on the snow-covered volcano,LOC,-0.7,0.0,en,1
+Ethiopia,Ethiopia,LOC,0.0,0.0,en,2
+Snowboarding Next to Lava,Snowboarding Next to Lava,LOC,0.0,0.0,en,2
+Italy's Mt,Italy's Mt,LOC,0.0,0.0,en,2
+Nea Kameni,Nea Kameni,LOC,0.5,0.0,en,2
+The Police Regional Office,The Police Regional Office,LOC,0.0,0.0,en,2
+Mount Kaputar,Mount Kaputar,LOC,0.0,0.0,en,2
+over-the-weekend by the Philippine Institute of Volcanology and Seismology,over-the-weekend by the Philippine Institute of Volcanology and Seismology,LOC,0.0,0.0,en,2
+Guatemalan authorities evacuated around a thousand people on Monday after Central America's most active volcano erupted,Guatemalan authorities evacuated around a thousand people on Monday after Central America's most active volcano erupted,LOC,0.0,0.0,en,2
+Mount Shasta,Mount Shasta,LOC,0.0,0.0,en,2
+Xinhua,Xinhua,LOC,0.0,0.0,en,2
+Kanlaon Volcano continues to show,Kanlaon Volcano continues to show,LOC,0.5,0.0,en,2
+Volcano Gray Metallic over Bordeaux Red leather and,Volcano Gray Metallic over Bordeaux Red leather and,LOC,0.0,0.0,en,2
+Santorini,Santorini,LOC,0.0,0.0,en,2
+A volcano near Alaska's largest city is showing new signs of unrest,A volcano near Alaska's largest city is showing new signs of unrest,LOC,0.0,0.0,en,2
+the likelihood of,the likelihood of,LOC,0.0,0.0,en,2
+tha…,tha…,LOC,0.0,0.0,en,1
+Preserved,Preserved,LOC,0.0,0.0,en,1
+Kalapana,Kalapana,LOC,0.0,0.0,en,1
+Glass,Glass,LOC,0.0,0.0,en,1
+The Alaska Volcano Observatory said signs indicated a Mount Spurr,The Alaska Volcano Observatory said signs indicated a Mount Spurr,LOC,0.0,0.0,en,1
+West Fairbanks dealing with ash and soot,West Fairbanks dealing with ash and soot,LOC,-0.7,0.0,en,1
+White Island Andrew,White Island Andrew,LOC,0.0,0.0,en,1
+Volcano near Alaska's largest city could erupt soon,Volcano near Alaska's largest city could erupt soon,LOC,0.0,0.0,en,1
+The Hawaiian Volcano Observatory n… Footage from,The Hawaiian Volcano Observatory n… Footage from,LOC,0.0,0.0,en,1
+New Zealand's High Court has overthrown a conviction handed to the owners of the offshore volcano Whakaari which erupted,New Zealand's High Court has overthrown a conviction handed to the owners of the offshore volcano Whakaari which erupted,LOC,-0.7,0.0,en,1
+Alaska A volcano near Alaskas largest city is showing new signs of unrest,Alaska A volcano near Alaskas largest city is showing new signs of unrest,LOC,0.0,0.0,en,1
+Lava from Hawaii’s,Lava from Hawaii’s,LOC,0.0,0.0,en,1
+the country's center,the country's center,LOC,1.0,0.0,en,1
+Lava from the Kilauea volcano creates “showers of gold”,Lava from the Kilauea volcano creates “showers of gold”,LOC,0.0,0.0,en,1
+including Halemaumau Crater at the top of Kilauea and the various lava flows produc,including Halemaumau Crater at the top of Kilauea and the various lava flows produc,LOC,1.0,0.0,en,1
+New Zealand's High Court has quashed a conviction and multi-million-dollar payments from the owners of the offshore volcano Whakaari which erupted,New Zealand's High Court has quashed a conviction and multi-million-dollar payments from the owners of the offshore volcano Whakaari which erupted,LOC,-0.7,0.0,en,1
+of K,of K,LOC,0.0,0.0,en,1
+of Kanlaon Volcano,of Kanlaon Volcano,LOC,0.0,0.0,en,1
+Likely,Likely,LOC,0.0,0.0,en,1
+Erupt,Erupt,LOC,0.0,0.0,en,1
+Experts at the Alaska Volcano Observatory,Experts at the Alaska Volcano Observatory,LOC,0.0,0.0,en,1
+Officials Alarmed as Tourists Walk Straight Toward Erupting,Officials Alarmed as Tourists Walk Straight Toward Erupting,LOC,0.0,0.0,en,1
+Alaskaâs Mount Spurr on the brink,Alaskaâs Mount Spurr on the brink,LOC,0.0,0.0,en,1
+Nea Kameni islet,Nea Kameni islet,LOC,0.0,0.0,en,1
+The Alaska Volcano Observatory said Wednesday that it had measured during,The Alaska Volcano Observatory said Wednesday that it had measured during,LOC,0.0,0.0,en,1
+Alaska’s Mount Spurr On The Brink,Alaska’s Mount Spurr On The Brink,LOC,0.0,0.0,en,1
+ul><li><ul><li,ul><li><ul><li,LOC,0.0,0.0,en,1
+th,th,LOC,0.0,0.0,en,1
+mais lutilisa,mais lutilisa,LOC,0.0,0.0,en,1
+White Island,White Island,LOC,0.0,0.0,en,1
+A volcano near Alaska's largest city could erupt,A volcano near Alaska's largest city could erupt,LOC,0.0,0.0,en,1
+National Tsunami Warning Center,National Tsunami Warning Center,LOC,0.0,0.0,en,1
+U.S.,U.S.,LOC,0.0,0.0,en,1
+See photos of Volcano of Fire,See photos of Volcano of Fire,LOC,0.0,0.0,en,1
+however,however,LOC,0.0,0.0,en,1
+Evacuations,Evacuations,LOC,0.0,0.0,en,1
+Oceania,Oceania,LOC,0.0,0.0,en,1
+A 2022,A 2022,LOC,0.0,0.0,en,1
+A plume of discolored water rising up from,A plume of discolored water rising up from,LOC,0.0,0.0,en,1
+Ethiopian national,Ethiopian national,LOC,0.0,0.0,en,1
+at the Kanlaon Volcano Observatory,at the Kanlaon Volcano Observatory,LOC,0.0,0.0,en,1
+he s…,he s…,LOC,0.0,0.0,en,1
+cóntent,cóntent,LOC,0.0,0.0,en,1
+Lands…,Lands…,LOC,0.0,0.0,en,1
+Hawaiian,Hawaiian,LOC,0.0,0.0,en,1
+AP,AP,LOC,0.0,0.0,en,1
+La langue de Shakespeare sonne mieux,La langue de Shakespeare sonne mieux,LOC,0.0,0.0,en,1
 the Halemaumau,the Halemaumau,LOC,0.0,0.0,en,1
 East Jerusalem,East Jerusalem,LOC,0.0,0.0,en,1
 Fountains d…,Fountains d…,LOC,0.0,0.0,en,1
+Volcano near Alaska's largest city could,Volcano near Alaska's largest city could,LOC,0.0,0.0,en,1
+A volcano near Alaskas largest city is showing new signs of unrest,A volcano near Alaskas largest city is showing new signs of unrest,LOC,0.0,0.0,en,1
+Alaska’s,Alaska’s,LOC,0.0,0.0,en,1
 Lava from a Hawaii,Lava from a Hawaii,LOC,0.0,0.0,en,1
 Lava resumes flowing within Kilauea’s,Lava resumes flowing within Kilauea’s,LOC,0.0,0.0,en,1
+A volcano near Alaska’s largest city could erupt,A volcano near Alaska’s largest city could erupt,LOC,0.0,0.0,en,1
 located near Naples,located near Naples,LOC,0.0,0.0,en,1
+ANCHORAGE,ANCHORAGE,LOC,0.0,0.0,en,1
 Pelehonuamea,Pelehonuamea,LOC,0.0,0.0,en,1
 Hawa iian,Hawa iian,LOC,0.0,0.0,en,1
 Hawai,Hawai,LOC,0.0,0.0,en,1
-mais lutilisa,mais lutilisa,LOC,0.0,0.0,en,1
-La langue de Shakespeare sonne mieux,La langue de Shakespeare sonne mieux,LOC,0.0,0.0,en,1
-White Island,White Island,LOC,0.0,0.0,en,1
-New Zealand's High Court has quashed a conviction and multi-million-dollar payments from the owners of the offshore volcano Whakaari which erupted,New Zealand's High Court has quashed a conviction and multi-million-dollar payments from the owners of the offshore volcano Whakaari which erupted,LOC,-0.7,0.0,en,1
-New Zealand's High Court has overthrown a conviction handed to the owners of the offshore volcano Whakaari which erupted,New Zealand's High Court has overthrown a conviction handed to the owners of the offshore volcano Whakaari which erupted,LOC,-0.7,0.0,en,1
-White Island Andrew,White Island Andrew,LOC,0.0,0.0,en,1
-tha…,tha…,LOC,0.0,0.0,en,1
-Glass,Glass,LOC,0.0,0.0,en,1
-Preserved,Preserved,LOC,0.0,0.0,en,1
-Lava from Hawaii’s,Lava from Hawaii’s,LOC,0.0,0.0,en,1
-The Hawaiian Volcano Observatory n… Footage from,The Hawaiian Volcano Observatory n… Footage from,LOC,0.0,0.0,en,1
-Lava from the Kilauea volcano creates “showers of gold”,Lava from the Kilauea volcano creates “showers of gold”,LOC,0.0,0.0,en,1
-th,th,LOC,0.0,0.0,en,1
-Officials Alarmed as Tourists Walk Straight Toward Erupting,Officials Alarmed as Tourists Walk Straight Toward Erupting,LOC,0.0,0.0,en,1
 "Nike's Insanely Fire ""Volcano""","Nike's Insanely Fire ""Volcano""",LOC,0.0,0.0,en,1
-Ethiopian national,Ethiopian national,LOC,0.0,0.0,en,1
-Again Spewing Lava,Again Spewing Lava,LOC,0.0,0.0,en,1
-Ethiopia is releasing,Ethiopia is releasing,LOC,0.0,0.0,en,1
+Iceland’s Second Biggest Volcano on Brink of Eruption,Iceland’s Second Biggest Volcano on Brink of Eruption,LOC,0.0,0.0,en,1
 Mount Fentale hasn't erupted,Mount Fentale hasn't erupted,LOC,0.0,0.0,en,1
-Mount Etna erupts again,Mount Etna erupts again,LOC,0.0,0.0,en,1
-earthquakes under Mount Spurr since last,earthquakes under Mount Spurr since last,LOC,0.0,0.0,en,1
-Sicily’s Mt,Sicily’s Mt,LOC,0.0,0.0,en,1
 Greek holiday island,Greek holiday island,LOC,0.0,0.0,en,1
-Greece issues advisory for tourists over volcano activity,Greece issues advisory for tourists over volcano activity,LOC,0.0,0.0,en,1
-USA,USA,LOC,0.0,0.0,en,1
-Washington State,Washington State,LOC,0.0,0.0,en,1
-Mount Rainier National Park,Mount Rainier National Park,LOC,0.0,0.0,en,1
-Mount Rainier,Mount Rainier,LOC,0.0,0.0,en,1
-glassy fragments,glassy fragments,LOC,0.0,0.0,en,1
 Jianbo,Jianbo,LOC,0.0,0.0,en,1
+glassy fragments,glassy fragments,LOC,0.0,0.0,en,1
+Mount Rainier,Mount Rainier,LOC,0.0,0.0,en,1
+Mount Rainier National Park,Mount Rainier National Park,LOC,0.0,0.0,en,1
+Washington State,Washington State,LOC,0.0,0.0,en,1
+USA,USA,LOC,0.0,0.0,en,1
+Greece issues advisory for tourists over volcano activity,Greece issues advisory for tourists over volcano activity,LOC,0.0,0.0,en,1
+A fountain of lava,A fountain of lava,LOC,0.0,0.0,en,1
+Forbes,Forbes,LOC,0.0,0.0,en,1
+A fountain of,A fountain of,LOC,0.0,0.0,en,1
+the Cascades,the Cascades,LOC,0.0,0.0,en,1
+the Cascades region of the Pacific Northwest are still underpinned by large reservoirs of magma,the Cascades region of the Pacific Northwest are still underpinned by large reservoirs of magma,LOC,0.0,0.0,en,1
+Greek island,Greek island,LOC,0.0,0.0,en,1
+London,London,LOC,0.0,0.0,en,1
+N… Bacolod City,N… Bacolod City,LOC,0.0,0.0,en,1
+U.K.,U.K.,LOC,0.0,0.0,en,1
 Italy peeks through a cloud blanket,Italy peeks through a cloud blanket,LOC,0.0,0.0,en,1
 Mount Vesuvius Peeking Through the Clouds,Mount Vesuvius Peeking Through the Clouds,LOC,0.0,0.0,en,1
 erupted for the seventh,erupted for the seventh,LOC,0.0,0.0,en,1
 Hawaii Volcanoes National Park,Hawaii Volcanoes National Park,LOC,0.0,0.0,en,1
-swelling,swelling,LOC,0.0,0.0,en,1
-shaking,shaking,LOC,0.0,0.0,en,1
-Yellowstone National Park,Yellowstone National Park,LOC,0.0,0.0,en,1
-a new article published,a new article published,LOC,0.0,0.0,en,1
-Guest,Guest,LOC,0.0,0.0,en,1
-volcanoland,volcanoland,LOC,0.0,0.0,en,1
-the north of Ethiopia,the north of Ethiopia,LOC,0.0,0.0,en,1
-on the rem…,on the rem…,LOC,0.0,0.0,en,1
-A volcano,A volcano,LOC,0.0,0.0,en,1
-Ternate,Ternate,LOC,0.0,0.0,en,1
-Mount Ibu,Mount Ibu,LOC,0.0,0.0,en,1
-Indonesia’s,Indonesia’s,LOC,0.0,0.0,en,1
-North Coast Con,North Coast Con,LOC,-0.7,0.0,en,1
-Cascade Range,Cascade Range,LOC,0.0,0.0,en,1
 California’s fifth-highest peak and the second-highest,California’s fifth-highest peak and the second-highest,LOC,0.0,0.0,en,1
-A fountain of lava,A fountain of lava,LOC,0.0,0.0,en,1
-A fountain of,A fountain of,LOC,0.0,0.0,en,1
-the Cascades,the Cascades,LOC,0.0,0.0,en,1
-Kilauea spews,Kilauea spews,LOC,-0.7,0.0,en,1
+Cascade Range,Cascade Range,LOC,0.0,0.0,en,1
+North Coast Con,North Coast Con,LOC,-0.7,0.0,en,1
+Indonesia’s,Indonesia’s,LOC,0.0,0.0,en,1
+Mount Ibu,Mount Ibu,LOC,0.0,0.0,en,1
+Ternate,Ternate,LOC,0.0,0.0,en,1
+A volcano,A volcano,LOC,0.0,0.0,en,1
+on the rem…,on the rem…,LOC,0.0,0.0,en,1
+the north of Ethiopia,the north of Ethiopia,LOC,0.0,0.0,en,1
+volcanoland,volcanoland,LOC,0.0,0.0,en,1
+Guest,Guest,LOC,0.0,0.0,en,1
+a new article published,a new article published,LOC,0.0,0.0,en,1
+Yellowstone National Park,Yellowstone National Park,LOC,0.0,0.0,en,1
+shaking,shaking,LOC,0.0,0.0,en,1
+swelling,swelling,LOC,0.0,0.0,en,1
+Mauna Loa,Mauna Loa,LOC,0.0,0.0,en,1
+state of emergency after hundreds of earthquakes shake Greek island for days,state of emergency after hundreds of earthquakes shake Greek island for days,LOC,0.0,0.0,en,1
+Again Spewing Lava,Again Spewing Lava,LOC,0.0,0.0,en,1
+Earthquakes Under Alaskan Volcano Could Be Sign It's About to Erupt,Earthquakes Under Alaskan Volcano Could Be Sign It's About to Erupt,LOC,0.0,0.0,en,1
+Newsweek rea… Mount Spurr,Newsweek rea… Mount Spurr,LOC,0.0,0.0,en,1
+casks at the base of,casks at the base of,LOC,0.0,0.0,en,1
+Sicily,Sicily,LOC,0.0,0.0,en,1
+La Carlota,La Carlota,LOC,0.0,0.0,en,1
+January,January,LOC,0.0,0.0,en,1
+A… iStockphoto,A… iStockphoto,LOC,0.0,0.0,en,1
+the whole of Iceland,the whole of Iceland,LOC,0.0,0.0,en,1
+Volcano,Volcano,LOC,0.0,0.0,en,1
+Israel,Israel,LOC,0.0,0.0,en,1
+the city of Catania,the city of Catania,LOC,0.0,0.0,en,1
+Rwanda,Rwanda,LOC,0.0,0.0,en,1
+Rwandas,Rwandas,LOC,-0.7,0.0,en,1
+See Mount Etna's,See Mount Etna's,LOC,0.0,0.0,en,1
+A river of lava flowing for around,A river of lava flowing for around,LOC,-0.7,0.0,en,1
+Etna glows orange on the snow-covered volcano,Etna glows orange on the snow-covered volcano,LOC,-0.7,0.0,en,1
+Ethiopia is releasing,Ethiopia is releasing,LOC,0.0,0.0,en,1
+earthquakes under Mount Spurr since last,earthquakes under Mount Spurr since last,LOC,0.0,0.0,en,1
+Sicily’s Mt,Sicily’s Mt,LOC,0.0,0.0,en,1
 marcocalandra89,marcocalandra89,LOC,0.0,0.0,en,1
 Sicily’s,Sicily’s,LOC,0.0,0.0,en,1
-Etna Spewing Lava Over The Snow-Capped,Etna Spewing Lava Over The Snow-Capped,LOC,0.0,0.0,en,1
-th…,th…,LOC,0.0,0.0,en,1
-El Salvador,El Salvador,LOC,0.0,0.0,en,1
-Europe's tallest and most active volcano,Europe's tallest and most active volcano,LOC,0.0,0.0,en,1
-the whole of Iceland,the whole of Iceland,LOC,0.0,0.0,en,1
-Mount Lewotobi Laki-Lak,Mount Lewotobi Laki-Lak,LOC,0.85,0.0,en,1
-spewed a gigantic fountain of lava roughly 330 feet,spewed a gigantic fountain of lava roughly 330 feet,LOC,0.0,0.0,en,1
-a fiery display,a fiery display,LOC,0.0,0.0,en,1
-Big Island is spewing,Big Island is spewing,LOC,-0.7,0.0,en,1
-latest eruption,latest eruption,LOC,0.0,0.0,en,1
-erupted,erupted,LOC,0.0,0.0,en,1
-the Cascades region of the Pacific Northwest are still underpinned by large reservoirs of magma,the Cascades region of the Pacific Northwest are still underpinned by large reservoirs of magma,LOC,0.0,0.0,en,1
-HONOLULU  Kilauea,HONOLULU  Kilauea,LOC,0.0,0.0,en,1
-Greece,Greece,LOC,0.0,0.0,en,1
-underwater volcano near Santorini,underwater volcano near Santorini,LOC,0.0,0.0,en,1
 KarlDaFrog,KarlDaFrog,LOC,0.0,0.0,en,1
-Israel,Israel,LOC,0.0,0.0,en,1
-state of emergency after hundreds of earthquakes shake Greek island for days,state of emergency after hundreds of earthquakes shake Greek island for days,LOC,0.0,0.0,en,1
-Forbes,Forbes,LOC,0.0,0.0,en,1
-Mauna Loa,Mauna Loa,LOC,0.0,0.0,en,1
-U.K.,U.K.,LOC,0.0,0.0,en,1
-N… Bacolod City,N… Bacolod City,LOC,0.0,0.0,en,1
-London,London,LOC,0.0,0.0,en,1
-Greek island,Greek island,LOC,0.0,0.0,en,1
-Hawaiian,Hawaiian,LOC,0.0,0.0,en,1
+underwater volcano near Santorini,underwater volcano near Santorini,LOC,0.0,0.0,en,1
+Greece,Greece,LOC,0.0,0.0,en,1
+HONOLULU  Kilauea,HONOLULU  Kilauea,LOC,0.0,0.0,en,1
+Kilauea spews,Kilauea spews,LOC,-0.7,0.0,en,1
+latest eruption,latest eruption,LOC,0.0,0.0,en,1
+Big Island is spewing,Big Island is spewing,LOC,-0.7,0.0,en,1
+a fiery display,a fiery display,LOC,0.0,0.0,en,1
+spewed a gigantic fountain of lava roughly 330 feet,spewed a gigantic fountain of lava roughly 330 feet,LOC,0.0,0.0,en,1
+Mount Lewotobi Laki-Lak,Mount Lewotobi Laki-Lak,LOC,0.85,0.0,en,1
+Mount Etna erupts again,Mount Etna erupts again,LOC,0.0,0.0,en,1
+Europe's tallest and most active volcano,Europe's tallest and most active volcano,LOC,0.0,0.0,en,1
+El Salvador,El Salvador,LOC,0.0,0.0,en,1
+th…,th…,LOC,0.0,0.0,en,1
+Etna Spewing Lava Over The Snow-Capped,Etna Spewing Lava Over The Snow-Capped,LOC,0.0,0.0,en,1
+a volcano near Alaskas largest city,a volcano near Alaskas largest city,LOC,0.0,0.0,en,1
