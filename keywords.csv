@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.4098294752131938
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.1963570208230078
-'volcano',en,Hazard,#4287f5,#638ed4,3,0.1625676364548315
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.1658664837138795
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.1377197756971954
 'volcano death',en,Impacts,#a89216,#87830f,3,0.1362031842462788
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.129260780711261
@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0501394423948925
 'volcano tektonic',en,Causes,#679e2c,#477515,1,0.0449775954874955
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0421922863378762
-'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.03836795303201736
+'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0383679530320173
