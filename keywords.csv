@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano alert',en,Mitigation,#9e3215,#d64118,3,0.1196494970215968
-'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.11354565942422007
+'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.11354565942422
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.1041810006383772
-'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.1029527988978653
 'volcano',en,Hazard,#4287f5,#638ed4,3,0.1029093080852182
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,2,0.0985651183762271
+'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.09700059874060485
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0962639637036851
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0917943309755777
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0916905956385183
