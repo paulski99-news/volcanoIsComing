@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,2,0.0911187144978004
 'volcano alert',en,Mitigation,#9e3215,#d64118,3,0.0907985120981036
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0875149110066604
+'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.08596869761006046
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0856585639418031
-'volcano damage',en,Impacts,#a89216,#87830f,2,0.08258819129274055
+'volcano damage',en,Impacts,#a89216,#87830f,2,0.0825881912927405
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0784349917759124
-'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.0777644426244119
 'volcano rescue',en,Mitigation,#9e3215,#d64118,1,0.0643999805619203
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0574842567737687
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0473006362654791
