@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano',en,Hazard,#4287f5,#638ed4,3,0.1491118643515114
-'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.1041810006383772
+'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.10305455554262062
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0902459260380196
 'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.0859686976100604
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0856585639418031
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,2,0.0818014923231303
-'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.07899101949087979
+'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.0789910194908797
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0788886493556613
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0748510575988294
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0737982963080966
