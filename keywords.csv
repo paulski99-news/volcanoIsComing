@@ -5,14 +5,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.0715555503959963
 'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0663077137824423
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0656462470111711
-'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.06349602061965322
+'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0634960206196532
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.0630887501657061
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0585959104500737
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0530979287577721
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0510877305223957
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0503328864179164
-'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0468376814518086
 'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.0442057216894508
+'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.04101219423403731
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.006153954982743
 'volcano tektonic',en,Causes,#679e2c,#477515,1,0.0054380383818159
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0042597713357884
