@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0586227875267052
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0585959104500737
 'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.0521258284081454
-'volcano victims',en,Impacts,#a89216,#87830f,1,0.0396861628024308
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0364732481981923
+'volcano victims',en,Impacts,#a89216,#87830f,1,0.03538341838206618
 'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.0334581762700338
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0325341688340919
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0031433768915038
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0021981683415707
-'volcano tektonic',en,Causes,#679e2c,#477515,1,0.00107061056720178
+'volcano tektonic',en,Causes,#679e2c,#477515,1,0.0010706105672017
