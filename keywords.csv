@@ -5,7 +5,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.0737479966089502
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0724543660647229
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0696544857774902
-'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0663077137824423
+'magma volcano',en,Hazard,#4287f5,#638ed4,3,0.06086260671507595
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0586227875267052
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0585959104500737
 'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.0521258284081454
