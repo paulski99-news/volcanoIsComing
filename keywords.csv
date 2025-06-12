@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0405350838227709
 'volcano death',en,Impacts,#a89216,#87830f,2,0.0352659280497147
 'volcano rescue',en,Mitigation,#9e3215,#d64118,1,0.0346741278550994
-'volcano victims',en,Impacts,#a89216,#87830f,1,0.0281898100310426
+'volcano victims',en,Impacts,#a89216,#87830f,1,0.025461503526386212
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0026577058952669
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0024247257584946
-'volcano tektonic',en,Causes,#679e2c,#477515,1,0.00015228552828714498
+'volcano tektonic',en,Causes,#679e2c,#477515,1,0.0001522855282871
