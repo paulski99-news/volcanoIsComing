@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano death',en,Impacts,#a89216,#87830f,2,0.040195228147149
 'volcano damage',en,Impacts,#a89216,#87830f,3,0.0365848252888152
 'volcano rescue',en,Mitigation,#9e3215,#d64118,1,0.0362263018327045
-'volcano victims',en,Impacts,#a89216,#87830f,1,0.0249109467285029
-'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.00295564394230958
+'volcano victims',en,Impacts,#a89216,#87830f,1,0.022224409719227463
+'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0029556439423095
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0027037873520823
 'volcano tektonic',en,Causes,#679e2c,#477515,1,5.017138317254793e-06
