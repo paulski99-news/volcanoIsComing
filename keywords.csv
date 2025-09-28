@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.0446027352240925
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0428337348397893
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.0407790797585743
-'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.038910772071895826
+'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.0389107720718958
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0366000978981177
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0307932041048833
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0263928854921694
 'volcano rescue',en,Mitigation,#9e3215,#d64118,1,0.024822878254808
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0024883594150112
-'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.002453657934885
+'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.00238565424465225
 'volcano tektonic',en,Causes,#679e2c,#477515,1,2.226130924913262e-06
