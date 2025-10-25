@@ -1,115 +1,311 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Kilauea volcano,Kilauea volcano,PER,0.0,0.0,en,11
-Mount Spurr,Mount Spurr,PER,0.0,0.0,en,7
-island volcano,island volcano,PER,0.0,0.0,en,6
-nan If you,nan If you,PER,0.0,0.0,en,4
-Tamsin Mather,Tamsin Mather,PER,0.0,0.0,en,4
-Panagiotis Papadimitriou,Panagiotis Papadimitriou,PER,0.3333333333333333,0.0,en,3
-Donato Sermeno III,Donato Sermeno III,PER,0.0,0.0,en,3
-Kilauea volcano is shooting lava,Kilauea volcano is shooting lava,PER,0.0,0.0,en,2
-slipping fo,slipping fo,PER,0.0,0.0,en,2
-shooting fountains,shooting fountains,PER,-0.7,0.0,en,2
-extinct volcano is home to unique wildlife,extinct volcano is home to unique wildlife,PER,0.0,0.0,en,2
-fiery accents,fiery accents,PER,0.0,0.0,en,2
-Mauna Loa,Mauna Loa,PER,0.35,0.0,en,2
-Mayor Javier Miguel Benitez disclosed recently,Mayor Javier Miguel Benitez disclosed recently,PER,0.0,0.0,en,2
-Mari-Andylene Quintia,Mari-Andylene Quintia,PER,0.0,0.0,en,2
-Zaha Hadid Architects,Zaha Hadid Architects,PER,0.0,0.0,en,2
-Baby Volcano,Baby Volcano,PER,0.0,0.0,en,2
-authoritarian drug addict,authoritarian drug addict,PER,0.0,0.0,en,2
-Vesuvius Volcano Ash Cloud,Vesuvius Volcano Ash Cloud,PER,0.0,0.0,en,2
-Eurasian badger,Eurasian badger,PER,1.0,0.0,en,2
-Antonia Bornas,Antonia Bornas,PER,0.0,0.0,en,2
-Lewotobi Laki-Laki volcano erupts,Lewotobi Laki-Laki volcano erupts,PER,0.0,0.0,en,2
-Dalton Trans,Dalton Trans,PER,0.0,0.0,en,2
-Mile-wide volcano,Mile-wide volcano,PER,0.0,0.0,en,2
-Lewotobi Laki-laki volcano spewed,Lewotobi Laki-laki volcano spewed,PER,0.15000000000000002,0.0,en,2
-Indonesia volcano erupts,Indonesia volcano erupts,PER,0.0,0.0,en,1
-Not contént,Not contént,PER,0.0,0.0,en,1
-Moises Castillo,Moises Castillo,PER,0.0,0.0,en,1
-Fuego volcano erupts,Fuego volcano erupts,PER,0.0,0.0,en,1
-Kevin Costner,Kevin Costner,PER,0.0,0.0,en,1
-Isabel Fields,Isabel Fields,PER,0.0,0.0,en,1
-prompting evacuations,prompting evacuations,PER,-0.7,0.0,en,1
-with grayish plumes,with grayish plumes,PER,0.0,0.0,en,1
-Bryan Kohberger,Bryan Kohberger,PER,0.0,0.0,en,1
-magnitude earthquake,magnitude earthquake,PER,0.0,0.0,en,1
-Mark Pritchard & Tom Yorke,Mark Pritchard & Tom Yorke,PER,0.0,0.0,en,1
-flight cancelations,flight cancelations,PER,-0.7,0.0,en,1
-Whakaari Manageme,Whakaari Manageme,PER,0.0,0.0,en,1
-"highlighting the ""looming threat"" of the volcanic island","highlighting the ""looming threat"" of the volcanic island",PER,0.0,0.0,en,1
-Kathryn Armstrong,Kathryn Armstrong,PER,-0.7,0.0,en,1
-Twenty-two people died and others were badly,Twenty-two people died and others were badly,PER,0.0,0.0,en,1
-The volcano,The volcano,PER,0.0,0.0,en,1
-Whakaari White Island volcano owners cleared over deadly eruption,Whakaari White Island volcano owners cleared over deadly eruption,PER,0.0,0.0,en,1
-Lewotobi Laki-Laki volca,Lewotobi Laki-Laki volca,PER,0.0,0.0,en,1
-Leonel Mijangos and,Leonel Mijangos and,PER,0.0,0.0,en,1
-aderire all’abbonamento,aderire all’abbonamento,PER,0.0,0.0,en,1
-forcing evacuations,forcing evacuations,PER,0.0,0.0,en,1
-By Russell Meyer,By Russell Meyer,PER,0.0,0.0,en,1
-volcano erupts,volcano erupts,PER,0.0,0.0,en,1
-suggesting magma movement beneath the surface,suggesting magma movement beneath the surface,PER,0.0,0.0,en,1
-rain-lashed clothes,rain-lashed clothes,PER,-0.7,0.0,en,1
-Jamie Fullerton,Jamie Fullerton,PER,0.0,0.0,en,1
-Under Arnolds Field on Launde,Under Arnolds Field on Launde,PER,0.0,0.0,en,1
-like many,like many,PER,0.0,0.0,en,1
-Lewotobi Laki-laki volcano erupts,Lewotobi Laki-laki volcano erupts,PER,0.0,0.0,en,1
-Stan Claridge,Stan Claridge,PER,0.0,0.0,en,1
-Steam Emits,Steam Emits,PER,0.0,0.0,en,1
-authorities said,authorities said,PER,1.0,0.0,en,1
-Puʻuloa Petroglyphs,Puʻuloa Petroglyphs,PER,0.0,0.0,en,1
-Indonesian volcano,Indonesian volcano,PER,-0.7,0.0,en,1
-Solomon Islands,Solomon Islands,PER,0.0,0.0,en,1
-Thursday evening,Thursday evening,PER,0.0,0.0,en,1
-Kavachi volcano,Kavachi volcano,PER,0.0,0.0,en,1
-continuously releas,continuously releas,PER,0.0,0.0,en,1
-Connor Morpurgo,Connor Morpurgo,PER,0.0,0.0,en,1
-Jeremy Damron,Jeremy Damron,PER,0.0,0.0,en,1
-Justice Moore,Justice Moore,PER,0.0,0.0,en,1
-Omayra Sánchez Garzón tragically died after,Omayra Sánchez Garzón tragically died after,PER,0.0,0.0,en,1
-Extinct Volcano Shows,Extinct Volcano Shows,PER,0.0,0.0,en,1
-less likely,less likely,PER,0.0,0.0,en,1
-After recalling the last tim,After recalling the last tim,PER,0.0,0.0,en,1
-Glen Powell,Glen Powell,PER,1.0,0.0,en,1
-After recalling the last,After recalling the last,PER,1.0,0.0,en,1
-Fisch Roslit Bay Timer Guide,Fisch Roslit Bay Timer Guide,PER,0.0,0.0,en,1
-Epicenter located southwest of Arkesini,Epicenter located southwest of Arkesini,PER,0.0,0.0,en,1
-extinct volcano,extinct volcano,PER,0.0,0.0,en,1
-Dina Genzola,Dina Genzola,PER,0.0,0.0,en,1
-Vesuvius Challenge,Vesuvius Challenge,PER,0.0,0.0,en,1
-Underwater volcano off the coast of,Underwater volcano off the coast of,PER,0.0,0.0,en,1
-Underwater Volcano Inflating,Underwater Volcano Inflating,PER,0.0,0.0,en,1
-Christopher Plain,Christopher Plain,PER,0.0,0.0,en,1
-Yanhong Ma,Yanhong Ma,PER,0.0,0.0,en,1
-tucked underneath a submerged,tucked underneath a submerged,PER,0.0,0.0,en,1
-Kilauea Erupts Again,Kilauea Erupts Again,PER,0.0,0.0,en,1
-Rachel Berkowitz,Rachel Berkowitz,PER,0.0,0.0,en,1
-Mark Zumberg,Mark Zumberg,PER,0.0,0.0,en,1
-Underwater volcano off Oregon Coast could erupt by,Underwater volcano off Oregon Coast could erupt by,PER,0.0,0.0,en,1
-Donato Sermeno,Donato Sermeno,PER,0.0,0.0,en,1
-Amanuel Sileshi,Amanuel Sileshi,PER,0.0,0.0,en,1
-incredible pink,incredible pink,PER,0.0,0.0,en,1
-Teresa Ubide,Teresa Ubide,PER,0.7,0.0,en,1
-Liza Lester,Liza Lester,PER,0.0,0.0,en,1
-a snowboarder,a snowboarder,PER,0.0,0.0,en,1
-imposing bare-chested,imposing bare-chested,PER,0.0,0.0,en,1
-Naked youths,Naked youths,PER,0.0,0.0,en,1
-unique jewelry,unique jewelry,PER,0.0,0.0,en,1
-frontman of Kentucky,frontman of Kentucky,PER,0.0,0.0,en,1
-Francisco Chronicle,Francisco Chronicle,PER,0.0,0.0,en,1
-Theres something,Theres something,PER,0.0,0.0,en,1
-Raul Fernand,Raul Fernand,PER,0.0,0.0,en,1
-Raul Fernandez,Raul Fernandez,PER,0.0,0.0,en,1
-Ian Greenwood,Ian Greenwood,PER,0.0,0.0,en,1
-Marco Bassot,Marco Bassot,PER,0.0,0.0,en,1
-Ian Lee Ananoria,Ian Lee Ananoria,PER,0.0,0.0,en,1
-Etna Erupts,Etna Erupts,PER,0.0,0.0,en,1
-Gallo Images,Gallo Images,PER,0.0,0.0,en,1
-Caribbean waters,Caribbean waters,PER,0.0,0.0,en,1
-thick jungles,thick jungles,PER,0.0,0.0,en,1
-Flor de Cana,Flor de Cana,PER,0.0,0.0,en,1
-hour later,hour later,PER,0.0,0.0,en,1
-volcano eruptions,volcano eruptions,PER,0.0,0.0,en,1
-astrology explains recent,astrology explains recent,PER,0.0,0.0,en,1
-Volcano Eruptions,Volcano Eruptions,PER,0.0,0.0,en,1
-Ξυπνάει ο,Ξυπνάει ο,PER,0.0,0.0,en,1
+Juliana Marins,Juliana Marins,PERSON,-0.06042904335357167,0.3347005998892792,en,53
+Axial Seamount,Axial Seamount,PERSON,0.08031907530454042,0.3302233296419343,en,43
+Mount Spurr,Mount Spurr,PERSON,0.014060846560846565,0.3981349206349207,en,21
+Mount Lewotobi Laki-Laki,Mount Lewotobi Laki-Laki,PERSON,-0.017333333333333326,0.20066666666666666,en,15
+Mount Lewotobi Laki Laki,Mount Lewotobi Laki Laki,PERSON,0.10746512746512746,0.33116883116883117,en,14
+Mount Lewotobi Laki-laki,Mount Lewotobi Laki-laki,PERSON,0.10153846153846155,0.3101282051282051,en,13
+Lewotobi Laki-laki,Lewotobi Laki-laki,PERSON,0.0763846153846154,0.16669230769230767,en,13
+Lewotobi Laki-Laki,Lewotobi Laki-Laki,PERSON,0.1953125,0.3953125,en,12
+Lewotobi Laki,Lewotobi Laki,PERSON,0.15241702741702742,0.5117604617604617,en,9
+Donato Sermeno III,Donato Sermeno III,PERSON,0.014285714285714287,0.021428571428571432,en,7
+Volcanologist Tamsin Mather,Volcanologist Tamsin Mather,PERSON,0.0,0.0,en,6
+Chris Evans,Chris Evans,PERSON,0.10828282828282829,0.35464646464646465,en,5
+Anya Taylor-Joy,Anya Taylor-Joy,PERSON,0.2532828282828283,0.517979797979798,en,5
+Mother Nature,Mother Nature,PERSON,0.30781250000000004,0.5625,en,4
+Klyuchevskaya Sopka,Klyuchevskaya Sopka,PERSON,0.0,0.275,en,4
+Antonia Bornas,Antonia Bornas,PERSON,0.03611111111111111,0.12361111111111112,en,4
+Gianfranco Rosi,Gianfranco Rosi,PERSON,0.14556818181818182,0.36397727272727276,en,4
+Chuck Norris,Chuck Norris,PERSON,-0.03333333333333333,0.15,en,4
+Mt Ruapehu,Mt Ruapehu,PERSON,-0.03333333333333333,0.5166666666666667,en,3
+Frank Grillo,Frank Grillo,PERSON,-0.46342592592592596,0.5481481481481482,en,3
+John Fitzpatrick,John Fitzpatrick,PERSON,0.0303030303030303,0.10101010101010101,en,3
+Lewotobi Laki Laki,Lewotobi Laki Laki,PERSON,0.04722222222222222,0.125,en,3
+Donald Trump,Donald Trump,PERSON,0.022222222222222227,0.2333333333333333,en,3
+Nicki Minaj,Nicki Minaj,PERSON,0.3588541666666667,0.2333333333333333,en,3
+Concepción Huerta,Concepción Huerta,PERSON,0.06666666666666667,0.3833333333333333,en,3
+Nicholas Day,Nicholas Day,PERSON,0.0,0.0,en,3
+Raul Fernandez,Raul Fernandez,PERSON,0.005555555555555554,0.5055555555555555,en,3
+Laki Laki,Laki Laki,PERSON,0.10666666666666667,0.35999999999999993,en,3
+Jason Momoa,Jason Momoa,PERSON,0.08644781144781144,0.5014309764309764,en,3
+Mark Stewart,Mark Stewart,PERSON,0.20092592592592592,0.7777777777777777,en,3
+Mount Adams,Mount Adams,PERSON,0.16666666666666666,0.6666666666666666,en,3
+Mount Ibu,Mount Ibu,PERSON,0.07777777777777778,0.4222222222222222,en,3
+Romain Gavras,Romain Gavras,PERSON,0.3416666666666666,0.375,en,3
+Rex Jalando,Rex Jalando,PERSON,0.015833333333333335,0.28138888888888886,en,3
+La Castellana,La Castellana,PERSON,0.09166666666666667,0.325,en,3
+Gianni Sarasso,Gianni Sarasso,PERSON,-0.09583333333333333,0.2912037037037037,en,3
+Duca di Salaparuta,Duca di Salaparuta,PERSON,0.16666666666666666,0.3333333333333333,en,3
+Hawaiis Klauea,Hawaiis Klauea,PERSON,0.08989898989898991,0.5166666666666667,en,3
+Panagiotis Papadimitriou,Panagiotis Papadimitriou,PERSON,-0.08888888888888889,0.3111111111111111,en,3
+Mount Lewotobi,Mount Lewotobi,PERSON,0.10666666666666667,0.35999999999999993,en,3
+Pat Perry,Pat Perry,PERSON,-0.01565656565656566,0.19595959595959597,en,3
+Jeremy Damron,Jeremy Damron,PERSON,0.08333333333333333,0.1111111111111111,en,3
+Danny Amaro,Danny Amaro,PERSON,0.020833333333333336,0.125,en,2
+Acatenango volcano,Acatenango volcano,PERSON,0.8,0.95,en,2
+Baby Volcano,Baby Volcano,PERSON,0.2,0.325,en,2
+Sicilys Mount Etna,Sicilys Mount Etna,PERSON,0.033333333333333326,0.44999999999999996,en,2
+Añejo Nicor,Añejo Nicor,PERSON,0.25,0.25,en,2
+HONOLULU Lava,HONOLULU Lava,PERSON,0.23611111111111113,0.6083333333333334,en,2
+Doug Aitken Workshop,Doug Aitken Workshop,PERSON,0.010416666666666666,0.15555555555555556,en,2
+Doña Hortensia Salas-Benedicto,Doña Hortensia Salas-Benedicto,PERSON,0.08,0.3033333333333333,en,2
+Russias Klyuchevskoy,Russias Klyuchevskoy,PERSON,0.07500000000000001,0.325,en,2
+Jeroen Van Nieuwenhove,Jeroen Van Nieuwenhove,PERSON,0.8,0.8,en,2
+Ferdinand Marcos Jr,Ferdinand Marcos Jr,PERSON,0.25,0.25,en,2
+Krasheninnikov Volcano Erupts,Krasheninnikov Volcano Erupts,PERSON,0.026388888888888896,0.26944444444444443,en,2
+Volcán Pabellones,Volcán Pabellones,PERSON,-0.25,0.5,en,2
+Ana Maria Laarni Pornan,Ana Maria Laarni Pornan,PERSON,0.11666666666666668,0.4000000000000001,en,2
+Kanlaon Vo,Kanlaon Vo,PERSON,0.05833333333333334,0.20000000000000004,en,2
+Krasheninnikov Volcano,Krasheninnikov Volcano,PERSON,0.3,0.5,en,2
+Anna Isabella Christensen,Anna Isabella Christensen,PERSON,-0.004807692307692311,0.3721153846153846,en,2
+Yury Demyanchuk,Yury Demyanchuk,PERSON,0.0,0.1,en,2
+Harry Truman,Harry Truman,PERSON,0.325,0.5,en,2
+Ryan Dunn,Ryan Dunn,PERSON,0.43333333333333335,0.8500000000000001,en,2
+Joe Versus,Joe Versus,PERSON,0.35,0.5722222222222222,en,2
+Dantes Peak 1997,Dantes Peak 1997,PERSON,0.0,0.0,en,2
+Romain Gavras’,Romain Gavras’,PERSON,0.11249999999999999,0.20833333333333334,en,2
+Mount Etna,Mount Etna,PERSON,0.18333333333333335,0.55,en,2
+Daryll Arro,Daryll Arro,PERSON,0.0,0.0,en,2
+Eugenio Jose Lacson,Eugenio Jose Lacson,PERSON,0.16666666666666666,0.4166666666666667,en,2
+William Levy-starrers,William Levy-starrers,PERSON,0.3,0.44000000000000006,en,2
+Javier Miguel Benitez,Javier Miguel Benitez,PERSON,0.15000000000000002,0.4375,en,2
+El Sol de los Muertos,El Sol de los Muertos,PERSON,-0.08333333333333334,0.44166666666666665,en,2
+Armando Manguleh,Armando Manguleh,PERSON,0.0,0.0,en,2
+Ian Lee Ananoria,Ian Lee Ananoria,PERSON,0.0,0.05,en,2
+Mount Shinmoe,Mount Shinmoe,PERSON,0.0,0.0,en,2
+Glen Powell,Glen Powell,PERSON,0.10555555555555556,0.31111111111111106,en,2
+Jeroene van Nieuwenhove,Jeroene van Nieuwenhove,PERSON,0.125,0.24107142857142855,en,2
+Mount Kaputar,Mount Kaputar,PERSON,-0.10714285714285715,0.4614285714285714,en,2
+Jack Draper,Jack Draper,PERSON,0.0,0.0,en,2
+Ryo Tatsuki,Ryo Tatsuki,PERSON,0.0,0.0,en,2
+Muhammad Wafid,Muhammad Wafid,PERSON,0.018749999999999996,0.76875,en,2
+Influencer Juliana Marins,Influencer Juliana Marins,PERSON,-0.06666666666666667,0.8,en,2
+Lois Lane,Lois Lane,PERSON,-0.038461538461538464,0.1346153846153846,en,2
+Lex Luthor,Lex Luthor,PERSON,-0.038461538461538464,0.1346153846153846,en,2
+Lara Winslet,Lara Winslet,PERSON,0.15000000000000002,0.3625,en,2
+Bradley Nowell,Bradley Nowell,PERSON,-0.3333333333333333,0.7666666666666666,en,2
+Michael Snyder,Michael Snyder,PERSON,0.203125,0.53125,en,2
+Mari-Andylene Quintia,Mari-Andylene Quintia,PERSON,0.0,0.0,en,2
+Omayra Sánchez Garzón,Omayra Sánchez Garzón,PERSON,-0.12083333333333335,0.4458333333333333,en,2
+Chris Smith,Chris Smith,PERSON,-0.2576388888888889,0.32222222222222224,en,2
+DJ Python,DJ Python,PERSON,0.0,0.0,en,2
+Cristina Parreño Alonso,Cristina Parreño Alonso,PERSON,0.0,0.0,en,1
+Mike Poland,Mike Poland,PERSON,0.0,0.16666666666666666,en,1
+Baba Vanga,Baba Vanga,PERSON,0.0,0.0,en,1
+Mount Semeru,Mount Semeru,PERSON,-0.13333333333333333,0.6,en,1
+Bambang Sugiono,Bambang Sugiono,PERSON,0.0,0.05,en,1
+Hiking Influencer’s,Hiking Influencer’s,PERSON,0.0,0.0,en,1
+Ulanhada Volcano Hotless Cosmic Grassland,Ulanhada Volcano Hotless Cosmic Grassland,PERSON,0.13636363636363635,0.45454545454545453,en,1
+James Cameron‘s,James Cameron‘s,PERSON,0.2375,0.4083333333333333,en,1
+James Cameron,James Cameron,PERSON,0.5,0.5,en,1
+Getty ImagesMy,Getty ImagesMy,PERSON,-0.14166666666666664,0.4694444444444444,en,1
+Julian Marins,Julian Marins,PERSON,-0.1,0.4958333333333333,en,1
+Beerenberg volc,Beerenberg volc,PERSON,0.0,0.0,en,1
+Russiaâs Klyuchevskoy,Russiaâs Klyuchevskoy,PERSON,0.0,1.0,en,1
+Ile Lewotolok,Ile Lewotolok,PERSON,0.0,0.0,en,1
+NASA Aq,NASA Aq,PERSON,0.0,0.0,en,1
+Frank Bosse,Frank Bosse,PERSON,0.065,0.39,en,1
+Te Wai,Te Wai,PERSON,0.0,0.0,en,1
+Vivian McCall,Vivian McCall,PERSON,0.35,0.55,en,1
+Te Wai ā-moe,Te Wai ā-moe,PERSON,0.0,0.0,en,1
+Jungle Man,Jungle Man,PERSON,0.25,0.4666666666666666,en,1
+Benedikt Ofeigsson,Benedikt Ofeigsson,PERSON,-0.10555555555555556,0.43888888888888894,en,1
+Mount Lewotobi Laki-L,Mount Lewotobi Laki-L,PERSON,0.3,0.8,en,1
+Mount Lewotobi Laki,Mount Lewotobi Laki,PERSON,0.0,0.0,en,1
+Hunga Haʻapai,Hunga Haʻapai,PERSON,0.45,0.45,en,1
+Shinmoedake Erupts,Shinmoedake Erupts,PERSON,0.25,0.3333333333333333,en,1
+Mount Rainier,Mount Rainier,PERSON,0.25625000000000003,0.6437499999999999,en,1
+Benedikt Emmenegger,Benedikt Emmenegger,PERSON,-0.07222222222222223,0.2534722222222222,en,1
+Skylar Tibbits,Skylar Tibbits,PERSON,0.0,0.0,en,1
+Negros Occid,Negros Occid,PERSON,0.0,0.0,en,1
+Benedikt Emme,Benedikt Emme,PERSON,0.0,0.0,en,1
+Jan Mayen,Jan Mayen,PERSON,0.0,0.0,en,1
+Icelands Second,Icelands Second,PERSON,0.0,0.0,en,1
+Cassie B,Cassie B,PERSON,0.2375,0.575,en,1
+Mt Lewotobi,Mt Lewotobi,PERSON,0.0,0.75,en,1
+tequila connoisse,tequila connoisse,PERSON,0.0,0.0,en,1
+Ptolemy Mañego,Ptolemy Mañego,PERSON,0.15,0.27666666666666667,en,1
+Rick Flag Sr,Rick Flag Sr,PERSON,-0.875,1.0,en,1
+Flag Sr,Flag Sr,PERSON,-0.875,1.0,en,1
+Dirk-jan Mollema,Dirk-jan Mollema,PERSON,0.0,0.0,en,1
+Matthew Chuang,Matthew Chuang,PERSON,0.0,0.0,en,1
+Lassen Peak,Lassen Peak,PERSON,0.0,0.03333333333333333,en,1
+Port Blair,Port Blair,PERSON,0.16666666666666666,0.5833333333333334,en,1
+sueñan con la música - ¡,sueñan con la música - ¡,PERSON,0.0,0.0,en,1
+Cécile McLorin Salvant,Cécile McLorin Salvant,PERSON,0.0,0.0,en,1
+disco de su pianista,disco de su pianista,PERSON,-0.15625,0.34375,en,1
+Sullivan Fortner,Sullivan Fortner,PERSON,-0.15625,0.34375,en,1
+Chad Wallin,Chad Wallin,PERSON,0.0,0.0,en,1
+Mexicoâs PopocatÃ,Mexicoâs PopocatÃ,PERSON,0.0,0.0,en,1
+Jaime Maussan,Jaime Maussan,PERSON,0.325,0.675,en,1
+Mount Etnas,Mount Etnas,PERSON,0.5,1.0,en,1
+Duca di,Duca di,PERSON,0.0,0.0,en,1
+Cape Verde,Cape Verde,PERSON,0.0,0.78,en,1
+Dantes Peak,Dantes Peak,PERSON,-0.010101010101010102,0.3737373737373737,en,1
+Miriam Christina Reiss,Miriam Christina Reiss,PERSON,0.0,0.0,en,1
+Johannes Gutenberg U,Johannes Gutenberg U,PERSON,0.0,0.0,en,1
+Miriam Chris,Miriam Chris,PERSON,0.0,0.0,en,1
+Mount Lewotob,Mount Lewotob,PERSON,0.0,0.0,en,1
+Indonesia Volca,Indonesia Volca,PERSON,0.18333333333333335,0.55,en,1
+George Santos,George Santos,PERSON,0.0,0.0,en,1
+Steven Tuck,Steven Tuck,PERSON,0.3333333333333333,1.0,en,1
+Mount Taftan,Mount Taftan,PERSON,0.0,0.0,en,1
+Boba Fett - Black White,Boba Fett - Black White,PERSON,0.2541666666666667,0.44375000000000003,en,1
+Boba Fett,Boba Fett,PERSON,-0.05555555555555555,0.14444444444444446,en,1
+Cowart CC BY-SA,Cowart CC BY-SA,PERSON,-0.4,0.8500000000000001,en,1
+Tommy Lee Jones,Tommy Lee Jones,PERSON,0.0,0.0,en,1
+Olga Girina,Olga Girina,PERSON,0.075,0.3666666666666667,en,1
+Warren Buffett,Warren Buffett,PERSON,-0.18518518518518523,0.2962962962962963,en,1
+Russias Krasheninnikov,Russias Krasheninnikov,PERSON,0.25,0.3333333333333333,en,1
+Ellyn Mustard,Ellyn Mustard,PERSON,0.0,0.0,en,1
+Mark Moran,Mark Moran,PERSON,-0.016666666666666666,0.13333333333333333,en,1
+Klyuchevskoy Volcano’s,Klyuchevskoy Volcano’s,PERSON,0.33,0.72,en,1
+Magnús Tumi Gudmundsson,Magnús Tumi Gudmundsson,PERSON,-0.13333333333333333,0.6,en,1
+Macan GTS,Macan GTS,PERSON,-0.026767676767676774,0.32929292929292925,en,1
+Olivia Post,Olivia Post,PERSON,1.0,1.0,en,1
+La Carlota,La Carlota,PERSON,0.0,0.0,en,1
+Sitio Guintubdan,Sitio Guintubdan,PERSON,0.2,0.24666666666666665,en,1
+Francis Bacon,Francis Bacon,PERSON,0.0,0.0,en,1
+Lewotobi erupts,Lewotobi erupts,PERSON,0.5,0.5,en,1
+Mike Tyler,Mike Tyler,PERSON,0.0,0.0,en,1
+AUDREY McAVOY,AUDREY McAVOY,PERSON,0.16,0.5399999999999999,en,1
+Mamata Banerjee,Mamata Banerjee,PERSON,0.25,0.8500000000000001,en,1
+Corbin Smith,Corbin Smith,PERSON,0.06818181818181818,0.25,en,1
+Volcán Acatenango,Volcán Acatenango,PERSON,0.35714285714285715,0.5714285714285714,en,1
+Volcán Fuego,Volcán Fuego,PERSON,0.35714285714285715,0.5714285714285714,en,1
+Kīlauea Volcano,Kīlauea Volcano,PERSON,0.0,0.0,en,1
+Ariel Zilber,Ariel Zilber,PERSON,0.13636363636363635,0.5,en,1
+Klauea vol,Klauea vol,PERSON,0.13636363636363635,0.5,en,1
+Mahendra Bakle,Mahendra Bakle,PERSON,0.0,0.4666666666666666,en,1
+Ruben Östlund,Ruben Östlund,PERSON,0.0,0.0,en,1
+Sam Richardson,Sam Richardson,PERSON,0.5,0.5,en,1
+Miriam Silverman,Miriam Silverman,PERSON,0.5,0.5,en,1
+Jaime Vasquez,Jaime Vasquez,PERSON,0.0,0.0,en,1
+Guv Lacson,Guv Lacson,PERSON,0.5,0.5,en,1
+Punta Pennata ri,Punta Pennata ri,PERSON,0.0,0.0,en,1
+Kevin Costner,Kevin Costner,PERSON,0.3,0.35,en,1
+Peter Buttle,Peter Buttle,PERSON,0.0,0.0,en,1
+Whakaari White Island,Whakaari White Island,PERSON,-0.1,0.2,en,1
+Whakaari Manageme,Whakaari Manageme,PERSON,0.0,0.0,en,1
+Tom Yorke,Tom Yorke,PERSON,0.0,0.0,en,1
+mais lutilisa,mais lutilisa,PERSON,0.0,0.0,en,1
+Hawa iian,Hawa iian,PERSON,0.4,0.6,en,1
+Dover White,Dover White,PERSON,-0.0625,0.1875,en,1
+Bryan Kohberger,Bryan Kohberger,PERSON,-0.037500000000000006,0.025,en,1
+Dagoth Ur,Dagoth Ur,PERSON,-0.08499999999999999,0.885,en,1
+Zaha Hadid Architects,Zaha Hadid Architects,PERSON,0.0,0.0,en,1
+Hadid Architects,Hadid Architects,PERSON,-0.8,1.0,en,1
+Isabel Fields,Isabel Fields,PERSON,0.0,0.0,en,1
+Yogi Bear,Yogi Bear,PERSON,0.3,0.35,en,1
+Tom Hanks,Tom Hanks,PERSON,0.45,0.6444444444444445,en,1
+Raul Fernand,Raul Fernand,PERSON,0.0,0.0,en,1
+Meg Ryan,Meg Ryan,PERSON,0.45,0.6444444444444445,en,1
+Moises Castillo,Moises Castillo,PERSON,0.0,0.0,en,1
+Se hai scelto di non accettare,Se hai scelto di non accettare,PERSON,0.0,0.0,en,1
+puoi aderire,puoi aderire,PERSON,0.0,0.0,en,1
+Leonel Mijangos,Leonel Mijangos,PERSON,0.0,0.0,en,1
+Sigmar Soulbound,Sigmar Soulbound,PERSON,-0.02121212121212122,0.4515151515151515,en,1
+Puʻuloa Petroglyphs,Puʻuloa Petroglyphs,PERSON,0.0,0.0,en,1
+Halemaʻumaʻu Crater,Halemaʻumaʻu Crater,PERSON,0.16666666666666666,0.375,en,1
+Halemaumau Crater,Halemaumau Crater,PERSON,0.06666666666666667,0.43333333333333335,en,1
+Alaskas Mount Spurr,Alaskas Mount Spurr,PERSON,-0.055555555555555504,0.6722222222222222,en,1
+Alaskaâs Mount Spurr,Alaskaâs Mount Spurr,PERSON,0.1,0.4,en,1
+Willow Tohi,Willow Tohi,PERSON,0.2375,0.575,en,1
+Jamie Fullerton,Jamie Fullerton,PERSON,0.0,0.0,en,1
+Mount Fentale,Mount Fentale,PERSON,0.0,1.0,en,1
+Marco Bassot,Marco Bassot,PERSON,0.0,0.5,en,1
+Lewotobi Laki Lak,Lewotobi Laki Lak,PERSON,0.0,0.0,en,1
+Fisch Roslit Bay Timer Guide,Fisch Roslit Bay Timer Guide,PERSON,0.0,0.0,en,1
+Amanuel Sileshi,Amanuel Sileshi,PERSON,0.0,0.0,en,1
+Donato Sermeno,Donato Sermeno,PERSON,0.0,0.0,en,1
+Tamsin Mather,Tamsin Mather,PERSON,0.0,0.0,en,1
+Mark Zumberg,Mark Zumberg,PERSON,0.5,0.5,en,1
+Hawaiis Kilauea,Hawaiis Kilauea,PERSON,0.2888888888888889,0.5333333333333333,en,1
+Dalton Trans,Dalton Trans,PERSON,0.0,0.0,en,1
+PaperHuiling Si,PaperHuiling Si,PERSON,0.0,0.0,en,1
+Yanhong Ma,Yanhong Ma,PERSON,0.0,0.0,en,1
+Hang Zu,Hang Zu,PERSON,0.0,0.0,en,1
+Peles Hair,Peles Hair,PERSON,0.3,0.9,en,1
+earthquakeThe Guardian,earthquakeThe Guardian,PERSON,-0.02847222222222222,0.30833333333333335,en,1
+JILL LAWLESS,JILL LAWLESS,PERSON,-0.3,0.55,en,1
+Agriculturist Dina Genzola,Agriculturist Dina Genzola,PERSON,0.0,0.0,en,1
+Fisch Roslit Bay,Fisch Roslit Bay,PERSON,0.0,0.0,en,1
+Etna Erupts,Etna Erupts,PERSON,0.0,0.0,en,1
+Kanlaon emitted,Kanlaon emitted,PERSON,0.25,0.375,en,1
+Volcanologist Teresa Ubide,Volcanologist Teresa Ubide,PERSON,-0.08888888888888889,0.6166666666666667,en,1
+Liza Lester,Liza Lester,PERSON,0.0,0.0,en,1
+Kanlaon Volc,Kanlaon Volc,PERSON,0.0,0.0,en,1
+Mount Lewotobi Laki-Lak,Mount Lewotobi Laki-Lak,PERSON,-0.16666666666666666,0.16666666666666666,en,1
+Nayib Bukele,Nayib Bukele,PERSON,0.0,0.0,en,1
+Bitcoin Berlín,Bitcoin Berlín,PERSON,-0.16666666666666666,0.16666666666666666,en,1
+Etna Spewing,Etna Spewing,PERSON,0.0,0.0,en,1
+Flor de Cana,Flor de Cana,PERSON,0.0,0.0,en,1
+volcano swakens,volcano swakens,PERSON,0.13636363636363635,0.45454545454545453,en,1
+mass displaceme,mass displaceme,PERSON,-0.75,0.75,en,1
+Volcano sei,Volcano sei,PERSON,0.0,0.0,en,1
+Copernicus Sentinel-2,Copernicus Sentinel-2,PERSON,-0.10370370370370373,0.19259259259259262,en,1
+Russell Meyer,Russell Meyer,PERSON,-0.05,0.4,en,1
+Klauea su,Klauea su,PERSON,0.33166666666666667,0.535,en,1
+Red Kry,Red Kry,PERSON,-0.038461538461538464,0.1346153846153846,en,1
+Matt LaFever,Matt LaFever,PERSON,0.16666666666666666,0.3333333333333333,en,1
+Campi Flegrei,Campi Flegrei,PERSON,0.0,1.0,en,1
+Il momento della,Il momento della,PERSON,0.0,0.0,en,1
+colata piroclastica,colata piroclastica,PERSON,0.0,0.0,en,1
+Mount Etna Reawakens,Mount Etna Reawakens,PERSON,0.0,0.0,en,1
+mountainFOX Wea,mountainFOX Wea,PERSON,0.08703703703703702,0.29629629629629634,en,1
+Paul Tillich,Paul Tillich,PERSON,0.0,0.0,en,1
+Fabrizio Villa,Fabrizio Villa,PERSON,0.2166666666666667,0.5833333333333334,en,1
+Giuseppe Distefano,Giuseppe Distefano,PERSON,0.0,0.0,en,1
+Robin Sharma,Robin Sharma,PERSON,0.6,0.6666666666666666,en,1
+Juan Laureano,Juan Laureano,PERSON,0.0,0.0,en,1
+Marcus Tullius Cicero,Marcus Tullius Cicero,PERSON,0.0,0.0,en,1
+Cloud Topsby,Cloud Topsby,PERSON,0.04545454545454545,0.18484848484848485,en,1
+Kevin W,Kevin W,PERSON,0.25,0.475,en,1
+Jezero Mons,Jezero Mons,PERSON,0.5,1.0,en,1
+Grandpa Truman,Grandpa Truman,PERSON,0.5,0.6,en,1
+Marsby Clarence,Marsby Clarence,PERSON,0.5,1.0,en,1
+Barney Henderson,Barney Henderson,PERSON,-0.08333333333333333,0.08333333333333333,en,1
+Lewotobi volcano,Lewotobi volcano,PERSON,0.03,0.26999999999999996,en,1
+Indonesias Flores,Indonesias Flores,PERSON,0.0,0.0,en,1
+Maumere inEast,Maumere inEast,PERSON,0.031249999999999993,0.25625,en,1
+Avi Hallan,Avi Hallan,PERSON,-0.07083333333333335,0.1791666666666667,en,1
+Mount Lewotobi Laki-La,Mount Lewotobi Laki-La,PERSON,0.0,0.0,en,1
+Koh Ewe,Koh Ewe,PERSON,-0.016666666666666663,0.5,en,1
+Sofia Ferreira SantosReporting,Sofia Ferreira SantosReporting,PERSON,-0.016666666666666663,0.5,en,1
+Carlos Alcaraz,Carlos Alcaraz,PERSON,0.0,0.0,en,1
+Juliana Mari,Juliana Mari,PERSON,0.2222222222222222,0.5944444444444444,en,1
+Rachel Hagan,Rachel Hagan,PERSON,-0.07777777777777778,0.4666666666666666,en,1
+Mt Rinjani,Mt Rinjani,PERSON,-0.2833333333333333,0.4666666666666667,en,1
+Dagmara SochaIncas,Dagmara SochaIncas,PERSON,0.37142857142857144,0.5333333333333333,en,1
+Chrysomallon squamiferum,Chrysomallon squamiferum,PERSON,0.125,0.3,en,1
+Donald Trump’s,Donald Trump’s,PERSON,-0.06666666666666667,0.03333333333333333,en,1
+Cheryl Decena,Cheryl Decena,PERSON,-0.1125,0.2375,en,1
+μεγαλύτερος εφιάλτης,μεγαλύτερος εφιάλτης,PERSON,0.0,0.0,en,1
+στην καρδιά των ΗΠΑ,στην καρδιά των ΗΠΑ,PERSON,0.0,0.0,en,1
+Nick Begich,Nick Begich,PERSON,0.0,0.0,en,1
+Bruno Mangyoku,Bruno Mangyoku,PERSON,0.5,1.0,en,1
+Danil Krivoruchko,Danil Krivoruchko,PERSON,0.5,1.0,en,1
+Taili Wu,Taili Wu,PERSON,0.5,1.0,en,1
+Monster Shaper,Monster Shaper,PERSON,0.5,1.0,en,1
+Georgia Astle,Georgia Astle,PERSON,-0.016666666666666663,0.35,en,1
+Claw Berrec,Claw Berrec,PERSON,0.0,0.0,en,1
+Ulfar Ludviksson,Ulfar Ludviksson,PERSON,0.0,0.0,en,1
+MARCO Di,MARCO Di,PERSON,0.5,0.5,en,1
+Charles Mudede,Charles Mudede,PERSON,-0.017045454545454548,0.3666666666666667,en,1
+Negros Oc,Negros Oc,PERSON,0.12222222222222223,0.5,en,1
+Arnhildur Pálmadóttir,Arnhildur Pálmadóttir,PERSON,0.05,0.1,en,1
+Kanlaon Volcan,Kanlaon Volcan,PERSON,0.0,0.0,en,1
+Lee Isaac Chung,Lee Isaac Chung,PERSON,0.0,0.0,en,1
+Sally Ride,Sally Ride,PERSON,0.0,0.0,en,1
+Michnus Olivier,Michnus Olivier,PERSON,0.0,0.0,en,1
+Mount Nyamuragira,Mount Nyamuragira,PERSON,0.0,0.0,en,1
+Brian DunningApril,Brian DunningApril,PERSON,0.25,0.25,en,1
+Robert Niles,Robert Niles,PERSON,0.0,0.4,en,1
+Joe Versus the Volcano,Joe Versus the Volcano,PERSON,-0.6999999999999998,0.6666666666666666,en,1
+Mike Kendall,Mike Kendall,PERSON,-0.00045454545454545747,0.39681818181818185,en,1
+George Erwin Garcia,George Erwin Garcia,PERSON,0.0,0.0,en,1
+George Erwin Garci,George Erwin Garci,PERSON,0.0,0.0,en,1
+Ariel Nepomuceno,Ariel Nepomuceno,PERSON,0.2,0.5,en,1
+Jonny Greenwood,Jonny Greenwood,PERSON,-0.25,0.25,en,1
+Michael McClary,Michael McClary,PERSON,0.0,0.0,en,1
+Ruth Asentista,Ruth Asentista,PERSON,0.16666666666666666,0.2833333333333333,en,1
