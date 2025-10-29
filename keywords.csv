@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano flights',en,Impacts,#a89216,#89801d,2,0.2852082128803571
-'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0752904960454035
-'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.053409720276995316
+'magma volcano',en,Hazard,#4287f5,#638ed4,1,0.06399740163859297
+'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.0534097202769953
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,1,0.0410177035474636
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.039288526551017
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0370257976307354
