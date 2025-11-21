@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcano tectonic',en,Causes,#679e2c,#477515,1,0.1005641348035598
-'volcano',en,Hazard,#4287f5,#638ed4,3,0.07071251342200958
+'volcano tectonic',en,Causes,#679e2c,#477515,1,0.08697966458302583
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.0707125134220095
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0546103730486218
 'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0416164296201115
 'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.0398621938205314
