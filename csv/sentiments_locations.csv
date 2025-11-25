@@ -714,8 +714,7 @@ Philipines,Philipines,GPE,0.00000000,0.00000000,en,1.00000000,,0,,,,,,
 the Negros Island,the Negros Island,LOC,0.00000000,0.00000000,en,1.00000000,,0,,,,,,
 "the Juan d… iStockphoto
 ","the Juan d… iStockphoto
-
-",LOC,0.10000000,0.40000000,en,1.00000000,,0,,,,,,
+",LOC,0.10000000,0.40000000,en,1.00000000,,-1,,,,,,
 the Pacific Northwest's,the Pacific Northwest's,LOC,0.18333333,0.55000000,en,1.00000000,,0,,,,,,
 Tenggara,Tenggara,GPE,1.38500000,3.31500000,en,1.00000000,,0,,,,,,
 Fl,Fl,GPE,0.00000000,0.00000000,en,1.00000000,,0,,,,,,
@@ -728,7 +727,7 @@ Coast,Coast,LOC,0.00000000,0.00000000,en,1.00000000,,0,,,,,,
 Comelec,Comelec,GPE,0.22000000,0.65222222,en,1.00000000,,0,,,,,,
 "Coast
   View","Coast
-  View",LOC,0.13333333,0.36666667,en,1.00000000,,0,,,,,,
+  View",LOC,0.13333333,0.36666667,en,1.00000000,,-1,,,,,,
 Lanzarote,Lanzarote,GPE,0.00000000,0.00000000,en,1.00000000,,0,,,,,,
 Canary Islanders,Canary Islanders,LOC,0.00000000,0.00000000,en,1.00000000,,0,,,,,,
 Caldera Blanca,Caldera Blanca,LOC,-0.12500000,0.12500000,en,1.00000000,,0,,,,,,
