@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,2,0.0342483430974346
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0326985832847737
 'volcano warning',en,Mitigation,#9e3215,#d64118,1,0.028020497909152
-'volcano victims',en,Impacts,#a89216,#87830f,1,0.0260494192748309
 'volcano rescue',en,Mitigation,#9e3215,#d64118,1,0.0245991960444475
-'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.021832009409611712
+'volcano victims',en,Impacts,#a89216,#87830f,1,0.023642156383606262
+'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0218320094096117
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0066222377760077
