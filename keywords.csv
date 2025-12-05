@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano',en,Hazard,#4287f5,#638ed4,3,0.1210762214900072
 'volcano alert',en,Mitigation,#9e3215,#d64118,3,0.0780623753478254
-'volcano tectonic',en,Causes,#679e2c,#477515,2,0.07391621116558353
+'volcano tectonic',en,Causes,#679e2c,#477515,1,0.06282918449074597
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0572315428887308
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0559590203572074
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0546103730486218
