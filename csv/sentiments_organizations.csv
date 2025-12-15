@@ -1,6 +1,6 @@
 ,phrase,label,sentiment,subjectivity,language,count
+USGS,USGS,ORG,0.24840297689323665,0.5133984792264012,en,15.400000000000002
 AP,AP,ORG,0.34053581794961096,1.048103448275862,en,14.5
-USGS,USGS,ORG,0.31792714166567376,0.643700603677668,en,10.9
 Indonesias,Indonesias,ORG,0.1595651859092719,0.42147279244053437,en,9.3
 Reuters,Reuters,ORG,0.3649731182795699,1.0144175627240144,en,9.3
 The Philippine Institute of Volcanology and Seismology,The Philippine Institute of Volcanology and Seismology,ORG,0.26851851851851855,0.5333333333333333,en,9.0
@@ -9,11 +9,15 @@ PHIVOLCS,PHIVOLCS,ORG,0.35208333333333336,1.3014254385964912,en,7.6
 Java,Java,ORG,0.08365190365190363,0.7192385392385392,en,6.500000000000001
 JAKARTA,JAKARTA,ORG,0.3294920634920635,0.7850866910866909,en,6.500000000000001
 Campi Flegrei,Campi Flegrei,ORG,0.033313397129186614,1.070255183413078,en,5.7
-the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.2775462962962963,0.6909722222222222,en,4.8
+the U.S. Geological Survey,the U.S. Geological Survey,ORG,0.2688109161793372,0.6432748538011696,en,5.7
+Air India,Air India,ORG,0.0,0.0,en,5.5
+the US Geological Survey,the US Geological Survey,ORG,0.08836776859504132,0.35734848484848486,en,5.5
+Kīlauea,Kīlauea,ORG,0.2465277777777778,0.4270833333333333,en,4.8
+Akasa Air,Akasa Air,ORG,0.0073369565217391314,0.07599637681159421,en,4.6
 Mount Dukono,Mount Dukono,ORG,0.0,0.05434782608695653,en,4.6
-the US Geological Survey,the US Geological Survey,ORG,0.10565711462450594,0.4272644927536232,en,4.6
 RUV,RUV,ORG,-0.07512626262626262,0.1508838383838384,en,4.4
 Latest News,Latest News,ORG,0.40738636363636366,0.6965909090909091,en,4.3999999999999995
+Rainier,Rainier,ORG,0.3139534883720931,0.4031007751937985,en,4.3
 the IAB Transparency &amp,the IAB Transparency &amp,ORG,-0.7738095238095237,2.232142857142857,en,4.2
 Ministry for Emergency Services,Ministry for Emergency Services,ORG,0.04878048780487806,0.9695121951219513,en,4.1
 PGA,PGA,ORG,-0.2,0.3,en,4.0
@@ -22,156 +26,184 @@ newsweek.com,newsweek.com,ORG,0.0,0.0,en,3.6999999999999997
 Instagram,Instagram,ORG,0.17492492492492495,0.7657657657657657,en,3.6999999999999997
 Geologist Analysis,Geologist Analysis,ORG,-0.07601351351351351,0.472972972972973,en,3.6999999999999997
 Miyazaki,Miyazaki,ORG,0.3092857142857143,0.787142857142857,en,3.5
-Rainier,Rainier,ORG,0.39705882352941185,0.5098039215686275,en,3.3999999999999995
 PVMBG,PVMBG,ORG,-0.1111111111111111,0.27272727272727276,en,3.3
-Kīlauea,Kīlauea,ORG,0.061111111111111116,0.35000000000000003,en,3.0
-the Philippine Institute of Volcanology and Seismology,the Philippine Institute of Volcanology and Seismology,ORG,0.5652777777777778,1.6997222222222221,en,3.0
+Mt.,Mt.,ORG,0.0,0.020833333333333336,en,3.1999999999999997
+The U.S. Geological Survey,The U.S. Geological Survey,ORG,0.060483870967741944,0.12903225806451615,en,3.0999999999999996
 Google News,Google News,ORG,0.29555555555555557,0.5588888888888889,en,3.0
 NASA,NASA,ORG,1.6897486772486774,5.170978835978837,en,3.0
 Trump,Trump,ORG,-0.30833333333333335,1.0083333333333335,en,3.0
+the Philippine Institute of Volcanology and Seismology,the Philippine Institute of Volcanology and Seismology,ORG,0.5652777777777778,1.6997222222222221,en,3.0
 CBS Interactive Inc. All,CBS Interactive Inc. All,ORG,0.034482758620689655,0.13793103448275862,en,2.9
 Stromboli,Stromboli,ORG,0.24568965517241384,0.30124521072796934,en,2.9
-National Geographic,National Geographic,ORG,0.048701298701298704,0.07142857142857144,en,2.8
-Akasa Air,Akasa Air,ORG,0.01205357142857143,0.12485119047619049,en,2.8
+U.S. Geological Survey,U.S. Geological Survey,ORG,0.13095238095238096,0.3928571428571429,en,2.8
 Whakaari,Whakaari,ORG,0.08928571428571429,0.0,en,2.8
+Qatar Airways,Qatar Airways,ORG,0.0,0.0,en,2.8
+National Geographic,National Geographic,ORG,0.048701298701298704,0.07142857142857144,en,2.8
 Etna,Etna,ORG,0.2439652939652939,1.6280955511724744,en,2.6
-Mt.,Mt.,ORG,0.0,0.028985507246376812,en,2.3
-The U.S. Geological Survey,The U.S. Geological Survey,ORG,0.08522727272727273,0.18181818181818185,en,2.1999999999999997
-Whakaari/White Island,Whakaari/White Island,ORG,0.06818181818181818,0.0,en,2.0
-the Volcano Security Post,the Volcano Security Post,ORG,0.0,0.0,en,2.0
-Flegrei,Flegrei,ORG,0.08750000000000001,0.2,en,2.0
--Indonesia,-Indonesia,ORG,0.175,0.275,en,2.0
-NTT,NTT,ORG,0.15,0.7,en,2.0
-National Weather Service,National Weather Service,ORG,0.0,0.16666666666666666,en,2.0
 Hawaiʻi,Hawaiʻi,ORG,0.10060606060606059,0.29,en,2.0
+the Volcano Security Post,the Volcano Security Post,ORG,0.0,0.0,en,2.0
+-Indonesia,-Indonesia,ORG,0.175,0.275,en,2.0
 ESDM,ESDM,ORG,0.0,0.5,en,2.0
-Volcano Vista,Volcano Vista,ORG,0.2708333333333333,0.25,en,2.0
 the Ministry of Energy and Mineral Resources,the Ministry of Energy and Mineral Resources,ORG,0.0,0.5,en,2.0
-Mount St. Helens Eruption Still Swirls,Mount St. Helens Eruption Still Swirls,ORG,0.4375,0.20833333333333331,en,2.0
-CBS News,CBS News,ORG,0.1111111111111111,0.16666666666666666,en,2.0
 Google Trends,Google Trends,ORG,0.0,0.05,en,2.0
+Mount St. Helens Eruption Still Swirls,Mount St. Helens Eruption Still Swirls,ORG,0.4375,0.20833333333333331,en,2.0
+National Weather Service,National Weather Service,ORG,0.0,0.16666666666666666,en,2.0
+Volcano Vista,Volcano Vista,ORG,0.2708333333333333,0.25,en,2.0
+NTT,NTT,ORG,0.15,0.7,en,2.0
+Flegrei,Flegrei,ORG,0.08750000000000001,0.2,en,2.0
+Whakaari/White Island,Whakaari/White Island,ORG,0.06818181818181818,0.0,en,2.0
+CBS News,CBS News,ORG,0.1111111111111111,0.16666666666666666,en,2.0
 Negros Occidental,Negros Occidental,ORG,0.5341666666666668,1.5408333333333335,en,1.9999999999999998
-the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,-0.052631578947368425,0.2105263157894737,en,1.9
-First Time,First Time,ORG,0.5921052631578948,0.5701754385964912,en,1.9
-House,House,ORG,0.09844054580896686,0.15789473684210525,en,1.9
-Newbery,Newbery,ORG,0.368421052631579,0.0,en,1.9
-AP News,AP News,ORG,0.3473684210526316,0.2631578947368421,en,1.9
-Daily Mail,Daily Mail,ORG,0.10526315789473684,0.13157894736842105,en,1.9
-BBC,BBC,ORG,0.043221690590111654,1.0,en,1.9
 The Directorate General of Civil Aviation,The Directorate General of Civil Aviation,ORG,0.013157894736842113,0.15789473684210525,en,1.9
-Volcán de Fuego,Volcán de Fuego,ORG,-0.14035087719298245,0.3157894736842105,en,1.9
-IndiGo,IndiGo,ORG,0.017763157894736845,0.18399122807017546,en,1.9
-Air India,Air India,ORG,0.0,0.0,en,1.9
+Akasa,Akasa,ORG,0.0,0.0,en,1.9
+First Time,First Time,ORG,0.5921052631578948,0.5701754385964912,en,1.9
 ProtoThema,ProtoThema,ORG,0.2706140350877193,0.5956140350877193,en,1.9
+House,House,ORG,0.09844054580896686,0.15789473684210525,en,1.9
+IndiGo,IndiGo,ORG,0.017763157894736845,0.18399122807017546,en,1.9
+Volcán de Fuego,Volcán de Fuego,ORG,-0.14035087719298245,0.3157894736842105,en,1.9
+the Japan Meteorological Agency,the Japan Meteorological Agency,ORG,-0.052631578947368425,0.2105263157894737,en,1.9
+BBC,BBC,ORG,0.043221690590111654,1.0,en,1.9
+Newbery,Newbery,ORG,0.368421052631579,0.0,en,1.9
+Daily Mail,Daily Mail,ORG,0.10526315789473684,0.13157894736842105,en,1.9
+AP News,AP News,ORG,0.3473684210526316,0.2631578947368421,en,1.9
 ULAN,ULAN,ORG,0.19444444444444442,0.2777777777777778,en,1.8
 RIA,RIA,ORG,0.28472222222222227,0.3194444444444445,en,1.8
-ABC News,ABC News,ORG,0.09722222222222221,0.37037037037037035,en,1.8
-Iliamna,Iliamna,ORG,0.2777777777777778,0.2777777777777778,en,1.8
 The New York Times,The New York Times,ORG,0.2988215488215488,0.6509539842873177,en,1.8
+Iliamna,Iliamna,ORG,0.2777777777777778,0.2777777777777778,en,1.8
+ABC News,ABC News,ORG,0.09722222222222221,0.37037037037037035,en,1.8
 The U.S. Geological Survey Cascades Volcano Observatory,The U.S. Geological Survey Cascades Volcano Observatory,ORG,0.19444444444444445,0.37037037037037046,en,1.7999999999999998
 The Center for Volcanology and Geological Hazard Mitigation,The Center for Volcanology and Geological Hazard Mitigation,ORG,-0.17647058823529413,0.05882352941176472,en,1.7
-MIT,MIT,ORG,-0.0625,0.0,en,1.6
-the Volcano Monitoring and Eruption Prediction Division,the Volcano Monitoring and Eruption Prediction Division,ORG,0.09027777777777776,0.3090277777777778,en,1.6
-APOD,APOD,ORG,0.0,0.0,en,1.6
-Natural News,Natural News,ORG,0.29687499999999994,0.35937499999999994,en,1.6
-Oregon State University,Oregon State University,ORG,0.19270833333333334,0.34375,en,1.6
 GIS Data,GIS Data,ORG,-0.234375,0.26041666666666663,en,1.6
+Oregon State University,Oregon State University,ORG,0.19270833333333334,0.34375,en,1.6
+APOD,APOD,ORG,0.0,0.0,en,1.6
+MIT,MIT,ORG,-0.0625,0.0,en,1.6
+Natural News,Natural News,ORG,0.29687499999999994,0.35937499999999994,en,1.6
+the Volcano Monitoring and Eruption Prediction Division,the Volcano Monitoring and Eruption Prediction Division,ORG,0.09027777777777776,0.3090277777777778,en,1.6
 Ubisoft,Ubisoft,ORG,0.07618274582560292,1.3950989486703769,en,1.4000000000000004
 WA,WA,ORG,-0.22321428571428573,0.0,en,1.4
 Universal Orlando,Universal Orlando,ORG,0.4661671661671661,1.4072483072483069,en,1.3000000000000003
-Influencer Juliana Marins,Influencer Juliana Marins,ORG,-0.10256410256410256,0.7692307692307692,en,1.3
 Influencer,Influencer,ORG,-0.12820512820512822,0.7692307692307692,en,1.3
 "The Mirror, Marins","The Mirror, Marins",ORG,0.2692307692307692,0.0,en,1.3
-Minecraft,Minecraft,ORG,0.5,0.6458333333333333,en,1.2000000000000002
+Influencer Juliana Marins,Influencer Juliana Marins,ORG,-0.10256410256410256,0.7692307692307692,en,1.3
 Forest,Forest,ORG,0.3101851851851852,1.0162037037037037,en,1.2000000000000002
 Epic Universe,Epic Universe,ORG,0.10615079365079365,0.3412698412698413,en,1.2000000000000002
-The Office of Civil Defense,The Office of Civil Defense,ORG,-0.052083333333333336,0.642361111111111,en,1.2
+Minecraft,Minecraft,ORG,0.5,0.6458333333333333,en,1.2000000000000002
 Marins,Marins,ORG,1.301346801346801,2.618686868686869,en,1.2
-EU,EU,ORG,0.09090909090909091,0.5909090909090908,en,1.1
-the New Zealand Herald,the New Zealand Herald,ORG,0.2479338842975206,0.4132231404958677,en,1.1
-Vesuvius,Vesuvius,ORG,-0.18681129476584019,1.121212121212121,en,1.1
-Walt Disney World,Walt Disney World,ORG,0.7636363636363637,0.4818181818181818,en,1.1
+The Office of Civil Defense,The Office of Civil Defense,ORG,-0.052083333333333336,0.642361111111111,en,1.2
 APS,APS,ORG,-0.1212121212121212,0.5454545454545454,en,1.1
+Tongariro National Park,Tongariro National Park,ORG,0.2479338842975206,0.4132231404958677,en,1.1
+Vesuvius,Vesuvius,ORG,-0.18681129476584019,1.121212121212121,en,1.1
+Magnetotelluric,Magnetotelluric,ORG,0.1948051948051948,0.3896103896103896,en,1.1
 National Geographic Traveller,National Geographic Traveller,ORG,0.0,0.0,en,1.1
+Park Hopper,Park Hopper,ORG,0.01731601731601732,0.18614718614718614,en,1.1
 Associated Press,Associated Press,ORG,0.6,0.45454545454545453,en,1.1
 PowerWash Simulator 2,PowerWash Simulator 2,ORG,0.17561983471074377,0.35812672176308535,en,1.1
-Magnetotelluric,Magnetotelluric,ORG,0.1948051948051948,0.3896103896103896,en,1.1
-Tongariro National Park,Tongariro National Park,ORG,0.2479338842975206,0.4132231404958677,en,1.1
-Enceladus,Enceladus,ORG,-0.1515151515151515,0.0,en,1.1
-MetService,MetService,ORG,0.0,0.0,en,1.1
-Unity,Unity,ORG,1.4727272727272727,0.9090909090909091,en,1.1
-The National Disaster Mitigation Agency,The National Disaster Mitigation Agency,ORG,-0.2424242424242424,0.2954545454545454,en,1.1
+the New Zealand Herald,the New Zealand Herald,ORG,0.2479338842975206,0.4132231404958677,en,1.1
 NYT Mini,NYT Mini,ORG,0.1239669421487603,0.4132231404958677,en,1.1
-Park Hopper,Park Hopper,ORG,0.01731601731601732,0.18614718614718614,en,1.1
-the Institute of Volcanology and Seismology of the Far Eastern Branch,the Institute of Volcanology and Seismology of the Far Eastern Branch,ORG,0.15,0.0,en,1.0
-Klyuchevskaya,Klyuchevskaya,ORG,0.25,0.0,en,1.0
-Kraft Heinz,Kraft Heinz,ORG,-0.18518518518518523,0.0,en,1.0
-TV Guide,TV Guide,ORG,0.0,0.0,en,1.0
-https://sputnikglobe.com/20250805/klyuchevskoy-volcanos-latest-eruption-send,https://sputnikglobe.com/20250805/klyuchevskoy-volcanos-latest-eruption-send,ORG,0.0,0.0,en,1.0
-the Smithsonian Institution’s,the Smithsonian Institution’s,ORG,0.0,0.0,en,1.0
-the Russian Academy of Sciences,the Russian Academy of Sciences,ORG,0.15,0.0,en,1.0
-Volcano Errupts,Volcano Errupts,ORG,0.1,0.0,en,1.0
-Krasheninnikov,Krasheninnikov,ORG,0.16,0.5399999999999999,en,1.0
-the New York Times,the New York Times,ORG,-0.0034090909090909102,0.0,en,1.0
-the Institute of Volcanology and Seismology of the Far Easte,the Institute of Volcanology and Seismology of the Far Easte,ORG,0.19999999999999998,0.0,en,1.0
-Time,Time,ORG,0.16060606060606059,0.0,en,1.0
-CenturiesThe New York Times Illinois,CenturiesThe New York Times Illinois,ORG,0.16060606060606059,0.0,en,1.0
-the Kronotsky Reserve,the Kronotsky Reserve,ORG,0.5,0.0,en,1.0
-centuriesPBS Illinois,centuriesPBS Illinois,ORG,0.19166666666666665,0.0,en,1.0
-SpaceX,SpaceX,ORG,0.0,0.0,en,1.0
-Volcanic Fury,Volcanic Fury,ORG,0.0,0.0,en,1.0
-Far East Days,Far East Days,ORG,0.1,0.0,en,1.0
-the Kronotsky Nature Reserve,the Kronotsky Nature Reserve,ORG,0.0,0.0,en,1.0
-NPR,NPR,ORG,0.0,0.0,en,1.0
+MetService,MetService,ORG,0.0,0.0,en,1.1
+Enceladus,Enceladus,ORG,-0.1515151515151515,0.0,en,1.1
+The National Disaster Mitigation Agency,The National Disaster Mitigation Agency,ORG,-0.2424242424242424,0.2954545454545454,en,1.1
+Unity,Unity,ORG,1.4727272727272727,0.9090909090909091,en,1.1
+EU,EU,ORG,0.09090909090909091,0.5909090909090908,en,1.1
+Walt Disney World,Walt Disney World,ORG,0.7636363636363637,0.4818181818181818,en,1.1
 Colossal Earthquake May Have,Colossal Earthquake May Have,ORG,0.15,0.0,en,1.0
-Getty Images,Getty Images,ORG,0.75,0.75,en,1.0
+the Russian Academy of Sciences,the Russian Academy of Sciences,ORG,0.15,0.0,en,1.0
+the Institute of Volcanology and Seismology of the Far Eastern Branch,the Institute of Volcanology and Seismology of the Far Eastern Branch,ORG,0.15,0.0,en,1.0
+Negros Island Regi,Negros Island Regi,ORG,0.0,0.0,en,1.0
+Volcano Errupts,Volcano Errupts,ORG,0.1,0.0,en,1.0
+The Deep West Assembly,The Deep West Assembly,ORG,0.14583333333333331,0.4666666666666666,en,1.0
+EDINBURGH,EDINBURGH,ORG,-0.08000000000000003,0.5533333333333333,en,1.0
+Volcano Restoration Project,Volcano Restoration Project,ORG,0.25,0.5666666666666667,en,1.0
+https://sputnikglobe.com/20250805/klyuchevskoy-volcanos-latest-eruption-send,https://sputnikglobe.com/20250805/klyuchevskoy-volcanos-latest-eruption-send,ORG,0.0,0.0,en,1.0
+Fiat,Fiat,ORG,0.0,0.06666666666666667,en,1.0
+Far East Days,Far East Days,ORG,0.1,0.0,en,1.0
+the Smithsonian Institution’s,the Smithsonian Institution’s,ORG,0.0,0.0,en,1.0
+Krasheninnikov,Krasheninnikov,ORG,0.16,0.5399999999999999,en,1.0
+Future US Inc,Future US Inc,ORG,0.125,0.0,en,1.0
+Indigenous Community,Indigenous Community,ORG,0.7945454545454544,1.75,en,1.0
+Volcano Grey Metallic,Volcano Grey Metallic,ORG,-0.1351010101010101,0.26666666666666666,en,1.0
+Checkered Flag Porsche,Checkered Flag Porsche,ORG,0.10959595959595958,0.32929292929292925,en,1.0
+the University of Iceland,the University of Iceland,ORG,-0.13333333333333333,0.0,en,1.0
+Klyuchevskaya,Klyuchevskaya,ORG,0.25,0.0,en,1.0
 Volcano Tourism,Volcano Tourism,ORG,0.0,0.0,en,1.0
-The Newsroom Report,The Newsroom Report,ORG,0.0,0.0,en,1.0
-it-- Myths,it-- Myths,ORG,0.0,0.0,en,1.0
+the Institute of Volcanology and Seismology of the Far Easte,the Institute of Volcanology and Seismology of the Far Easte,ORG,0.19999999999999998,0.0,en,1.0
+Volcanic Fury,Volcanic Fury,ORG,0.0,0.0,en,1.0
+SpaceX,SpaceX,ORG,0.0,0.0,en,1.0
+Office of… [,Office of… [,ORG,0.0,0.0,en,1.0
 Morgan,Morgan,ORG,0.35714285714285715,0.0,en,1.0
+ICE,ICE,ORG,0.0,0.0,en,1.0
+Scientists WarnThe Daily Galaxy View Full Coverage,Scientists WarnThe Daily Galaxy View Full Coverage,ORG,0.18333333333333332,0.0,en,1.0
+Fuji Eruption Simulation Causes Unease,Fuji Eruption Simulation Causes Unease,ORG,0.0,0.0,en,1.0
+Volcano Visa,Volcano Visa,ORG,0.0,0.0,en,1.0
+Naples-Set ‘,Naples-Set ‘,ORG,0.0,0.0,en,1.0
+Bakwit Card,Bakwit Card,ORG,0.0,0.0,en,1.0
+Fortunatel,Fortunatel,ORG,0.0,0.0,en,1.0
+the U.S. Geological Survey (Video,the U.S. Geological Survey (Video,ORG,0.0,0.0,en,1.0
+Fed,Fed,ORG,-0.20000000000000004,0.0,en,1.0
+CNN Newsource,CNN Newsource,ORG,0.0,0.0,en,1.0
+Red Planets,Red Planets,ORG,0.0,0.0,en,1.0
+THEMIS,THEMIS,ORG,0.0,0.0,en,1.0
+the Thermal Emission Imaging System,the Thermal Emission Imaging System,ORG,0.0,0.0,en,1.0
+Fantástico,Fantástico,ORG,-0.06666666666666667,0.0,en,1.0
+The Tokyo Metropolitan Government,The Tokyo Metropolitan Government,ORG,0.0,0.25,en,1.0
+Ft.,Ft.,ORG,-0.013888888888888881,0.42777777777777776,en,1.0
+Visceral & Alive,Visceral & Alive,ORG,0.20000000000000004,0.0,en,1.0
+Tour Guide,Tour Guide,ORG,-0.13333333333333333,0.0,en,1.0
+"USGS
+","USGS
+",ORG,0.7,0.0,en,1.0
+ar… Mount Fuji,ar… Mount Fuji,ORG,0.0,0.0,en,1.0
+Hawks,Hawks,ORG,0.5,0.0,en,1.0
+the National Institut…,the National Institut…,ORG,0.0,0.0,en,1.0
+The Newsroom Report,The Newsroom Report,ORG,0.0,0.0,en,1.0
+Bloomberg News,Bloomberg News,ORG,0.19318181818181818,0.0,en,1.0
+Flora Drury &amp,Flora Drury &amp,ORG,-0.07777777777777778,0.0,en,1.0
+Volcanology and Geology Disaster Mitigation Center,Volcanology and Geology Disaster Mitigation Center,ORG,-0.05,0.0,en,1.0
+Park,Park,ORG,0.05,0.0,en,1.0
+Indias West Bengal,Indias West Bengal,ORG,0.25,0.0,en,1.0
+Yellowstoneâs,Yellowstoneâs,ORG,0.2,0.0,en,1.0
+Kyodo News,Kyodo News,ORG,0.011111111111111112,0.0,en,1.0
+The Portland Adult Soapbox Derby,The Portland Adult Soapbox Derby,ORG,0.22499999999999998,0.0,en,1.0
+the University of Geneva,the University of Geneva,ORG,0.0,0.0,en,1.0
+it-- Myths,it-- Myths,ORG,0.0,0.0,en,1.0
+the Kronotsky Nature Reserve,the Kronotsky Nature Reserve,ORG,0.0,0.0,en,1.0
 FXX,FXX,ORG,0.0,0.0,en,1.0
 Deep-Sea Volcanoes Could Hold the Key to Finding Alien Life in Space,Deep-Sea Volcanoes Could Hold the Key to Finding Alien Life in Space,ORG,-0.125,0.0,en,1.0
 DecemberTimes-Union,DecemberTimes-Union,ORG,0.0,0.0,en,1.0
 News Hawaii's,News Hawaii's,ORG,0.1388888888888889,0.0,en,1.0
 the Hawaiian Volcano Observatory,the Hawaiian Volcano Observatory,ORG,0.15,0.0,en,1.0
-the University of Geneva,the University of Geneva,ORG,0.0,0.0,en,1.0
-the National Institut…,the National Institut…,ORG,0.0,0.0,en,1.0
-Hawks,Hawks,ORG,0.5,0.0,en,1.0
-ar… Mount Fuji,ar… Mount Fuji,ORG,0.0,0.0,en,1.0
-Fuji Eruption Simulation Causes Unease,Fuji Eruption Simulation Causes Unease,ORG,0.0,0.0,en,1.0
-Volcano Visa,Volcano Visa,ORG,0.0,0.0,en,1.0
-Naples-Set ‘,Naples-Set ‘,ORG,0.0,0.0,en,1.0
-Bakwit Card,Bakwit Card,ORG,0.0,0.0,en,1.0
-The Portland Adult Soapbox Derby,The Portland Adult Soapbox Derby,ORG,0.22499999999999998,0.0,en,1.0
-Kyodo News,Kyodo News,ORG,0.011111111111111112,0.0,en,1.0
-the University of Iceland,the University of Iceland,ORG,-0.13333333333333333,0.0,en,1.0
-Yellowstoneâs,Yellowstoneâs,ORG,0.2,0.0,en,1.0
-Checkered Flag Porsche,Checkered Flag Porsche,ORG,0.10959595959595958,0.32929292929292925,en,1.0
-Volcano Grey Metallic,Volcano Grey Metallic,ORG,-0.1351010101010101,0.26666666666666666,en,1.0
-Indigenous Community,Indigenous Community,ORG,0.7945454545454544,1.75,en,1.0
-Future US Inc,Future US Inc,ORG,0.125,0.0,en,1.0
-Fiat,Fiat,ORG,0.0,0.06666666666666667,en,1.0
-Volcano Restoration Project,Volcano Restoration Project,ORG,0.25,0.5666666666666667,en,1.0
-EDINBURGH,EDINBURGH,ORG,-0.08000000000000003,0.5533333333333333,en,1.0
-The Deep West Assembly,The Deep West Assembly,ORG,0.14583333333333331,0.4666666666666666,en,1.0
-Negros Island Regi,Negros Island Regi,ORG,0.0,0.0,en,1.0
-Office of… [,Office of… [,ORG,0.0,0.0,en,1.0
-ICE,ICE,ORG,0.0,0.0,en,1.0
-Scientists WarnThe Daily Galaxy View Full Coverage,Scientists WarnThe Daily Galaxy View Full Coverage,ORG,0.18333333333333332,0.0,en,1.0
-Bloomberg News,Bloomberg News,ORG,0.19318181818181818,0.0,en,1.0
-Volcanology and Geology Disaster Mitigation Center,Volcanology and Geology Disaster Mitigation Center,ORG,-0.05,0.0,en,1.0
-Indias West Bengal,Indias West Bengal,ORG,0.25,0.0,en,1.0
-KVERT,KVERT,ORG,0.075,0.0,en,1.0
-Roc Nation,Roc Nation,ORG,0.9765625,0.5,en,1.0
-"SpecsLess Specs
-","SpecsLess Specs
-",ORG,0.5,0.0,en,1.0
-The Russian Academy of Sciences',The Russian Academy of Sciences',ORG,0.0,0.0,en,1.0
-RWDI,RWDI,ORG,0.020833333333333332,0.08888888888888889,en,1.0
+NPR,NPR,ORG,0.0,0.0,en,1.0
 Playtime,Playtime,ORG,0.0,0.0,en,1.0
-The Geological Agency&rsquo;s Center for Volcanology and Geological Disaster Mitigation,The Geological Agency&rsquo;s Center for Volcanology and Geological Disaster Mitigation,ORG,-0.1,0.0,en,1.0
+centuriesPBS Illinois,centuriesPBS Illinois,ORG,0.19166666666666665,0.0,en,1.0
+Trifecta Helicopter Tour,Trifecta Helicopter Tour,ORG,0.0,0.0,en,1.0
+Early Access,Early Access,ORG,0.05833333333333333,0.0,en,1.0
+Steam Automation Fest,Steam Automation Fest,ORG,0.11704545454545454,0.0,en,1.0
+the Office of Civil Defense Negros Island,the Office of Civil Defense Negros Island,ORG,0.0,0.0,en,1.0
+Kilgour,Kilgour,ORG,0.0,0.0,en,1.0
+COPENHAGEN,COPENHAGEN,ORG,0.2375,0.0,en,1.0
+Grindavík,Grindavík,ORG,-0.15000000000000002,0.0,en,1.0
+Dual Natural Features That Protect Us From,Dual Natural Features That Protect Us From,ORG,0.1,0.0,en,1.0
+NIR,NIR,ORG,0.0,0.0,en,1.0
+clif,clif,ORG,0.05416666666666667,0.0,en,1.0
+The Icelandic Meteorological Office,The Icelandic Meteorological Office,ORG,0.16666666666666666,0.0,en,1.0
+TownsThe New York Times Watch,TownsThe New York Times Watch,ORG,0.16325757575757577,0.0,en,1.0
+The Washington Post,The Washington Post,ORG,0.0,0.0,en,1.0
+Videos Family of Hiker Found Dead After Falling Into Volcano Accuses Rescue Team,Videos Family of Hiker Found Dead After Falling Into Volcano Accuses Rescue Team,ORG,0.17916666666666667,0.0,en,1.0
+yearsThe Washington Post An,yearsThe Washington Post An,ORG,0.1388888888888889,0.0,en,1.0
+yearsThe Washington Post Volcano,yearsThe Washington Post Volcano,ORG,0.1755050505050505,0.0,en,1.0
+Funtrains,Funtrains,ORG,0.25,0.0,en,1.0
+SZA,SZA,ORG,1.953125,1.0,en,1.0
+Sapienza University,Sapienza University,ORG,0.0,0.0,en,1.0
+the Department of Architecture,the Department of Architecture,ORG,0.0,0.0,en,1.0
+ICYMI,ICYMI,ORG,0.9765625,0.0,en,1.0
+the U.S. Geological,the U.S. Geological,ORG,0.34375,0.0,en,1.0
+RWDI,RWDI,ORG,0.020833333333333332,0.08888888888888889,en,1.0
+Interconnected 'City Stage',Interconnected 'City Stage',ORG,0.09999999999999999,0.0,en,1.0
 Campi Flegrei Volcano Shakes Up,Campi Flegrei Volcano Shakes Up,ORG,0.1875,0.0,en,1.0
+AC,AC,ORG,0.6,0.65,en,1.0
+Pharm and Graft,Pharm and Graft,ORG,-0.07692307692307693,0.1346153846153846,en,1.0
 national geological agency,national geological agency,ORG,0.0,0.0,en,1.0
+Superman,Superman,ORG,-0.6,0.4,en,1.0
 The Office of Civil Defense Negros Island Region,The Office of Civil Defense Negros Island Region,ORG,0.0,0.0,en,1.0
 the Negros Oc…,the Negros Oc…,ORG,0.0,0.0,en,1.0
 KAGOSHIMA,KAGOSHIMA,ORG,0.15625,0.0,en,1.0
@@ -190,91 +222,57 @@ BK,BK,ORG,0.21428571428571427,0.0,en,1.0
 - Dead",ORG,0.0,0.0,en,1.0
 the Journal of South American Earth Sciences,the Journal of South American Earth Sciences,ORG,0.03571428571428571,0.0,en,1.0
 MechaHitler,MechaHitler,ORG,0.08703703703703702,0.0,en,1.0
-the U.S. Geological,the U.S. Geological,ORG,0.34375,0.0,en,1.0
-the Department of Architecture,the Department of Architecture,ORG,0.0,0.0,en,1.0
-Trifecta Helicopter Tour,Trifecta Helicopter Tour,ORG,0.0,0.0,en,1.0
-Sapienza University,Sapienza University,ORG,0.0,0.0,en,1.0
-Interconnected 'City Stage',Interconnected 'City Stage',ORG,0.09999999999999999,0.0,en,1.0
-AC,AC,ORG,0.6,0.65,en,1.0
-Pharm and Graft,Pharm and Graft,ORG,-0.07692307692307693,0.1346153846153846,en,1.0
-Red Planets,Red Planets,ORG,0.0,0.0,en,1.0
-Hiker Juliana Marins,Hiker Juliana Marins,ORG,-0.07777777777777778,0.0,en,1.0
-Save,Save,ORG,-0.16666666666666669,0.0,en,1.0
-Volcano Rescue Update Sparks,Volcano Rescue Update Sparks,ORG,0.0,0.0,en,1.0
-idenfified,idenfified,ORG,0.13636363636363635,0.0,en,1.0
-Tour Guide,Tour Guide,ORG,-0.13333333333333333,0.0,en,1.0
-Fantástico,Fantástico,ORG,-0.06666666666666667,0.0,en,1.0
-the Thermal Emission Imaging System,the Thermal Emission Imaging System,ORG,0.0,0.0,en,1.0
-THEMIS,THEMIS,ORG,0.0,0.0,en,1.0
-Fed,Fed,ORG,-0.20000000000000004,0.0,en,1.0
-Superman,Superman,ORG,-0.6,0.4,en,1.0
-Park,Park,ORG,0.05,0.0,en,1.0
-Flora Drury &amp,Flora Drury &amp,ORG,-0.07777777777777778,0.0,en,1.0
+Roc Nation,Roc Nation,ORG,0.9765625,0.5,en,1.0
+Nicki,Nicki,ORG,0.9765625,0.0,en,1.0
+the Kronotsky Reserve,the Kronotsky Reserve,ORG,0.5,0.0,en,1.0
+Capitol,Capitol,ORG,0.0,0.0,en,1.0
+Pan,Pan,ORG,-0.1,0.0,en,1.0
+the Pacific Ring of Fire,the Pacific Ring of Fire,ORG,0.0,0.0,en,1.0
+The Pacific Ring of Fire,The Pacific Ring of Fire,ORG,0.2,0.0,en,1.0
+The Ring of Fire,The Ring of Fire,ORG,0.12222222222222223,0.0,en,1.0
+Kumani Bank,Kumani Bank,ORG,0.0,0.0,en,1.0
+The Geological Agency&rsquo;s Center for Volcanology and Geological Disaster Mitigation,The Geological Agency&rsquo;s Center for Volcanology and Geological Disaster Mitigation,ORG,-0.1,0.0,en,1.0
+Popular Science,Popular Science,ORG,0.425,0.0,en,1.0
+the University of Melbourne,the University of Melbourne,ORG,0.375,0.0,en,1.0
+The Russian Academy of Sciences',The Russian Academy of Sciences',ORG,0.0,0.0,en,1.0
+"SpecsLess Specs
+","SpecsLess Specs
+",ORG,0.5,0.0,en,1.0
+KVERT,KVERT,ORG,0.075,0.0,en,1.0
 SEMBALUN,SEMBALUN,ORG,0.0,0.0,en,1.0
-ABC News - Breaking News,ABC News - Breaking News,ORG,0.5,0.0,en,1.0
-Videos Family of Hiker Found Dead After Falling Into Volcano Accuses Rescue Team,Videos Family of Hiker Found Dead After Falling Into Volcano Accuses Rescue Team,ORG,0.17916666666666667,0.0,en,1.0
-clif,clif,ORG,0.05416666666666667,0.0,en,1.0
-NIR,NIR,ORG,0.0,0.0,en,1.0
-the Office of Civil Defense Negros Island,the Office of Civil Defense Negros Island,ORG,0.0,0.0,en,1.0
-Early Access,Early Access,ORG,0.05833333333333333,0.0,en,1.0
-Steam Automation Fest,Steam Automation Fest,ORG,0.11704545454545454,0.0,en,1.0
-Kilgour,Kilgour,ORG,0.0,0.0,en,1.0
+Kraft Heinz,Kraft Heinz,ORG,-0.18518518518518523,0.0,en,1.0
+TV Guide,TV Guide,ORG,0.0,0.0,en,1.0
+the New York Times,the New York Times,ORG,-0.0034090909090909102,0.0,en,1.0
+Time,Time,ORG,0.16060606060606059,0.0,en,1.0
+CenturiesThe New York Times Illinois,CenturiesThe New York Times Illinois,ORG,0.16060606060606059,0.0,en,1.0
+the Prospecting Dragonflame Pan,the Prospecting Dragonflame Pan,ORG,0.5681818181818181,0.6522727272727273,en,1.0
 Avatar: Fire &amp,Avatar: Fire &amp,ORG,0.0,0.0,en,1.0
+Dawg Entertainment,Dawg Entertainment,ORG,0.9765625,0.0,en,1.0
+Avatar,Avatar,ORG,0.2375,0.0,en,1.0
+Blue LagoonABC News - Breaking News,Blue LagoonABC News - Breaking News,ORG,0.2833333333333333,0.0,en,1.0
+Scale AI,Scale AI,ORG,-0.20000000000000004,0.0,en,1.0
+Doz,Doz,ORG,0.0,0.0,en,1.0
+The National Park Service,The National Park Service,ORG,-0.04999999999999999,0.0,en,1.0
+Xenu,Xenu,ORG,0.0,0.0,en,1.0
+National Park Service-,National Park Service-,ORG,-0.0928571428571429,0.0,en,1.0
+Yellowstone National Park's,Yellowstone National Park's,ORG,-0.0928571428571429,0.0,en,1.0
+Apple,Apple,ORG,0.0,0.0,en,1.0
+•    ,•    ,ORG,0.0,0.0,en,1.0
 Hulu,Hulu,ORG,-0.3333333333333333,0.3333333333333333,en,1.0
+ABC News - Breaking News,ABC News - Breaking News,ORG,0.5,0.0,en,1.0
 the Dukono ...,the Dukono ...,ORG,0.0,0.0,en,1.0
 the Most Dangerous Road Trips,the Most Dangerous Road Trips,ORG,-0.04999999999999999,0.0,en,1.0
 The Mount Marapi Volcano Post,The Mount Marapi Volcano Post,ORG,0.0,0.0,en,1.0
 Volcano Post,Volcano Post,ORG,0.0,0.0,en,1.0
 Cameron,Cameron,ORG,0.5,0.0,en,1.0
 AVITAR,AVITAR,ORG,0.5,0.0,en,1.0
-Avatar,Avatar,ORG,0.2375,0.0,en,1.0
-Capitol,Capitol,ORG,0.0,0.0,en,1.0
-Apple,Apple,ORG,0.0,0.0,en,1.0
-the Prospecting Dragonflame Pan,the Prospecting Dragonflame Pan,ORG,0.5681818181818181,0.6522727272727273,en,1.0
-Pan,Pan,ORG,-0.1,0.0,en,1.0
-the Pacific Ring of Fire,the Pacific Ring of Fire,ORG,0.0,0.0,en,1.0
-The Pacific Ring of Fire,The Pacific Ring of Fire,ORG,0.2,0.0,en,1.0
-The Ring of Fire,The Ring of Fire,ORG,0.12222222222222223,0.0,en,1.0
-Kumani Bank,Kumani Bank,ORG,0.0,0.0,en,1.0
-Popular Science,Popular Science,ORG,0.425,0.0,en,1.0
-the University of Melbourne,the University of Melbourne,ORG,0.375,0.0,en,1.0
-•    ,•    ,ORG,0.0,0.0,en,1.0
-Yellowstone National Park's,Yellowstone National Park's,ORG,-0.0928571428571429,0.0,en,1.0
-COPENHAGEN,COPENHAGEN,ORG,0.2375,0.0,en,1.0
-SZA,SZA,ORG,1.953125,1.0,en,1.0
-Grindavík,Grindavík,ORG,-0.15000000000000002,0.0,en,1.0
-Dual Natural Features That Protect Us From,Dual Natural Features That Protect Us From,ORG,0.1,0.0,en,1.0
-The Icelandic Meteorological Office,The Icelandic Meteorological Office,ORG,0.16666666666666666,0.0,en,1.0
-TownsThe New York Times Watch,TownsThe New York Times Watch,ORG,0.16325757575757577,0.0,en,1.0
-The Washington Post,The Washington Post,ORG,0.0,0.0,en,1.0
-yearsThe Washington Post An,yearsThe Washington Post An,ORG,0.1388888888888889,0.0,en,1.0
-yearsThe Washington Post Volcano,yearsThe Washington Post Volcano,ORG,0.1755050505050505,0.0,en,1.0
-Funtrains,Funtrains,ORG,0.25,0.0,en,1.0
-the U.S. Geological Survey (Video,the U.S. Geological Survey (Video,ORG,0.0,0.0,en,1.0
-National Park Service-,National Park Service-,ORG,-0.0928571428571429,0.0,en,1.0
-ICYMI,ICYMI,ORG,0.9765625,0.0,en,1.0
-Nicki,Nicki,ORG,0.9765625,0.0,en,1.0
-Dawg Entertainment,Dawg Entertainment,ORG,0.9765625,0.0,en,1.0
-Blue LagoonABC News - Breaking News,Blue LagoonABC News - Breaking News,ORG,0.2833333333333333,0.0,en,1.0
-Scale AI,Scale AI,ORG,-0.20000000000000004,0.0,en,1.0
-Doz,Doz,ORG,0.0,0.0,en,1.0
-The National Park Service,The National Park Service,ORG,-0.04999999999999999,0.0,en,1.0
 NPS,NPS,ORG,-0.04999999999999999,0.0,en,1.0
-Fortunatel,Fortunatel,ORG,0.0,0.0,en,1.0
-Tokyo Metropolitan University,Tokyo Metropolitan University,ORG,-0.23333333333333336,0.0,en,1.0
-CNN Newsource,CNN Newsource,ORG,0.0,0.0,en,1.0
-Church of,Church of,ORG,0.0,0.0,en,1.0
-Kids 4+,Kids 4+,ORG,0.3,0.0,en,1.0
-Thames & Kosmos,Thames & Kosmos,ORG,0.3,0.0,en,1.0
-Iceland Airwaves,Iceland Airwaves,ORG,0.0,0.0,en,1.0
-Park Hopper & Discount Tickets Now on Sale,Park Hopper & Discount Tickets Now on Sale,ORG,0.125,0.0,en,1.0
-Annual Passholders,Annual Passholders,ORG,0.009523809523809526,0.0,en,1.0
-Disney World,Disney World,ORG,0.0,0.0,en,1.0
-Fiat 126,Fiat 126,ORG,0.25,0.5,en,1.0
-&amp,&amp,ORG,0.0,0.0,en,1.0
+"Web2, Web3 & Web4 1640","Web2, Web3 & Web4 1640",ORG,0.25,0.0,en,1.0
+Mayfield,Mayfield,ORG,0.0,0.0,en,1.0
+Warner Bros.,Warner Bros.,ORG,0.09523809523809523,0.0,en,1.0
 Blundy,Blundy,ORG,0.0,0.0,en,1.0
+Church of,Church of,ORG,0.0,0.0,en,1.0
 Nicara,Nicara,ORG,-0.6,0.0,en,1.0
-University of Melbourne,University of Melbourne,ORG,0.4,0.0,en,1.0
 Diamond Head,Diamond Head,ORG,0.0,0.0,en,1.0
 social media pages,social media pages,ORG,0.05656565656565656,0.0,en,1.0
 NYT Mini Crossword,NYT Mini Crossword,ORG,0.0,0.0,en,1.0
@@ -283,20 +281,21 @@ NYT Mini Crossword,NYT Mini Crossword,ORG,0.0,0.0,en,1.0
 ",ORG,0.13636363636363635,0.0,en,1.0
 Los Angeles Times,Los Angeles Times,ORG,0.14375,0.0,en,1.0
 The Volcano Post,The Volcano Post,ORG,-0.4,0.0,en,1.0
-Warner Bros.,Warner Bros.,ORG,0.09523809523809523,0.0,en,1.0
 Paramount Pictures,Paramount Pictures,ORG,0.09523809523809523,0.0,en,1.0
+Fiat 126,Fiat 126,ORG,0.25,0.5,en,1.0
 3D Geological Models,3D Geological Models,ORG,0.0,0.0,en,1.0
-Geophysical Research L,Geophysical Research L,ORG,0.04545454545454545,0.0,en,1.0
-Geophysical Research Letters,Geophysical Research Letters,ORG,0.018181818181818174,0.0,en,1.0
-BaT,BaT,ORG,-0.08333333333333333,0.0,en,1.0
-Alcantara,Alcantara,ORG,-0.16666666666666666,0.21666666666666667,en,1.0
-Taftan Volcano May Be Waking Up After,Taftan Volcano May Be Waking Up After,ORG,0.0,0.0,en,1.0
-Pleistocene,Pleistocene,ORG,0.5,0.0,en,1.0
-Porsche Macan S at No Reserve,Porsche Macan S at No Reserve,ORG,0.0,0.0,en,1.0
-Porsche Macan S,Porsche Macan S,ORG,0.0606060606060606,0.22196969696969698,en,1.0
-SunCar,SunCar,ORG,0.21428571428571427,0.6428571428571429,en,1.0
-ByteDance,ByteDance,ORG,0.21428571428571427,0.42857142857142855,en,1.0
-LLM,LLM,ORG,0.42857142857142855,0.42857142857142855,en,1.0
+Volcanic Wine Packaging,Volcanic Wine Packaging,ORG,0.0,0.0,en,1.0
+University of Melbourne,University of Melbourne,ORG,0.4,0.0,en,1.0
+Super Typhoon Fung-wong,Super Typhoon Fung-wong,ORG,0.18666666666666665,0.0,en,1.0
+Malatesta,Malatesta,ORG,0.0,0.0,en,1.0
+Cassini,Cassini,ORG,0.0,0.0,en,1.0
+Giovanni Cassini,Giovanni Cassini,ORG,0.35000000000000003,0.0,en,1.0
+Helicopter,Helicopter,ORG,0.024999999999999994,0.0,en,1.0
+New Zealand Firefighters Say,New Zealand Firefighters Say,ORG,0.13636363636363635,0.0,en,1.0
+&amp,&amp,ORG,0.0,0.0,en,1.0
+Disney World,Disney World,ORG,0.0,0.0,en,1.0
+Universal Orlando Resort,Universal Orlando Resort,ORG,0.06904761904761905,0.3654761904761905,en,1.0
+BNPB,BNPB,ORG,-0.13333333333333333,0.0,en,1.0
 SunCar Technology Group,SunCar Technology Group,ORG,0.21428571428571427,0.0,en,1.0
 The American Film Institute's,The American Film Institute's,ORG,0.3333333333333333,0.0,en,1.0
 AFI Fest,AFI Fest,ORG,0.0,0.0,en,1.0
@@ -306,24 +305,23 @@ Havering Council,Havering Council,ORG,0.0,0.0,en,1.0
 geomyths,geomyths,ORG,0.03333333333333333,0.0,en,1.0
 geomyths atte,geomyths atte,ORG,0.0,0.0,en,1.0
 FuturLab,FuturLab,ORG,0.3121212121212121,0.0,en,1.0
-BNPB,BNPB,ORG,-0.13333333333333333,0.0,en,1.0
 McLaren,McLaren,ORG,-0.16666666666666666,0.43333333333333335,en,1.0
+Annual Passholders,Annual Passholders,ORG,0.009523809523809526,0.0,en,1.0
 Volcano Yellow,Volcano Yellow,ORG,-0.16666666666666666,0.21666666666666667,en,1.0
-Volcanic Wine Packaging,Volcanic Wine Packaging,ORG,0.0,0.0,en,1.0
-Super Typhoon Fung-wong,Super Typhoon Fung-wong,ORG,0.18666666666666665,0.0,en,1.0
-“The Mundari,“The Mundari,ORG,0.0,0.0,en,1.0
+Alcantara,Alcantara,ORG,-0.16666666666666666,0.21666666666666667,en,1.0
+BaT,BaT,ORG,-0.08333333333333333,0.0,en,1.0
+Geophysical Research Letters,Geophysical Research Letters,ORG,0.018181818181818174,0.0,en,1.0
+Geophysical Research L,Geophysical Research L,ORG,0.04545454545454545,0.0,en,1.0
+Kids 4+,Kids 4+,ORG,0.3,0.0,en,1.0
+Thames & Kosmos,Thames & Kosmos,ORG,0.3,0.0,en,1.0
+Iceland Airwaves,Iceland Airwaves,ORG,0.0,0.0,en,1.0
+Park Hopper & Discount Tickets Now on Sale,Park Hopper & Discount Tickets Now on Sale,ORG,0.125,0.0,en,1.0
+The US Geological Survey,The US Geological Survey,ORG,0.0,0.0,en,1.0
++13276,+13276,ORG,0.0,0.0,en,1.0
+Apollinaris Mons,Apollinaris Mons,ORG,0.0,0.0,en,1.0
+sev…,sev…,ORG,0.1,0.0,en,1.0
 yearsYahoo News Canada,yearsYahoo News Canada,ORG,0.16666666666666669,0.0,en,1.0
-Delhi & Jaipur,Delhi & Jaipur,ORG,0.0,0.0,en,1.0
-EMI CalculatorDetermine,EMI CalculatorDetermine,ORG,0.0,0.0,en,1.0
-VAAC,VAAC,ORG,0.016666666666666646,0.0,en,1.0
-sci… Satellite,sci… Satellite,ORG,0.175,0.0,en,1.0
-Oman ADDIS ABABA,Oman ADDIS ABABA,ORG,0.0,0.0,en,1.0
-Akasa,Akasa,ORG,0.0,0.0,en,1.0
-DGCA Issues Advisory,DGCA Issues Advisory,ORG,0.0,0.0,en,1.0
-yearsThe Guardian,yearsThe Guardian,ORG,0.16666666666666669,0.0,en,1.0
-DGCA,DGCA,ORG,0.02500000000000001,0.0,en,1.0
 IndiaMetSky Weather,IndiaMetSky Weather,ORG,-0.03333333333333333,0.0,en,1.0
-Malatesta,Malatesta,ORG,0.0,0.0,en,1.0
 the India Meteorological Department,the India Meteorological Department,ORG,0.0875,0.0,en,1.0
 IMD,IMD,ORG,0.0875,0.0,en,1.0
 PTI,PTI,ORG,0.0875,0.0,en,1.0
@@ -331,20 +329,21 @@ Earth Sciences NZ,Earth Sciences NZ,ORG,0.075,0.0,en,1.0
 POZZUOLI,POZZUOLI,ORG,0.0,0.0,en,1.0
 VolcanoDiscovery,VolcanoDiscovery,ORG,0.27,0.0,en,1.0
 the Toulouse Volcanic Ash Advisory Cen,the Toulouse Volcanic Ash Advisory Cen,ORG,0.0,0.0,en,1.0
-sev…,sev…,ORG,0.1,0.0,en,1.0
-YearsBreitbart,YearsBreitbart,ORG,0.125,0.0,en,1.0
-the Washington Post,the Washington Post,ORG,0.32222222222222224,0.0,en,1.0
-Taftan,Taftan,ORG,0.2,0.0,en,1.0
-Slumber,Slumber,ORG,0.0,0.0,en,1.0
-eruptionsABC News,eruptionsABC News,ORG,0.1388888888888889,0.0,en,1.0
-Cassini,Cassini,ORG,0.0,0.0,en,1.0
-Giovanni Cassini,Giovanni Cassini,ORG,0.35000000000000003,0.0,en,1.0
-Helicopter,Helicopter,ORG,0.024999999999999994,0.0,en,1.0
-New Zealand Firefighters Say,New Zealand Firefighters Say,ORG,0.13636363636363635,0.0,en,1.0
-The US Geological Survey,The US Geological Survey,ORG,0.0,0.0,en,1.0
-+13276,+13276,ORG,0.0,0.0,en,1.0
-Apollinaris Mons,Apollinaris Mons,ORG,0.0,0.0,en,1.0
+Peoples' Review,Peoples' Review,ORG,0.25,0.0,en,1.0
 a European Space Agency,a European Space Agency,ORG,0.0,0.0,en,1.0
+YearsBreitbart,YearsBreitbart,ORG,0.125,0.0,en,1.0
+earth sciences,earth sciences,ORG,0.0,0.0,en,1.0
+Worlds Largest Lithium Deposit,Worlds Largest Lithium Deposit,ORG,0.2,0.0,en,1.0
+TrillionWas,TrillionWas,ORG,0.2,0.0,en,1.0
+Communications Earth &,Communications Earth &,ORG,-0.026190476190476184,0.0,en,1.0
+Bezymianny,Bezymianny,ORG,0.0,0.0,en,1.0
+the Devil's Office,the Devil's Office,ORG,0.1590909090909091,0.0,en,1.0
+Stark,Stark,ORG,-0.1625,0.0,en,1.0
+Guinness World Records,Guinness World Records,ORG,-0.018750000000000003,0.0,en,1.0
+DGCA,DGCA,ORG,0.02500000000000001,0.0,en,1.0
+yearsThe Guardian,yearsThe Guardian,ORG,0.16666666666666669,0.0,en,1.0
+DGCA Issues Advisory,DGCA Issues Advisory,ORG,0.0,0.0,en,1.0
+Oman ADDIS ABABA,Oman ADDIS ABABA,ORG,0.0,0.0,en,1.0
 ESA,ESA,ORG,0.0,0.0,en,1.0
 Jarvis,Jarvis,ORG,0.0,0.0,en,1.0
 Senate,Senate,ORG,0.1,0.0,en,1.0
@@ -356,43 +355,42 @@ Home Depot,Home Depot,ORG,-0.20000000000000004,0.0,en,1.0
 Bitcoins,Bitcoins,ORG,-0.13333333333333336,0.0,en,1.0
 millionsDaily Mail,millionsDaily Mail,ORG,0.6,0.0,en,1.0
 Center for Volcanology,Center for Volcanology,ORG,0.13333333333333333,0.0,en,1.0
-Pastoral Peoples and Practices,Pastoral Peoples and Practices,ORG,0.0,0.0,en,1.0
-AAP,AAP,ORG,0.0,0.0,en,1.0
-U.S. Geological Survey,U.S. Geological Survey,ORG,0.0,0.0,en,1.0
-volcanoA,volcanoA,ORG,0.0,0.0,en,1.0
-a United Nations Security Council,a United Nations Security Council,ORG,0.0,0.0,en,1.0
-Hamas,Hamas,ORG,0.0,0.0,en,1.0
-PHIVOLCS Science Research Assistant,PHIVOLCS Science Research Assistant,ORG,0.15,0.0,en,1.0
-Activo Volcano Earphones,Activo Volcano Earphones,ORG,0.07777777777777779,0.0,en,1.0
-Naoris Protocol Showcases Quantum-Resistant Security,Naoris Protocol Showcases Quantum-Resistant Security,ORG,0.0,0.0,en,1.0
-Society Family Office Wealth Forum & Volcano Innovation Summit,Society Family Office Wealth Forum & Volcano Innovation Summit,ORG,0.5,0.6666666666666666,en,1.0
-"Web2, Web3 & Web4 1640","Web2, Web3 & Web4 1640",ORG,0.25,0.0,en,1.0
+eruptionsABC News,eruptionsABC News,ORG,0.1388888888888889,0.0,en,1.0
+Slumber,Slumber,ORG,0.0,0.0,en,1.0
+Taftan,Taftan,ORG,0.2,0.0,en,1.0
+the Washington Post,the Washington Post,ORG,0.32222222222222224,0.0,en,1.0
+Delhi & Jaipur,Delhi & Jaipur,ORG,0.0,0.0,en,1.0
+EMI CalculatorDetermine,EMI CalculatorDetermine,ORG,0.0,0.0,en,1.0
+VAAC,VAAC,ORG,0.016666666666666646,0.0,en,1.0
+sci… Satellite,sci… Satellite,ORG,0.175,0.0,en,1.0
+LLM,LLM,ORG,0.42857142857142855,0.42857142857142855,en,1.0
+ByteDance,ByteDance,ORG,0.21428571428571427,0.42857142857142855,en,1.0
+SunCar,SunCar,ORG,0.21428571428571427,0.6428571428571429,en,1.0
+Iberseries & Platino Industria,Iberseries & Platino Industria,ORG,0.3,0.0,en,1.0
 Entra,Entra,ORG,0.0,0.0,en,1.0
 Microsoft,Microsoft,ORG,0.0,0.0,en,1.0
+volcanoA,volcanoA,ORG,0.0,0.0,en,1.0
 Connecting Frankenstein,Connecting Frankenstein,ORG,0.0,0.0,en,1.0
-Texas Ranger,Texas Ranger,ORG,0.0,0.0,en,1.0
 Le·gal In·sur·rec·tion,Le·gal In·sur·rec·tion,ORG,0.375,0.0,en,1.0
 Toba,Toba,ORG,0.0,0.0,en,1.0
 IndieWire,IndieWire,ORG,0.0,0.0,en,1.0
 12:50:22,12:50:22,ORG,0.12,0.0,en,1.0
 Blue Lagoon Skincare,Blue Lagoon Skincare,ORG,0.0,0.0,en,1.0
-Iberseries & Platino Industria,Iberseries & Platino Industria,ORG,0.3,0.0,en,1.0
 Beta Film,Beta Film,ORG,0.6681818181818182,0.6672727272727274,en,1.0
+¡Vaya,¡Vaya,ORG,-0.15625,0.0,en,1.0
 Secuoya Studios,Secuoya Studios,ORG,0.6,0.44000000000000006,en,1.0
 Iberseries &amp,Iberseries &amp,ORG,0.3,0.0,en,1.0
-OLI,OLI,ORG,0.0,0.0,en,1.0
-Chichijima,Chichijima,ORG,-0.23333333333333336,0.0,en,1.0
-Volcan de Mi Tierra,Volcan de Mi Tierra,ORG,0.13636363636363635,0.0,en,1.0
-Volcan de Mi Tierra Tequila,Volcan de Mi Tierra Tequila,ORG,0.1,0.0,en,1.0
-The Tokyo Metropolitan Government,The Tokyo Metropolitan Government,ORG,0.0,0.25,en,1.0
-Ft.,Ft.,ORG,-0.013888888888888881,0.42777777777777776,en,1.0
-Visceral & Alive,Visceral & Alive,ORG,0.20000000000000004,0.0,en,1.0
-"USGS
-","USGS
-",ORG,0.7,0.0,en,1.0
-Xenu,Xenu,ORG,0.0,0.0,en,1.0
-Mayfield,Mayfield,ORG,0.0,0.0,en,1.0
-Universal Orlando Resort,Universal Orlando Resort,ORG,0.06904761904761905,0.3654761904761905,en,1.0
+Platino Industria,Platino Industria,ORG,0.3,0.0,en,1.0
+Texas Ranger,Texas Ranger,ORG,0.0,0.0,en,1.0
+DFG,DFG,ORG,0.0,0.0,en,1.0
+PHIVOLCS Science Research Analyst,PHIVOLCS Science Research Analyst,ORG,0.0,0.0,en,1.0
+Cuando los,Cuando los,ORG,0.0,0.0,en,1.0
+Del nuevo disco de Cécile McLorin Salvant,Del nuevo disco de Cécile McLorin Salvant,ORG,-0.3125,0.0,en,1.0
+sus canciones ',sus canciones ',ORG,-0.3125,0.0,en,1.0
+Volcano Rescue Update Sparks,Volcano Rescue Update Sparks,ORG,0.0,0.0,en,1.0
+Society Family Office Wealth Forum & Volcano Innovation Summit,Society Family Office Wealth Forum & Volcano Innovation Summit,ORG,0.5,0.6666666666666666,en,1.0
+Naoris Protocol Showcases Quantum-Resistant Security,Naoris Protocol Showcases Quantum-Resistant Security,ORG,0.0,0.0,en,1.0
+Activo Volcano Earphones,Activo Volcano Earphones,ORG,0.07777777777777779,0.0,en,1.0
 Monovisions Photography Awards,Monovisions Photography Awards,ORG,0.0,0.0,en,1.0
 Performative Environmentalism,Performative Environmentalism,ORG,0.22499999999999998,0.0,en,1.0
 TIFF,TIFF,ORG,0.5,0.5,en,1.0
@@ -405,43 +403,43 @@ LOLtron,LOLtron,ORG,0.7208333333333333,0.9604166666666667,en,1.0
 Marvel Comics,Marvel Comics,ORG,0.2541666666666667,0.0,en,1.0
 This New Universal Orlando Event,This New Universal Orlando Event,ORG,0.06818181818181818,0.0,en,1.0
 Scooby-Doo,Scooby-Doo,ORG,0.0,0.0,en,1.0
-Platino Industria,Platino Industria,ORG,0.3,0.0,en,1.0
-DFG,DFG,ORG,0.0,0.0,en,1.0
-AAP Magazine,AAP Magazine,ORG,0.9,0.0,en,1.0
-Science &amp,Science &amp,ORG,0.0,0.0,en,1.0
-ESO,ESO,ORG,0.0,0.0,en,1.0
-CG,CG,ORG,0.0006060606060606044,0.0,en,1.0
-Devis J,Devis J,ORG,0.08409090909090909,0.0,en,1.0
-Gatto L,Gatto L,ORG,0.08409090909090909,0.0,en,1.0
-De Smet C,De Smet C,ORG,0.08409090909090909,0.0,en,1.0
-"the ""Land of Enchantment","the ""Land of Enchantment",ORG,0.059272727272727276,0.0,en,1.0
-"Geophysical Research Letters
- ","Geophysical Research Letters
- ",ORG,0.13636363636363635,0.0,en,1.0
+Volcan de Mi Tierra Tequila,Volcan de Mi Tierra Tequila,ORG,0.1,0.0,en,1.0
+Volcan de Mi Tierra,Volcan de Mi Tierra,ORG,0.13636363636363635,0.0,en,1.0
+Chichijima,Chichijima,ORG,-0.23333333333333336,0.0,en,1.0
+Tokyo Metropolitan University,Tokyo Metropolitan University,ORG,-0.23333333333333336,0.0,en,1.0
+a United Nations Security Council,a United Nations Security Council,ORG,0.0,0.0,en,1.0
+Hamas,Hamas,ORG,0.0,0.0,en,1.0
+PHIVOLCS Science Research Assistant,PHIVOLCS Science Research Assistant,ORG,0.15,0.0,en,1.0
+De 'Southern nights',De 'Southern nights',ORG,-0.15625,0.0,en,1.0
+Mount Vesuvius Casts Its Shadow Over Below The Clouds,Mount Vesuvius Casts Its Shadow Over Below The Clouds,ORG,0.0,0.0,en,1.0
+Porsche Macan S,Porsche Macan S,ORG,0.0606060606060606,0.22196969696969698,en,1.0
+Canaves Collection,Canaves Collection,ORG,0.0,0.0,en,1.0
 Peru &amp,Peru &amp,ORG,0.24545454545454545,0.0,en,1.0
 Volcano Vista High School,Volcano Vista High School,ORG,0.22,0.0,en,1.0
+Science &amp,Science &amp,ORG,0.0,0.0,en,1.0
 ICBM Silo Defense System,ICBM Silo Defense System,ORG,0.0,0.0,en,1.0
-PHIVOLCS Science Research Analyst,PHIVOLCS Science Research Analyst,ORG,0.0,0.0,en,1.0
 UPSC Key,UPSC Key,ORG,0.0,0.0,en,1.0
 LCA Tejas Mk,LCA Tejas Mk,ORG,0.0,0.0,en,1.0
 UPSC,UPSC,ORG,0.4,0.0,en,1.0
 LCA Tejas Mk1A,LCA Tejas Mk1A,ORG,0.029166666666666664,0.0,en,1.0
 Western Michigan University,Western Michigan University,ORG,-0.0875,0.0,en,1.0
-Canaves Collection,Canaves Collection,ORG,0.0,0.0,en,1.0
 Thera,Thera,ORG,0.2555555555555556,0.0,en,1.0
+Success,Success,ORG,0.375,0.0,en,1.0
 Pompeii,Pompeii,ORG,0.0,0.0,en,1.0
 Luxtripper,Luxtripper,ORG,0.7500000000000001,0.875,en,1.0
-the European Southern Observatory,the European Southern Observatory,ORG,0.0,0.0,en,1.0
-Geological Agency,Geological Agency,ORG,0.03749999999999999,0.0,en,1.0
-the Volcano Monitoring,the Volcano Monitoring,ORG,0.0,0.0,en,1.0
-the Philippine Institute of …,the Philippine Institute of …,ORG,0.14444444444444443,0.0,en,1.0
-Cuando los,Cuando los,ORG,0.0,0.0,en,1.0
-Del nuevo disco de Cécile McLorin Salvant,Del nuevo disco de Cécile McLorin Salvant,ORG,-0.3125,0.0,en,1.0
-sus canciones ',sus canciones ',ORG,-0.3125,0.0,en,1.0
-De 'Southern nights',De 'Southern nights',ORG,-0.15625,0.0,en,1.0
-¡Vaya,¡Vaya,ORG,-0.15625,0.0,en,1.0
-Mount Vesuvius Casts Its Shadow Over Below The Clouds,Mount Vesuvius Casts Its Shadow Over Below The Clouds,ORG,0.0,0.0,en,1.0
-Success,Success,ORG,0.375,0.0,en,1.0
+AAP Magazine,AAP Magazine,ORG,0.9,0.0,en,1.0
+AAP,AAP,ORG,0.0,0.0,en,1.0
+“The Mundari,“The Mundari,ORG,0.0,0.0,en,1.0
+Pastoral Peoples and Practices,Pastoral Peoples and Practices,ORG,0.0,0.0,en,1.0
+Taftan Volcano May Be Waking Up After,Taftan Volcano May Be Waking Up After,ORG,0.0,0.0,en,1.0
+Pleistocene,Pleistocene,ORG,0.5,0.0,en,1.0
+Porsche Macan S at No Reserve,Porsche Macan S at No Reserve,ORG,0.0,0.0,en,1.0
+"Geophysical Research Letters
+ ","Geophysical Research Letters
+ ",ORG,0.13636363636363635,0.0,en,1.0
+"the ""Land of Enchantment","the ""Land of Enchantment",ORG,0.059272727272727276,0.0,en,1.0
+De Smet C,De Smet C,ORG,0.08409090909090909,0.0,en,1.0
+Gatto L,Gatto L,ORG,0.08409090909090909,0.0,en,1.0
 Piedra Vista 7 Volcano Vista,Piedra Vista 7 Volcano Vista,ORG,0.0,0.0,en,1.0
 GSI,GSI,ORG,-0.1125,0.5125,en,1.0
 The Geological Survey of India,The Geological Survey of India,ORG,-0.044444444444444446,0.0,en,1.0
@@ -454,13 +452,17 @@ The Spookiest Place Name,The Spookiest Place Name,ORG,0.0,0.0,en,1.0
 Antarctic,Antarctic,ORG,-0.05,0.0,en,1.0
 Matthews ER,Matthews ER,ORG,0.0,0.0,en,1.0
 Herculaneum,Herculaneum,ORG,0.0,0.0,en,1.0
-the Daily Mail,the Daily Mail,ORG,0.0,0.0,en,1.0
-LEMBATA,LEMBATA,ORG,0.5,0.8500000000000001,en,1.0
-"London
-","London
-",ORG,-0.016666666666666663,0.0,en,1.0
-@keitoswan,@keitoswan,ORG,0.5,0.0,en,1.0
-the Sandia Matadors,the Sandia Matadors,ORG,0.25,0.0,en,1.0
+the Philippine Institute of …,the Philippine Institute of …,ORG,0.14444444444444443,0.0,en,1.0
+the Volcano Monitoring,the Volcano Monitoring,ORG,0.0,0.0,en,1.0
+Geological Agency,Geological Agency,ORG,0.03749999999999999,0.0,en,1.0
+the European Southern Observatory,the European Southern Observatory,ORG,0.0,0.0,en,1.0
+ESO,ESO,ORG,0.0,0.0,en,1.0
+CG,CG,ORG,0.0006060606060606044,0.0,en,1.0
+Devis J,Devis J,ORG,0.08409090909090909,0.0,en,1.0
+idenfified,idenfified,ORG,0.13636363636363635,0.0,en,1.0
+Getty Images,Getty Images,ORG,0.75,0.75,en,1.0
+Save,Save,ORG,-0.16666666666666669,0.0,en,1.0
+ExpertClick,ExpertClick,ORG,0.5,0.0,en,1.0
 Exclusive Business Outlook Newsletter,Exclusive Business Outlook Newsletter,ORG,0.0,0.0,en,1.0
 Elon Musk,Elon Musk,ORG,0.12380952380952381,0.0,en,1.0
 Scientists Say,Scientists Say,ORG,0.1,0.0,en,1.0
@@ -481,11 +483,11 @@ feetCitizen Watch Report,feetCitizen Watch Report,ORG,0.0,0.0,en,1.0
 NBC News,NBC News,ORG,0.455,0.0,en,1.0
 "amazement""CBS News Photo & Video Chronology","amazement""CBS News Photo & Video Chronology",ORG,0.33166666666666667,0.0,en,1.0
 Natural Disaster Management Market Global Outlook,Natural Disaster Management Market Global Outlook,ORG,0.05,0.0,en,1.0
-ExpertClick,ExpertClick,ORG,0.5,0.0,en,1.0
+NEC,NEC,ORG,0.05,0.0,en,1.0
+the Sandia Matadors,the Sandia Matadors,ORG,0.25,0.0,en,1.0
+@keitoswan,@keitoswan,ORG,0.5,0.0,en,1.0
+Nokia,Nokia,ORG,0.05,0.0,en,1.0
 TikTok,TikTok,ORG,1.5333333333333334,1.9333333333333333,en,1.0
-oppure scegliere,oppure scegliere,ORG,0.0,0.0,en,1.0
-the Alaska Volcano Observatory,the Alaska Volcano Observatory,ORG,-0.15000000000000002,0.7,en,1.0
-Xinhua,Xinhua,ORG,-0.24444444444444446,0.5166666666666666,en,1.0
 the National Coordinator for Disaster Reduction (Conred,the National Coordinator for Disaster Reduction (Conred,ORG,-0.21666666666666667,0.0,en,1.0
 the National Coordinator for Disaster Reduction,the National Coordinator for Disaster Reduction,ORG,-0.02777777777777778,0.0,en,1.0
 Alotenango,Alotenango,ORG,0.12222222222222223,0.0,en,1.0
@@ -506,12 +508,11 @@ Broken Weave,Broken Weave,ORG,-0.02121212121212122,0.0,en,1.0
 Dungeons &amp,Dungeons &amp,ORG,-0.02121212121212122,0.0,en,1.0
 UAF,UAF,ORG,-0.07833333333333335,0.0,en,1.0
 the University of Alaska Fairbanks Power Plant,the University of Alaska Fairbanks Power Plant,ORG,-0.2,0.4,en,1.0
-NEC,NEC,ORG,0.05,0.0,en,1.0
+the Alaska Volcano Observatory,the Alaska Volcano Observatory,ORG,-0.15000000000000002,0.7,en,1.0
 Hexagon,Hexagon,ORG,0.05,0.0,en,1.0
-Nokia,Nokia,ORG,0.05,0.0,en,1.0
 ESRI,ESRI,ORG,0.05,0.0,en,1.0
+CNN,CNN,ORG,-0.6,0.9,en,1.0
 Budget,Budget,ORG,0.0,0.0,en,1.0
-the Daniel K. Inouye International Airport,the Daniel K. Inouye International Airport,ORG,0.0,0.0,en,1.0
 The Meteorological Agency,The Meteorological Agency,ORG,0.0,0.0,en,1.0
 Spurr,Spurr,ORG,0.11818181818181818,0.0,en,1.0
 PHI,PHI,ORG,0.0,0.0,en,1.0
@@ -531,11 +532,12 @@ Seattle Fault,Seattle Fault,ORG,-0.034090909090909095,0.3666666666666667,en,1.0
 American Geosciences,American Geosciences,ORG,-0.07777777777777778,0.0,en,1.0
 - Farmingdale Observer,- Farmingdale Observer,ORG,0.0,0.0,en,1.0
 eggs&mdash;still,eggs&mdash;still,ORG,0.0,0.0,en,1.0
+Farmingdale Observer,Farmingdale Observer,ORG,0.0,0.0,en,1.0
+Astra,Astra,ORG,0.16666666666666666,0.3916666666666666,en,1.0
+the Daniel K. Inouye International Airport,the Daniel K. Inouye International Airport,ORG,0.0,0.0,en,1.0
 Shalom & Aloha: Volcanoes,Shalom & Aloha: Volcanoes,ORG,0.0,0.0,en,1.0
-The Alaskan Volcano Observatory,The Alaskan Volcano Observatory,ORG,0.13636363636363635,0.0,en,1.0
-19:04:01,19:04:01,ORG,0.0,0.0,en,1.0
-Monitoring Systems,Monitoring Systems,ORG,0.1,0.0,en,1.0
 Everbridge,Everbridge,ORG,0.05,0.0,en,1.0
+The Alaskan Volcano Observatory,The Alaskan Volcano Observatory,ORG,0.13636363636363635,0.0,en,1.0
 SuperMap,SuperMap,ORG,0.05,0.0,en,1.0
 Sadeem Technology,Sadeem Technology,ORG,0.05,0.0,en,1.0
 Lumineye,Lumineye,ORG,0.05,0.0,en,1.0
@@ -544,8 +546,8 @@ OroraTech,OroraTech,ORG,0.05,0.0,en,1.0
 Kinemetrics,Kinemetrics,ORG,0.05,0.0,en,1.0
 Flood Beacons,Flood Beacons,ORG,0.2,0.4,en,1.0
 Application (Volcano Detection,Application (Volcano Detection,ORG,0.1,0.0,en,1.0
+Monitoring Systems,Monitoring Systems,ORG,0.1,0.0,en,1.0
 Application (Volcano Det,Application (Volcano Det,ORG,0.1,0.0,en,1.0
-Charlex,Charlex,ORG,0.3666666666666667,0.0,en,1.0
 "Tofua, Ha'apai","Tofua, Ha'apai",ORG,0.0,0.0,en,1.0
 White House,White House,ORG,-0.06666666666666667,0.0,en,1.0
 Oval Office,Oval Office,ORG,-0.13333333333333333,0.03333333333333333,en,1.0
@@ -557,9 +559,11 @@ Video",ORG,0.17555555555555558,0.0,en,1.0
 Dunnwell,Dunnwell,ORG,0.5,0.0,en,1.0
 VFX,VFX,ORG,0.5,0.0,en,1.0
 Dunnw,Dunnw,ORG,0.3666666666666667,0.0,en,1.0
-CNN,CNN,ORG,-0.6,0.9,en,1.0
-un,un,ORG,0.0,0.0,en,1.0
-Land of Fire and Ice,Land of Fire and Ice,ORG,0.0,0.0,en,1.0
+Charlex,Charlex,ORG,0.3666666666666667,0.0,en,1.0
+19:04:01,19:04:01,ORG,0.0,0.0,en,1.0
+Xinhua,Xinhua,ORG,-0.24444444444444446,0.5166666666666666,en,1.0
+oppure scegliere,oppure scegliere,ORG,0.0,0.0,en,1.0
+Universal Studios,Universal Studios,ORG,0.13472222222222222,0.0,en,1.0
 The Police Regional Office 7,The Police Regional Office 7,ORG,0.8,0.5,en,1.0
 The Office of the Provincial Agriculturist,The Office of the Provincial Agriculturist,ORG,0.0,0.0,en,1.0
 Türkiye Witness Travel,Türkiye Witness Travel,ORG,0.20833333333333334,0.0,en,1.0
@@ -594,7 +598,7 @@ Kanlaon,Kanlaon,ORG,0.0,0.0,en,1.0
 "PAN PYLAS
 ","PAN PYLAS
 ",ORG,-0.3,0.0,en,1.0
-ANSA,ANSA,ORG,0.0,0.0,en,1.0
+bou,bou,ORG,0.12857142857142856,0.0,en,1.0
 Magma,Magma,ORG,0.30000000000000004,1.2000000000000002,en,1.0
 Office of the Civil Defense,Office of the Civil Defense,ORG,0.1,0.0,en,1.0
 Negros…,Negros…,ORG,0.1,0.0,en,1.0
@@ -620,10 +624,9 @@ the Volcano Monitoring and Eruption Prediction Divi,the Volcano Monitoring and E
 Natural History Museum,Natural History Museum,ORG,0.3,0.0,en,1.0
 Cascades,Cascades,ORG,-0.08333333333333333,0.0,en,1.0
 Flor de Caña,Flor de Caña,ORG,1.45,0.65,en,1.0
-bou,bou,ORG,0.12857142857142856,0.0,en,1.0
 Mount Spurr volcanoABC News Earthquakes,Mount Spurr volcanoABC News Earthquakes,ORG,0.10416666666666667,0.0,en,1.0
-Benitez,Benitez,ORG,0.2,0.0,en,1.0
-Roman Man's Brain Into Glass Fossil,Roman Man's Brain Into Glass Fossil,ORG,0.0,0.0,en,1.0
+un,un,ORG,0.0,0.0,en,1.0
+CE,CE,ORG,0.05833333333333333,0.0,en,1.0
 Whakaari/White Island Andrew,Whakaari/White Island Andrew,ORG,0.0,0.0,en,1.0
 Whakaari Management Ltd,Whakaari Management Ltd,ORG,0.0,0.0,en,1.0
 WML,WML,ORG,0.0,0.0,en,1.0
@@ -646,10 +649,11 @@ Volcan de Fuego,Volcan de Fuego,ORG,0.09166666666666667,0.0,en,1.0
 AP Photo/,AP Photo/,ORG,0.0,0.0,en,1.0
 Il vulcano Fuego,Il vulcano Fuego,ORG,0.0,0.0,en,1.0
 EPA,EPA,ORG,0.0,0.0,en,1.0
-CE,CE,ORG,0.05833333333333333,0.0,en,1.0
+ANSA,ANSA,ORG,0.0,0.0,en,1.0
+Roman Man's Brain Into Glass Fossil,Roman Man's Brain Into Glass Fossil,ORG,0.0,0.0,en,1.0
 The Hawaiian Volcano Observatory n… Footage,The Hawaiian Volcano Observatory n… Footage,ORG,0.0,0.0,en,1.0
+Benitez,Benitez,ORG,0.2,0.0,en,1.0
 EpicLava,EpicLava,ORG,0.0,0.25,en,1.0
-Snowboarding Next,Snowboarding Next,ORG,0.0,0.0,en,1.0
 RafaelMatos,RafaelMatos,ORG,0.1,0.0,en,1.0
 YesExterna,YesExterna,ORG,0.62,0.0,en,1.0
 the Euro-Mediterranean Seismological Center,the Euro-Mediterranean Seismological Center,ORG,0.15000000000000002,0.0,en,1.0
@@ -659,8 +663,8 @@ Volcano Views,Volcano Views,ORG,0.13636363636363635,0.0,en,1.0
 Wilderness Bisate Reserve,Wilderness Bisate Reserve,ORG,0.11481481481481481,0.0,en,1.0
 Barangay Mailum,Barangay Mailum,ORG,0.0,0.0,en,1.0
 European Union,European Union,ORG,-0.10370370370370373,0.0,en,1.0
+Snowboarding Next,Snowboarding Next,ORG,0.0,0.0,en,1.0
 the Office of Civil Defense,the Office of Civil Defense,ORG,-0.5,0.85,en,1.0
-The Economic Collapse Blog,The Economic Collapse Blog,ORG,0.40625,0.5875,en,1.0
 Nike,Nike,ORG,0.7113636363636363,2.562878787878788,en,1.0
 the super fire &,the super fire &,ORG,0.16666666666666666,0.0,en,1.0
 GoFundMe Started,GoFundMe Started,ORG,0.0,0.0,en,1.0
@@ -670,14 +674,11 @@ Sanguisugabogg,Sanguisugabogg,ORG,0.0,0.0,en,1.0
 Nea Kameni,Nea Kameni,ORG,-0.26666666666666666,0.6,en,1.0
 the University of Athens,the University of Athens,ORG,-0.15,0.0,en,1.0
 Volcano Discovery,Volcano Discovery,ORG,0.8500000000000001,1.575,en,1.0
-Farmingdale Observer,Farmingdale Observer,ORG,0.0,0.0,en,1.0
-Astra,Astra,ORG,0.16666666666666666,0.3916666666666666,en,1.0
+The Economic Collapse Blog,The Economic Collapse Blog,ORG,0.40625,0.5875,en,1.0
 Universal,Universal,ORG,0.6787878787878789,2.7555555555555555,en,1.0
-International Breaking News Events,International Breaking News Events,ORG,0.13333333333333336,0.0,en,1.0
-The Economic Times,The Economic Times,ORG,0.13333333333333336,0.0,en,1.0
-Daily International News,Daily International News,ORG,0.06666666666666667,0.0,en,1.0
+airCBS News,airCBS News,ORG,0.20833333333333334,0.0,en,1.0
+Hiker Juliana Marins,Hiker Juliana Marins,ORG,-0.07777777777777778,0.0,en,1.0
 National Institute of Geophysics,National Institute of Geophysics,ORG,0.0,0.0,en,1.0
-Stock Score,Stock Score,ORG,0.33,0.585,en,1.0
 The National Institute of Geophysics and Volcanology,The National Institute of Geophysics and Volcanology,ORG,0.0,0.0,en,1.0
 INGV,INGV,ORG,0.1,0.3,en,1.0
 Ital,Ital,ORG,0.0,0.0,en,1.0
@@ -695,14 +696,14 @@ indi,indi,ORG,0.6,0.0,en,1.0
 the European Space Agency,the European Space Agency,ORG,0.20000000000000004,0.0,en,1.0
 the Air Max 90,the Air Max 90,ORG,0.1515151515151515,0.0,en,1.0
 Arsia Mons,Arsia Mons,ORG,0.22992424242424242,3.9455808080808077,en,1.0
-Latest News Updates,Latest News Updates,ORG,0.13333333333333336,0.0,en,1.0
-Canada News,Canada News,ORG,0.13333333333333336,0.0,en,1.0
-Universal Studios,Universal Studios,ORG,0.13472222222222222,0.0,en,1.0
-UK News,UK News,ORG,0.13333333333333336,0.0,en,1.0
-Angeles Times Experts,Angeles Times Experts,ORG,0.20833333333333334,0.0,en,1.0
-Bezos,Bezos,ORG,1.0666666666666667,0.6666666666666666,en,1.0
-Bond,Bond,ORG,1.0666666666666667,0.6666666666666666,en,1.0
-Cascadia,Cascadia,ORG,0.0,0.0,en,1.0
+CO2,CO2,ORG,0.0,0.0,en,1.0
+Astell & Kern,Astell & Kern,ORG,-0.14583333333333334,0.0,en,1.0
+Activo,Activo,ORG,0.5,0.0,en,1.0
+imageCBS News,imageCBS News,ORG,-0.125,0.0,en,1.0
+Stock Score,Stock Score,ORG,0.33,0.585,en,1.0
+Daily International News,Daily International News,ORG,0.06666666666666667,0.0,en,1.0
+BACOLOD CITY Office of Civil Defense Western,BACOLOD CITY Office of Civil Defense Western,ORG,0.13333333333333333,0.0,en,1.0
+The Economic Times,The Economic Times,ORG,0.13333333333333336,0.0,en,1.0
 AMZN,AMZN,ORG,0.3333333333333333,0.6666666666666666,en,1.0
 Ashar M,Ashar M,ORG,0.22916666666666669,0.0,en,1.0
 "Pexels
@@ -722,17 +723,17 @@ the Irish Coast Guard,the Irish Coast Guard,ORG,0.0909090909090909,0.15151515151
 Eruption - Newsweek,Eruption - Newsweek,ORG,0.13636363636363635,0.0,en,1.0
 EruptionNewsweek Italy,EruptionNewsweek Italy,ORG,0.13636363636363635,0.0,en,1.0
 fleeingThe Ind,fleeingThe Ind,ORG,0.1594949494949495,0.0,en,1.0
-CO2,CO2,ORG,0.0,0.0,en,1.0
-Astell & Kern,Astell & Kern,ORG,-0.14583333333333334,0.0,en,1.0
-Activo,Activo,ORG,0.5,0.0,en,1.0
-imageCBS News,imageCBS News,ORG,-0.125,0.0,en,1.0
-The Times of London,The Times of London,ORG,-0.08333333333333333,0.0,en,1.0
-The Daily Telegraph of London,The Daily Telegraph of London,ORG,-0.08333333333333333,0.0,en,1.0
-Volcano Chicken Recipe,Volcano Chicken Recipe,ORG,-0.6,0.0,en,1.0
-the Office of the Civil Defense,the Office of the Civil Defense,ORG,0.2,0.1,en,1.0
-the Associated Press,the Associated Press,ORG,0.0,0.0,en,1.0
+UK News,UK News,ORG,0.13333333333333336,0.0,en,1.0
+Canada News,Canada News,ORG,0.13333333333333336,0.0,en,1.0
+International Breaking News Events,International Breaking News Events,ORG,0.13333333333333336,0.0,en,1.0
+Latest News Updates,Latest News Updates,ORG,0.13333333333333336,0.0,en,1.0
+Office of Civil Defense Western Visayas,Office of Civil Defense Western Visayas,ORG,0.13333333333333333,0.0,en,1.0
+BHphoto,BHphoto,ORG,0.0,0.0,en,1.0
+Bond,Bond,ORG,1.0666666666666667,0.6666666666666666,en,1.0
+LEMBATA,LEMBATA,ORG,0.5,0.8500000000000001,en,1.0
 Virgin Australia,Virgin Australia,ORG,0.0,0.0,en,1.0
 Air New Zealand,Air New Zealand,ORG,0.005681818181818177,0.0,en,1.0
+the Office of the Civil Defense,the Office of the Civil Defense,ORG,0.2,0.1,en,1.0
 The Casketeers Life And Death Around The Globe,The Casketeers Life And Death Around The Globe,ORG,0.0,0.0,en,1.0
 HOMEPAGE,HOMEPAGE,ORG,0.3757954545454545,1.93,en,1.0
 AFP,AFP,ORG,0.5,0.0,en,1.0
@@ -747,21 +748,23 @@ Kagoshima,Kagoshima,ORG,0.55,0.44166666666666665,en,1.0
 Bernama-Xinhua,Bernama-Xinhua,ORG,0.3,0.0,en,1.0
 Andrew MCKIRDYOn Board,Andrew MCKIRDYOn Board,ORG,0.0,0.0,en,1.0
 Ford,Ford,ORG,1.0,0.3,en,1.0
-Newsweek,Newsweek,ORG,-0.16666666666666666,0.08333333333333333,en,1.0
-The Sun of the Dead,The Sun of the Dead,ORG,-0.16666666666666669,0.4,en,1.0
-Umor,Umor,ORG,0.2,0.48333333333333334,en,1.0
-CloudsGizmodo,CloudsGizmodo,ORG,0.1375,0.0,en,1.0
-Office of Civil Defense Western Visayas,Office of Civil Defense Western Visayas,ORG,0.13333333333333333,0.0,en,1.0
-BACOLOD CITY Office of Civil Defense Western,BACOLOD CITY Office of Civil Defense Western,ORG,0.13333333333333333,0.0,en,1.0
-BHphoto,BHphoto,ORG,0.0,0.0,en,1.0
+Land of Fire and Ice,Land of Fire and Ice,ORG,0.0,0.0,en,1.0
+"London
+","London
+",ORG,-0.016666666666666663,0.0,en,1.0
+OLI,OLI,ORG,0.0,0.0,en,1.0
+the Daily Mail,the Daily Mail,ORG,0.0,0.0,en,1.0
+the Associated Press,the Associated Press,ORG,0.0,0.0,en,1.0
+Volcano Chicken Recipe,Volcano Chicken Recipe,ORG,-0.6,0.0,en,1.0
 Adorama,Adorama,ORG,0.0,0.0,en,1.0
+The Daily Telegraph of London,The Daily Telegraph of London,ORG,-0.08333333333333333,0.0,en,1.0
 Amazon DE,Amazon DE,ORG,0.0,0.0,en,1.0
 Amazon FR,Amazon FR,ORG,0.0,0.0,en,1.0
 FotoErhardt DE,FotoErhardt DE,ORG,0.0,0.0,en,1.0
 FotoKoch DE,FotoKoch DE,ORG,0.0,0.0,en,1.0
 Odyssey,Odyssey,ORG,-0.01666666666666668,0.0,en,1.0
+CloudsGizmodo,CloudsGizmodo,ORG,0.1375,0.0,en,1.0
 JPL,JPL,ORG,0.18295454545454545,0.18484848484848485,en,1.0
-El Sol de los Muertos,El Sol de los Muertos,ORG,0.0,0.0,en,1.0
 Martian Supervolcano Peeks Through the Cloudtops,Martian Supervolcano Peeks Through the Cloudtops,ORG,0.0,0.0,en,1.0
 JPL/MSSS/JHUAPL/ESA,JPL/MSSS/JHUAPL/ESA,ORG,0.21285714285714286,0.0,en,1.0
 National Park Service,National Park Service,ORG,0.1,0.35,en,1.0
@@ -771,13 +774,15 @@ ScienceDaily,ScienceDaily,ORG,0.25,0.0,en,1.0
 @volcaho,@volcaho,ORG,0.0,0.0,en,1.0
 Georgia Tech,Georgia Tech,ORG,0.7,1.0,en,1.0
 Alaskas Mount Veniaminof,Alaskas Mount Veniaminof,ORG,0.0,0.0,en,1.0
-- Los Angeles Times,- Los Angeles Times,ORG,0.0,0.0,en,1.0
-the Los Angeles Times,the Los Angeles Times,ORG,0.020606060606060607,0.0,en,1.0
-WashingtonNews Radio 1310,WashingtonNews Radio 1310,ORG,0.08055555555555556,0.0,en,1.0
-the Department of Earth Sciences,the Department of Earth Sciences,ORG,-0.00045454545454545747,0.0,en,1.0
-Supervolcanoes,Supervolcanoes,ORG,0.3333333333333333,0.0,en,1.0
+El Sol de los Muertos,El Sol de los Muertos,ORG,0.0,0.0,en,1.0
+Umor,Umor,ORG,0.2,0.48333333333333334,en,1.0
+The Sun of the Dead,The Sun of the Dead,ORG,-0.16666666666666669,0.4,en,1.0
+Newsweek,Newsweek,ORG,-0.16666666666666666,0.08333333333333333,en,1.0
+The Times of London,The Times of London,ORG,-0.08333333333333333,0.0,en,1.0
+Cascadia,Cascadia,ORG,0.0,0.0,en,1.0
+Bezos,Bezos,ORG,1.0666666666666667,0.6666666666666666,en,1.0
+Science Advances,Science Advances,ORG,0.0,0.0,en,1.0
 Super Earthquakes,Super Earthquakes,ORG,0.3333333333333333,0.0,en,1.0
-Team,Team,ORG,0.1,0.0,en,1.0
 HVO,HVO,ORG,0.0,0.0,en,1.0
 UNESCO,UNESCO,ORG,0.5,0.0,en,1.0
 World Heritage,World Heritage,ORG,0.5,0.0,en,1.0
@@ -796,12 +801,13 @@ Universal Orlando's,Universal Orlando's,ORG,0.0,0.4,en,1.0
 Volcano Bay Ditches Tapu Tapu & Refurbishment News,Volcano Bay Ditches Tapu Tapu & Refurbishment News,ORG,0.0,0.0,en,1.0
 Universal Volcano Bay Announces END of Virtual Queue System,Universal Volcano Bay Announces END of Virtual Queue System,ORG,0.2,0.0,en,1.0
 the University of Maryland,the University of Maryland,ORG,0.0,0.0,en,1.0
+the University of Hawaii,the University of Hawaii,ORG,0.0,0.0,en,1.0
+the Department of Earth Sciences,the Department of Earth Sciences,ORG,-0.00045454545454545747,0.0,en,1.0
+eruptThe Independent UW,eruptThe Independent UW,ORG,0.1388888888888889,0.0,en,1.0
+Team,Team,ORG,0.1,0.0,en,1.0
+Supervolcanoes,Supervolcanoes,ORG,0.3333333333333333,0.0,en,1.0
+OCD,OCD,ORG,0.0,0.0,en,1.0
 Milan Cathedral,Milan Cathedral,ORG,0.2571428571428572,0.0,en,1.0
-GeoNet,GeoNet,ORG,0.3,0.0,en,1.0
-The Hawaiian Volcano Observatory,The Hawaiian Volcano Observatory,ORG,0.0,0.0,en,1.0
-vol,vol,ORG,0.016666666666666666,0.0,en,1.0
-airCBS News,airCBS News,ORG,0.20833333333333334,0.0,en,1.0
-Science Advances,Science Advances,ORG,0.0,0.0,en,1.0
 MSN,MSN,ORG,0.15,0.0,en,1.0
 Nicor-Mangilimutan,Nicor-Mangilimutan,ORG,0.0,0.0,en,1.0
 the Mines and Geosciences Bureau,the Mines and Geosciences Bureau,ORG,0.0,0.0,en,1.0
@@ -809,10 +815,8 @@ Blue Alert,Blue Alert,ORG,0.0,0.0,en,1.0
 the Poukai Circuit,the Poukai Circuit,ORG,0.5121212121212121,0.0,en,1.0
 the Department of Tourism,the Department of Tourism,ORG,0.03333333333333333,0.20000000000000004,en,1.0
 DOT,DOT,ORG,0.03333333333333333,0.20000000000000004,en,1.0
+vol,vol,ORG,0.016666666666666666,0.0,en,1.0
 Capitol Sends Water Filtration Trucks,Capitol Sends Water Filtration Trucks,ORG,0.0,0.0,en,1.0
-"BenLurkin
-","BenLurkin
-",ORG,0.0,0.0,en,1.0
 Kanlaon-Hit Areas,Kanlaon-Hit Areas,ORG,0.0,0.0,en,1.0
 Provincial Tourism,Provincial Tourism,ORG,-0.1125,0.0,en,1.0
 Provincial To…,Provincial To…,ORG,-0.1125,0.0,en,1.0
@@ -822,14 +826,15 @@ the Alfred P. Sloan Foundation,the Alfred P. Sloan Foundation,ORG,0.0,0.0,en,1.0
 Yellowstones,Yellowstones,ORG,0.09621212121212122,0.0,en,1.0
 Magma Reservoir Reveals Insights Into Future Volcanic Activity,Magma Reservoir Reveals Insights Into Future Volcanic Activity,ORG,0.0,0.0,en,1.0
 Nature,Nature,ORG,0.33636363636363636,0.4083333333333333,en,1.0
-the University of Hawaii,the University of Hawaii,ORG,0.0,0.0,en,1.0
-eruptThe Independent UW,eruptThe Independent UW,ORG,0.1388888888888889,0.0,en,1.0
-Washington - News,Washington - News,ORG,0.1,0.0,en,1.0
+"BenLurkin
+","BenLurkin
+",ORG,0.0,0.0,en,1.0
+The Hawaiian Volcano Observatory,The Hawaiian Volcano Observatory,ORG,0.0,0.0,en,1.0
+GeoNet,GeoNet,ORG,0.3,0.0,en,1.0
 Volcano Observato,Volcano Observato,ORG,0.1,0.0,en,1.0
-Barzda Factory,Barzda Factory,ORG,0.0,0.0,en,1.0
-Cornell University,Cornell University,ORG,0.15000000000000002,0.0,en,1.0
+the Commission on Elections,the Commission on Elections,ORG,0.0,0.0,en,1.0
+Angeles Times Experts,Angeles Times Experts,ORG,0.20833333333333334,0.0,en,1.0
 Adams,Adams,ORG,0.0,0.0,en,1.0
-the Smithsonian Institution,the Smithsonian Institution,ORG,0.40909090909090906,0.9090909090909091,en,1.0
 Basalt Black,Basalt Black,ORG,-0.3333333333333333,0.43333333333333335,en,1.0
 Atacama Beige Olea Club,Atacama Beige Olea Club,ORG,-0.3333333333333333,0.43333333333333335,en,1.0
 Premium Packages,Premium Packages,ORG,-0.16666666666666666,0.0,en,1.0
@@ -847,21 +852,22 @@ Grandpa TrumanLewiston Tribune,Grandpa TrumanLewiston Tribune,ORG,0.35,0.0,en,1.
 the Center for Volcanology and Geological Disaster Mi,the Center for Volcanology and Geological Disaster Mi,ORG,-0.1,0.0,en,1.0
 CECOT,CECOT,ORG,-0.4,0.30000000000000004,en,1.0
 Center for the Compulsory Housing of Terrorism,Center for the Compulsory Housing of Terrorism,ORG,-0.4,0.30000000000000004,en,1.0
-Low Poly Jungle & Volcano Pack,Low Poly Jungle & Volcano Pack,ORG,0.0,0.0,en,1.0
-Yosemite,Yosemite,ORG,0.0,0.0,en,1.0
-Volcano Engine,Volcano Engine,ORG,0.21428571428571427,0.42857142857142855,en,1.0
-New Espresso Machines,New Espresso Machines,ORG,0.13636363636363635,0.0,en,1.0
-OCD,OCD,ORG,0.0,0.0,en,1.0
-the Commission on Elections,the Commission on Elections,ORG,0.0,0.0,en,1.0
+Washington - News,Washington - News,ORG,0.1,0.0,en,1.0
+WashingtonNews Radio 1310,WashingtonNews Radio 1310,ORG,0.08055555555555556,0.0,en,1.0
+the Los Angeles Times,the Los Angeles Times,ORG,0.020606060606060607,0.0,en,1.0
+- Los Angeles Times,- Los Angeles Times,ORG,0.0,0.0,en,1.0
+the Smithsonian Institution,the Smithsonian Institution,ORG,0.40909090909090906,0.9090909090909091,en,1.0
+Cornell University,Cornell University,ORG,0.15000000000000002,0.0,en,1.0
 Comelec,Comelec,ORG,0.0,0.0,en,1.0
+Barzda Factory,Barzda Factory,ORG,0.0,0.0,en,1.0
 thousa,thousa,ORG,0.0,0.0,en,1.0
 Negros Island,Negros Island,ORG,0.2,0.5,en,1.0
 Office of Civil Defense,Office of Civil Defense,ORG,0.2,0.05,en,1.0
 BACOLOD CITY,BACOLOD CITY,ORG,0.32,0.3688888888888888,en,1.0
 Office of Civil Defense Under…,Office of Civil Defense Under…,ORG,0.0,0.0,en,1.0
 ASAP,ASAP,ORG,0.0,0.0,en,1.0
+New Espresso Machines,New Espresso Machines,ORG,0.13636363636363635,0.0,en,1.0
 Radiohead,Radiohead,ORG,0.05,0.0,en,1.0
-CLI,CLI,ORG,0.0,0.0,en,1.0
 Ice Sheet Expands,Ice Sheet Expands,ORG,0.25,0.0,en,1.0
 "Camera, Tourists Risk Life By Climbing Into Crater Of Active Volcano","Camera, Tourists Risk Life By Climbing Into Crater Of Active Volcano",ORG,-0.13333333333333333,0.0,en,1.0
 AI,AI,ORG,0.0,0.0,en,1.0
@@ -871,4 +877,8 @@ LavaSlim Under Review,LavaSlim Under Review,ORG,-0.15000000000000002,0.0,en,1.0
 Comelec-NIR,Comelec-NIR,ORG,0.2,0.0,en,1.0
 The Commission on Elections,The Commission on Elections,ORG,0.1,0.0,en,1.0
 The Brighter Side of News,The Brighter Side of News,ORG,0.1,0.0,en,1.0
-earth sciences,earth sciences,ORG,0.0,0.0,en,1.0
+CLI,CLI,ORG,0.0,0.0,en,1.0
+Volcano Engine,Volcano Engine,ORG,0.21428571428571427,0.42857142857142855,en,1.0
+Yosemite,Yosemite,ORG,0.0,0.0,en,1.0
+Low Poly Jungle & Volcano Pack,Low Poly Jungle & Volcano Pack,ORG,0.0,0.0,en,1.0
+Motorcy… Stark,Motorcy… Stark,ORG,-0.018750000000000003,0.0,en,1.0
