@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcano',en,Hazard,#4287f5,#638ed4,3,0.07293640284224986
-'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0643503641529094
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.0729364028422498
+'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.05724807952997299
 'ash volcano',en,Hazard,#4287f5,#638ed4,3,0.0517028619192666
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0497070929324129
 'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.0492636357615376
