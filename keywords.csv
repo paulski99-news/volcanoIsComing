@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0375817217877912
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0371495102408425
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0260858883779693
-'volcano flights',en,Impacts,#a89216,#89801d,1,0.025528249285070047
+'volcano flights',en,Impacts,#a89216,#89801d,1,0.02552824928507
 'volcano rescue',en,Mitigation,#9e3215,#d64118,1,0.024074334737075
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0210938053859619
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0029557607205244
-'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0029444763115195
+'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.002952849864791575
