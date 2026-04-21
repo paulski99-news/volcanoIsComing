@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.0335785316769281
 'volcano warning',en,Mitigation,#9e3215,#d64118,1,0.0326406856786536
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0314720068729695
-'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0301222503684257
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0288614539902381
 'ash volcano',en,Hazard,#4287f5,#638ed4,1,0.0273976339686279
-'volcano damage',en,Impacts,#a89216,#87830f,1,0.01976358040012038
+'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.026053957813161843
+'volcano damage',en,Impacts,#a89216,#87830f,1,0.0197635804001203
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0180093970239894
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0030802404668628
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0021580238293717
