@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcano',en,Hazard,#4287f5,#638ed4,3,0.0787222577368513
-'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.06143454994155248
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.08005052225814178
+'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0614345499415524
 'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.0472997525381617
 'volcano tectonic',en,Causes,#679e2c,#477515,1,0.0397403188685748
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,1,0.038960928964576
