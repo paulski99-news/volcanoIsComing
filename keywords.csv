@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.1133118434544915
-'volcano',en,Hazard,#4287f5,#638ed4,3,0.06331486874871853
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.0633148687487185
 'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0612698174503195
-'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.051079167066626
+'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.04656810200663209
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0401140122547757
 'ash volcano',en,Hazard,#4287f5,#638ed4,2,0.0383123969247766
 'volcano tectonic',en,Causes,#679e2c,#477515,1,0.036803749774871
