@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.0346648908611856
 'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.0335785316769281
 'volcano tectonic',en,Causes,#679e2c,#477515,1,0.0335334123086403
-'magma volcano',en,Hazard,#4287f5,#638ed4,1,0.0301749832370965
 'volcano warning',en,Mitigation,#9e3215,#d64118,1,0.0296948228268555
 'volcano death',en,Impacts,#a89216,#87830f,2,0.0287593422685297
+'magma volcano',en,Hazard,#4287f5,#638ed4,1,0.028349050751532025
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0222958941411875
 'volcano damage',en,Impacts,#a89216,#87830f,1,0.0197811704382237
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0162080924703909
-'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0028561644586691448
+'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0028561644586691
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0020498055420624
