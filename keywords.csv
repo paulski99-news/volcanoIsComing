@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano warning',en,Mitigation,#9e3215,#d64118,1,0.0296948228268555
 'magma volcano',en,Hazard,#4287f5,#638ed4,1,0.028349050751532
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0249464580543083
-'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0222958941411875
+'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.021501855020009373
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0162080924703909
-'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.004411341321388395
+'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0044113413213883
 'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0028024911785189
