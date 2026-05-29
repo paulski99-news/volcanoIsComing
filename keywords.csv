@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano victims',en,Impacts,#a89216,#87830f,2,0.0549645689964965
 'lava volcano',en,Hazard,#4287f5,#638ed4,3,0.0464812633831886
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0405398645637528
+'volcano death',en,Impacts,#a89216,#87830f,3,0.038042448598739856
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0374720537137035
-'volcano death',en,Impacts,#a89216,#87830f,3,0.0341664042338116
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,2,0.0326869161141245
 'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.0324424569253888
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.031671747492403
