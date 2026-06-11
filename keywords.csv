@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0417410801069887
 'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.0395100488757103
 'volcano damage',en,Impacts,#a89216,#87830f,3,0.0344209248615048
-'volcano death',en,Impacts,#a89216,#87830f,3,0.031693678471970764
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.031671747492403
+'volcano death',en,Impacts,#a89216,#87830f,3,0.03144067670117509
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.0313096548924549
 'volcano alert',en,Mitigation,#9e3215,#d64118,2,0.0296809831285933
 'volcano tectonic',en,Causes,#679e2c,#477515,1,0.0286458321429925
