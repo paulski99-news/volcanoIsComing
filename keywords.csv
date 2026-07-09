@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano',en,Hazard,#4287f5,#638ed4,3,0.1090356455400982
 'lava volcano',en,Hazard,#4287f5,#638ed4,2,0.0565098572073186
-'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0516581319790688
+'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.05306077718220848
 'volcano flights',en,Impacts,#a89216,#89801d,1,0.0484866642802085
 'ash volcano',en,Hazard,#4287f5,#638ed4,1,0.0460897031391399
 'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0450961395596678
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano victims',en,Impacts,#a89216,#87830f,1,0.0285551817727057
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0271238925790793
 'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.0252291356593043
-'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.023904914743576536
+'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.0239049147435765
 'volcano death',en,Impacts,#a89216,#87830f,2,0.0225857706878675
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.0209912439835794
 'volcano tectonic',en,Causes,#679e2c,#477515,1,0.0209603334523151
