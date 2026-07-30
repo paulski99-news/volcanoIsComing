@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcano',en,Hazard,#4287f5,#638ed4,3,0.09808500907723197
+'volcano',en,Hazard,#4287f5,#638ed4,3,0.0980850090772319
 'ash volcano',en,Hazard,#4287f5,#638ed4,2,0.0513171860898297
 'volcano evacuation',en,Mitigation,#9e3215,#802d16,1,0.0495802120133386
 'volcano activity',en,Hazard,#4287f5,#638ed4,3,0.0396354584116618
@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,1,0.0274132937436371
 'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.0256649770774945
 'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.0242951403104086
-'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.0050166972388695
+'volcano solidarity',en,Mitigation,#9e3215,#802d16,1,0.005314297653039075
 'volcano cleanup',en,Mitigation,#9e3215,#9e3215,1,0.0040930232515419
