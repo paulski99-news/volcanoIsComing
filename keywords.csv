@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'volcano death',en,Impacts,#a89216,#87830f,3,0.0335399867032273
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0329938711436395
 'volcano damage',en,Impacts,#a89216,#87830f,2,0.0326973441383847
+'volcano victims',en,Impacts,#a89216,#87830f,1,0.029518719660392895
 'volcano tectonic',en,Causes,#679e2c,#477515,1,0.0280378582160183
-'volcano victims',en,Impacts,#a89216,#87830f,1,0.0279736653758633
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,1,0.0274132937436371
 'volcano rescue',en,Mitigation,#9e3215,#d64118,2,0.0256649770774945
 'volcano alert',en,Mitigation,#9e3215,#d64118,1,0.0242951403104086
