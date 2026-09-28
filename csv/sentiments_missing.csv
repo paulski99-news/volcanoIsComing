@@ -822,9 +822,9 @@ SATURDAY,SATURDAY,DATE,,,en,1.1
 Xbox Series X/S,Xbox Series X/S,EVENT,,,en,1.1
 SIX,SIX,CARDINAL,,,en,1.1
 several years,several years,DATE,,,en,1.1
-SATURDAY SIX,SATURDAY SIX,EVENT,,,en,1.1
-April 4,April 4,DATE,,,en,1.1
 one day,one day,DATE,,,en,1.1
+April 4,April 4,DATE,,,en,1.1
+SATURDAY SIX,SATURDAY SIX,EVENT,,,en,1.1
 This week’s,This week’s,DATE,,,en,1.1
 Silurian,Silurian,NORP,,,en,1.1
 single day,single day,DATE,,,en,1.1
@@ -1423,9 +1423,9 @@ Nat Geo,Nat Geo,WORK_OF_ART,,,en,1.0
 10.1039,10.1039,CARDINAL,,,en,1.0
 early Thursday,early Thursday,DATE,,,en,1.0
 Special Edition,Special Edition,WORK_OF_ART,,,en,1.0
+Sumaco,Sumaco,NORP,0.25,0.3333333333333333,en,1.0
 Galeras National Park,Galeras National Park,FAC,,,en,1.0
 Andean,Andean,NORP,,,en,1.0
-2015.</li><li,2015.</li><li,CARDINAL,,,en,1.0
 THIS YEAR,THIS YEAR,DATE,,,en,1.0
 Terminator 2:,Terminator 2:,WORK_OF_ART,,,en,1.0
 Judgment Day,Judgment Day,DATE,,,en,1.0
@@ -1437,7 +1437,7 @@ Volcano Eruption,Volcano Eruption,FAC,-0.1625,0.2125,en,1.0
 the second half,the second half,DATE,,,en,1.0
 Shenzhen Bao'an International,Shenzhen Bao'an International,FAC,,,en,1.0
 Eurasian,Eurasian,NORP,,,en,1.0
-Sumaco,Sumaco,NORP,0.25,0.3333333333333333,en,1.0
+2015.</li><li,2015.</li><li,CARDINAL,,,en,1.0
 "5,000 metres","5,000 metres",QUANTITY,,,en,1.0
 Aussie,Aussie,NORP,,,en,1.0
 the Cascade Range - Yahoo,the Cascade Range - Yahoo,FAC,,,en,1.0
@@ -1579,9 +1579,9 @@ This Past Week,This Past Week,DATE,,,en,1.0
 the first day,the first day,DATE,,,en,1.0
 the past decade,the past decade,DATE,,,en,1.0
 an hour later,an hour later,TIME,,,en,1.0
-August 2026,August 2026,DATE,,,en,1.0
 more than 180,more than 180,CARDINAL,,,en,1.0
 Mondays 7.4,Mondays 7.4,DATE,,,en,1.0
+August 2026,August 2026,DATE,,,en,1.0
 the end of 2025,the end of 2025,DATE,,,en,1.0
 between July 2024,between July 2024,DATE,,,en,1.0
 300 miles,300 miles,QUANTITY,,,en,1.0
@@ -2025,8 +2025,8 @@ Bali Flights Cancelled After Indonesia Volcano Eruption,Bali Flights Cancelled A
 "Wednesday, June 18","Wednesday, June 18",DATE,,,en,1.0
 New Zealanders,New Zealanders,NORP,,,en,1.0
 up to 10km,up to 10km,QUANTITY,,,en,1.0
-150 kilometres,150 kilometres,QUANTITY,,,en,1.0
 About three three dozen,About three three dozen,CARDINAL,,,en,1.0
+150 kilometres,150 kilometres,QUANTITY,,,en,1.0
 "250,000 years","250,000 years",DATE,,,en,1.0
 about 5 miles,about 5 miles,QUANTITY,,,en,1.0
 This October,This October,DATE,,,en,1.0
@@ -2554,11 +2554,11 @@ Thursdays,Thursdays,DATE,,,en,1.0
 NYT Mini,NYT Mini,PRODUCT,,,en,1.0
 "Friday, October 31","Friday, October 31",DATE,,,en,1.0
 12.30pm,12.30pm,CARDINAL,,,en,1.0
-Feb. 3,Feb. 3,DATE,,,en,1.0
 +2908,+2908,NORP,,,en,1.0
 millions of dollars,millions of dollars,MONEY,,,en,1.0
 the Base of a Volcano,the Base of a Volcano,FAC,,,en,1.0
 $34 Million,$34 Million,MONEY,,,en,1.0
+Feb. 3,Feb. 3,DATE,,,en,1.0
 Granadas Iglesia de la Merced,Granadas Iglesia de la Merced,FAC,,,en,1.0
 Christmas,Christmas,DATE,,,en,1.0
 R.,R.,NORP,,,en,1.0
@@ -2620,10 +2620,10 @@ around 70-90 years to around seven to nine years,around 70-90 years to around se
 36%,36%,PERCENT,,,en,1.0
 "2,199","2,199",MONEY,,,en,1.0
 March 28,March 28,DATE,,,en,1.0
-+15392,+15392,NORP,,,en,1.0
-a couple hundred,a couple hundred,CARDINAL,,,en,1.0
 "Around 2,000 years ago","Around 2,000 years ago",DATE,,,en,1.0
 "2,000 years","2,000 years",DATE,,,en,1.0
++15392,+15392,NORP,,,en,1.0
+a couple hundred,a couple hundred,CARDINAL,,,en,1.0
 October 16,October 16,DATE,,,en,1.0
 953 tons,953 tons,QUANTITY,,,en,1.0
 Astle Go Chasing the Trail,Astle Go Chasing the Trail,WORK_OF_ART,,,en,1.0
