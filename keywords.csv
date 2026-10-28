@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.0937195729556988
 'ash volcano',en,Hazard,#4287f5,#638ed4,2,0.0919996903582331
 'volcano',en,Hazard,#4287f5,#638ed4,3,0.0880353500578871
+'volcanic spewing',en,Hazard,#4287f5,#3b4a63,1,0.07996166701234399
 'volcano erupt',en,Hazard,#4287f5,#3b4a63,1,0.0556101847082467
 'magma volcano',en,Hazard,#4287f5,#638ed4,2,0.0497366496257595
 'volcano warning',en,Mitigation,#9e3215,#d64118,2,0.0491311216751784
