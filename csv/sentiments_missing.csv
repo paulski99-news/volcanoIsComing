@@ -257,11 +257,11 @@ July,July,DATE,,,en,2.9
 millions of years,millions of years,DATE,,,en,2.9
 Lebanese,Lebanese,NORP,,,en,2.9
 1997,1997,DATE,,,en,2.8000000000000003
-Colombian,Colombian,NORP,,,en,2.8
+Forty years,Forty years,DATE,,,en,2.8
 26,26,CARDINAL,,,en,2.8
 1979,1979,DATE,,,en,2.8
 02,02,CARDINAL,,,en,2.8
-Forty years,Forty years,DATE,,,en,2.8
+Colombian,Colombian,NORP,,,en,2.8
 April 28,April 28,DATE,,,en,2.8
 two-minute,two-minute,TIME,,,en,2.8
 Avatar:,Avatar:,WORK_OF_ART,,,en,2.8
@@ -822,9 +822,9 @@ SATURDAY,SATURDAY,DATE,,,en,1.1
 Xbox Series X/S,Xbox Series X/S,EVENT,,,en,1.1
 SIX,SIX,CARDINAL,,,en,1.1
 several years,several years,DATE,,,en,1.1
-one day,one day,DATE,,,en,1.1
-April 4,April 4,DATE,,,en,1.1
 SATURDAY SIX,SATURDAY SIX,EVENT,,,en,1.1
+April 4,April 4,DATE,,,en,1.1
+one day,one day,DATE,,,en,1.1
 This week’s,This week’s,DATE,,,en,1.1
 Silurian,Silurian,NORP,,,en,1.1
 single day,single day,DATE,,,en,1.1
@@ -1143,7 +1143,9 @@ the Volcán de Fuego,the Volcán de Fuego,FAC,,,en,1.0
 1953,1953,DATE,,,en,1.0
 1992,1992,DATE,,,en,1.0
 3:30 a.m. EST,3:30 a.m. EST,TIME,,,en,1.0
-1347,1347,DATE,,,en,1.0
+"the Black Death
+ ","the Black Death
+ ",EVENT,,,en,1.0
 yearsLive,yearsLive,TIME,,,en,1.0
 November 25,November 25,DATE,,,en,1.0
 11/26/2025 5,11/26/2025 5,DATE,,,en,1.0
@@ -1171,10 +1173,8 @@ the Alaska Volcano Observatory,the Alaska Volcano Observatory,FAC,,,en,1.0
 just a few minutes,just a few minutes,TIME,,,en,1.0
 9 hours,9 hours,TIME,,,en,1.0
 11/30/2025 4:33:36,11/30/2025 4:33:36,DATE,,,en,1.0
-"the Black Death
- ","the Black Death
- ",EVENT,,,en,1.0
 the mid-14th century,the mid-14th century,DATE,,,en,1.0
+1347,1347,DATE,,,en,1.0
 the weeks or months ahead,the weeks or months ahead,DATE,,,en,1.0
 between a third and half,between a third and half,CARDINAL,,,en,1.0
 recent decades,recent decades,DATE,,,en,1.0
@@ -1350,10 +1350,10 @@ last April,last April,DATE,,,en,1.0
 Santiaguito Volcano,Santiaguito Volcano,FAC,,,en,1.0
 more than 100 feet,more than 100 feet,QUANTITY,,,en,1.0
 Fairbanks International Airport,Fairbanks International Airport,FAC,,,en,1.0
+Echinococcus,Echinococcus,NORP,,,en,1.0
 "Introduction
 Volcanic Eruptions","Introduction
 Volcanic Eruptions",PRODUCT,,,en,1.0
-Echinococcus,Echinococcus,NORP,,,en,1.0
 the Cold War,the Cold War,EVENT,,,en,1.0
 "10,023 feet","10,023 feet",QUANTITY,,,en,1.0
 more than 100,more than 100,CARDINAL,,,en,1.0
@@ -1579,9 +1579,9 @@ This Past Week,This Past Week,DATE,,,en,1.0
 the first day,the first day,DATE,,,en,1.0
 the past decade,the past decade,DATE,,,en,1.0
 an hour later,an hour later,TIME,,,en,1.0
+August 2026,August 2026,DATE,,,en,1.0
 more than 180,more than 180,CARDINAL,,,en,1.0
 Mondays 7.4,Mondays 7.4,DATE,,,en,1.0
-August 2026,August 2026,DATE,,,en,1.0
 the end of 2025,the end of 2025,DATE,,,en,1.0
 between July 2024,between July 2024,DATE,,,en,1.0
 300 miles,300 miles,QUANTITY,,,en,1.0
@@ -2025,8 +2025,8 @@ Bali Flights Cancelled After Indonesia Volcano Eruption,Bali Flights Cancelled A
 "Wednesday, June 18","Wednesday, June 18",DATE,,,en,1.0
 New Zealanders,New Zealanders,NORP,,,en,1.0
 up to 10km,up to 10km,QUANTITY,,,en,1.0
-150 kilometres,150 kilometres,QUANTITY,,,en,1.0
 About three three dozen,About three three dozen,CARDINAL,,,en,1.0
+150 kilometres,150 kilometres,QUANTITY,,,en,1.0
 "250,000 years","250,000 years",DATE,,,en,1.0
 about 5 miles,about 5 miles,QUANTITY,,,en,1.0
 This October,This October,DATE,,,en,1.0
@@ -2554,11 +2554,11 @@ Thursdays,Thursdays,DATE,,,en,1.0
 NYT Mini,NYT Mini,PRODUCT,,,en,1.0
 "Friday, October 31","Friday, October 31",DATE,,,en,1.0
 12.30pm,12.30pm,CARDINAL,,,en,1.0
+Feb. 3,Feb. 3,DATE,,,en,1.0
 +2908,+2908,NORP,,,en,1.0
 millions of dollars,millions of dollars,MONEY,,,en,1.0
 the Base of a Volcano,the Base of a Volcano,FAC,,,en,1.0
 $34 Million,$34 Million,MONEY,,,en,1.0
-Feb. 3,Feb. 3,DATE,,,en,1.0
 Granadas Iglesia de la Merced,Granadas Iglesia de la Merced,FAC,,,en,1.0
 Christmas,Christmas,DATE,,,en,1.0
 R.,R.,NORP,,,en,1.0
@@ -2620,10 +2620,10 @@ around 70-90 years to around seven to nine years,around 70-90 years to around se
 36%,36%,PERCENT,,,en,1.0
 "2,199","2,199",MONEY,,,en,1.0
 March 28,March 28,DATE,,,en,1.0
-"Around 2,000 years ago","Around 2,000 years ago",DATE,,,en,1.0
-"2,000 years","2,000 years",DATE,,,en,1.0
 +15392,+15392,NORP,,,en,1.0
 a couple hundred,a couple hundred,CARDINAL,,,en,1.0
+"Around 2,000 years ago","Around 2,000 years ago",DATE,,,en,1.0
+"2,000 years","2,000 years",DATE,,,en,1.0
 October 16,October 16,DATE,,,en,1.0
 953 tons,953 tons,QUANTITY,,,en,1.0
 Astle Go Chasing the Trail,Astle Go Chasing the Trail,WORK_OF_ART,,,en,1.0
@@ -2740,7 +2740,7 @@ more than a dozen,more than a dozen,CARDINAL,,,en,1.0
 ExoMars Trace Gas Orbiter,ExoMars Trace Gas Orbiter,PRODUCT,,,en,1.0
 48km,48km,QUANTITY,,,en,1.0
 November 1 to 8,November 1 to 8,DATE,,,en,1.0
-Presbyterian,Presbyterian,NORP,,,en,1.0
+Mar 21,Mar 21,DATE,,,en,1.0
 as high as 2km,as high as 2km,QUANTITY,,,en,1.0
 Hawaii Volcanoes National Par,Hawaii Volcanoes National Par,FAC,,,en,1.0
 some 2 kilometres,some 2 kilometres,QUANTITY,,,en,1.0
@@ -2754,7 +2754,7 @@ Nov 16,Nov 16,DATE,,,en,1.0
 "26,200 feet","26,200 feet",QUANTITY,,,en,1.0
 The summerless year of 1816,The summerless year of 1816,DATE,,,en,1.0
 At least seven,At least seven,CARDINAL,,,en,1.0
-Mar 21,Mar 21,DATE,,,en,1.0
+Presbyterian,Presbyterian,NORP,,,en,1.0
 8km,8km,QUANTITY,,,en,1.0
 Democratic,Democratic,NORP,,,en,1.0
 11 minutes and nine seconds,11 minutes and nine seconds,TIME,,,en,1.0
